@@ -5,3 +5,4 @@
 *.project
 *.pydevproject
 output/*
+data/word_vectors/*
