@@ -1,0 +1,1 @@
+Startup in about 30 seconds , shutdown in 2 - 4 seconds , resume from sleep in 0 - 2 seconds . 

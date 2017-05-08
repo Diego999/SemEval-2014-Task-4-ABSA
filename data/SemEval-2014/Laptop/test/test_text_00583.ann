@@ -1,0 +1,6 @@
+T1	MISC 0 4	WiFi
+T2	MISC 5 15	capability
+T3	MISC 18 22	disk
+T4	MISC 23 28	drive
+T5	MISC 42 45	USB
+T6	MISC 46 51	ports

@@ -1,0 +1,5 @@
+--- 
+format: SequenceTagging
+restricted_access: false
+description: English ABSA SemEval-2014
+name: ABSA_SemEval-2014

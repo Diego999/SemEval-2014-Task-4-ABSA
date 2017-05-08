@@ -1,0 +1,1 @@
+Features such as the Dashboard ( allows you to view frequently used tools like a calculator , weather forecast , movie times , calendar , computer post its etc . 
