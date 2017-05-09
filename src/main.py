@@ -26,9 +26,11 @@ import random
 import evaluate
 import configparser
 import train
+import sys
 from pprint import pprint
 from entity_lstm import EntityLSTM
 from tensorflow.contrib.tensorboard.plugins import projector
+
 
 # http://stackoverflow.com/questions/42217532/tensorflow-version-1-0-0-rc2-on-windows-opkernel-op-bestsplits-device-typ
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -138,10 +140,14 @@ def check_parameter_compatiblity(parameters, dataset_filepaths):
     
     if parameters['gradient_clipping_value'] < 0:
         parameters['gradient_clipping_value'] = abs(parameters['gradient_clipping_value'])
-    
-def main():
 
-    parameters, conf_parameters = load_parameters()
+
+def main():
+    file_params = 'parameters.ini'
+    if len(sys.argv) > 1 and '.ini' in sys.argv[1]:
+        file_params = sys.argv[1]
+
+    parameters, conf_parameters = load_parameters(parameters_filepath=os.path.join('.', file_params))
     dataset_filepaths, dataset_brat_folders = get_valid_dataset_filepaths(parameters)
     check_parameter_compatiblity(parameters, dataset_filepaths)
 
@@ -184,7 +190,7 @@ def main():
             utils.create_folder_if_not_exists(stats_graph_folder)
             model_folder = os.path.join(stats_graph_folder, 'model')
             utils.create_folder_if_not_exists(model_folder)
-            with open(os.path.join(model_folder, 'parameters.ini'), 'w') as parameters_file:
+            with open(os.path.join(model_folder, file_params), 'w') as parameters_file:
                 conf_parameters.write(parameters_file)
             tensorboard_log_folder = os.path.join(stats_graph_folder, 'tensorboard_logs')
             utils.create_folder_if_not_exists(tensorboard_log_folder)
