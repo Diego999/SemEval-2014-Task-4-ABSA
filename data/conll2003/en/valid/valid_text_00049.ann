@@ -1,0 +1,30 @@
+T1	LOC 4 11	Belarus
+T2	PER 43 57	Larisa Sayenko
+T3	LOC 59 64	MINSK
+T4	LOC 86 93	Belarus
+T5	PER 123 143	Alexander Lukashenko
+T6	MISC 207 213	Soviet
+T7	LOC 245 252	Belarus
+T8	PER 266 282	Semyon Sharetsky
+T9	ORG 290 297	Reuters
+T10	PER 510 520	Lukashenko
+T11	MISC 538 546	European
+T12	PER 644 653	Sharetsky
+T13	PER 866 876	Lukashenko
+T14	PER 899 908	Sharetsky
+T15	PER 1010 1025	Sergei Posukhov
+T16	PER 1028 1038	Lukashenko
+T17	ORG 1067 1074	Reuters
+T18	PER 1154 1164	Lukashenko
+T19	LOC 1284 1290	Russia
+T20	LOC 1334 1346	Soviet Union
+T21	PER 1461 1470	Sharetsky
+T22	PER 1755 1765	Lukashenko
+T23	LOC 1785 1791	Moscow
+T24	LOC 1958 1964	Moscow
+T25	LOC 1980 1986	Russia
+T26	PER 2002 2012	Lukashenko
+T27	PER 2045 2055	Lukashenko
+T28	LOC 2201 2214	United States
+T29	PER 2278 2291	Zenon Poznyak
+T30	PER 2296 2311	Sergei Naumchik

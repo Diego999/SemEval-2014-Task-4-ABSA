@@ -1,0 +1,15 @@
+T1	ORG 0 11	SIMEX Brent
+T2	ORG 38 41	IPE
+T3	LOC 53 62	SINGAPORE
+T4	ORG 79 84	Brent
+T5	ORG 113 154	Singapore International Monetary Exchange
+T6	ORG 157 162	SIMEX
+T7	LOC 203 207	U.K.
+T8	ORG 232 243	SIMEX Brent
+T9	ORG 288 320	International Petroleum Exchange
+T10	ORG 323 326	IPE
+T11	LOC 332 338	London
+T12	MISC 363 370	British
+T13	LOC 407 416	Singapore
+T14	LOC 465 471	London
+T15	ORG 478 496	Singapore Newsroom

@@ -1,0 +1,15 @@
+T1	ORG 0 12	SoCal Edison
+T2	LOC 46 54	NEW YORK
+T3	ORG 67 96	Southern California Edison Co
+T4	LOC 162 172	California
+T5	LOC 273 284	Los Angeles
+T6	PER 371 383	Steve Conroy
+T7	ORG 617 629	SoCal Edison
+T8	LOC 642 648	Sierra
+T9	PER 685 691	Conroy
+T10	LOC 750 756	Sierra
+T11	LOC 766 777	Los Angeles
+T12	LOC 853 859	Sierra
+T13	PER 1092 1098	Conroy
+T14	PER 1386 1393	R Leong
+T15	ORG 1396 1415	New York Power Desk

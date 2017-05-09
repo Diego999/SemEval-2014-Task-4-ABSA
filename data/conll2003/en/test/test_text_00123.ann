@@ -1,0 +1,19 @@
+T1	MISC 34 42	American
+T2	LOC 50 57	CHICAGO
+T3	LOC 121 134	United States
+T4	LOC 269 282	United States
+T5	PER 498 514	Michael Cornwell
+T6	ORG 522 545	Glencoe Animal Hospital
+T7	LOC 549 557	Columbus
+T8	LOC 560 564	Ohio
+T9	ORG 598 637	American Veterinary Medical Association
+T10	PER 804 812	Cornwell
+T11	PER 1023 1032	Don Rieck
+T12	ORG 1052 1087	National Animal Control Association
+T13	MISC 1328 1339	Rottweilers
+T14	MISC 1342 1358	German shepherds
+T15	MISC 1361 1376	cocker spaniels
+T16	MISC 1381 1391	Dalmatians
+T17	MISC 1595 1603	Doberman
+T18	MISC 1615 1626	Rottweilers
+T19	PER 1649 1654	Rieck

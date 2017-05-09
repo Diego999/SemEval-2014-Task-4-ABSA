@@ -1,0 +1,53 @@
+T1	ORG 11 18	YANKEES
+T2	LOC 50 57	SEATTLE
+T3	PER 70 80	Jay Buhner
+T4	MISC 114 120	Yankee
+T5	PER 121 137	Terry Mulholland
+T6	ORG 180 196	Seattle Mariners
+T7	ORG 218 226	New York
+T8	ORG 375 383	Mariners
+T9	ORG 400 407	Yankees
+T10	LOC 472 480	Kingdome
+T11	ORG 516 523	Yankees
+T12	PER 537 549	Paul O'Neill
+T13	ORG 554 561	Seattle
+T14	PER 570 582	John Marzano
+T15	PER 606 613	O'Neill
+T16	LOC 642 651	Baltimore
+T17	PER 654 665	Don Wengert
+T18	PER 712 724	Jose Herrera
+T19	ORG 781 798	Oakland Athletics
+T20	ORG 811 828	Baltimore Orioles
+T21	PER 836 843	Wengert
+T22	ORG 991 998	Oakland
+T23	LOC 1005 1012	Chicago
+T24	PER 1015 1028	James Baldwin
+T25	PER 1082 1092	Ray Durham
+T26	PER 1097 1110	Ozzie Guillen
+T27	MISC 1115 1118	RBI
+T28	ORG 1152 1169	Chicago White Sox
+T29	ORG 1182 1199	Milwaukee Brewers
+T30	PER 1207 1214	Baldwin
+T31	LOC 1270 1277	Chicago
+T32	PER 1330 1342	Dave Nilsson
+T33	ORG 1366 1373	Brewers
+T34	LOC 1380 1391	Kansas City
+T35	PER 1394 1407	Jose Offerman
+T36	PER 1457 1469	Johnny Damon
+T37	ORG 1506 1524	Kansas City Royals
+T38	ORG 1551 1564	Texas Rangers
+T39	PER 1568 1580	Rick Huisman
+T40	LOC 1669 1676	Toronto
+T41	PER 1679 1690	Pat Hentgen
+T42	ORG 1802 1819	Toronto Blue Jays
+T43	ORG 1833 1848	Minnesota Twins
+T44	PER 1888 1895	Hentgen
+T45	LOC 2114 2121	Detroit
+T46	PER 2124 2138	Orel Hershiser
+T47	PER 2176 2188	Albert Belle
+T48	ORG 2241 2258	Cleveland Indians
+T49	ORG 2291 2305	Detroit Tigers
+T50	PER 2328 2337	Hershiser
+T51	ORG 2511 2518	Detroit
+T52	LOC 2545 2555	California
+T53	LOC 2562 2569	Seattle

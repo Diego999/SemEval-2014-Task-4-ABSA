@@ -1,0 +1,81 @@
+T1	LOC 0 4	GOLF
+T2	MISC 7 22	BRITISH MASTERS
+T3	LOC 45 56	NORTHAMPTON
+T4	LOC 59 66	England
+T5	MISC 138 153	British Masters
+T6	LOC 176 192	Collingtree Park
+T7	LOC 208 215	Britain
+T8	PER 239 253	Gavin Levenson
+T9	LOC 256 268	South Africa
+T10	PER 275 292	Colin Montgomerie
+T11	PER 297 309	Jose Coceres
+T12	LOC 312 321	Argentina
+T13	PER 326 341	Raymond Russell
+T14	PER 344 358	Robert Allenby
+T15	LOC 362 371	Australia
+T16	PER 376 389	David Gilford
+T17	PER 392 403	Stuart Cage
+T18	PER 406 418	Mike Clayton
+T19	LOC 422 431	Australia
+T20	PER 436 444	Mark Roe
+T21	PER 447 464	Emanuele Canonica
+T22	LOC 467 472	Italy
+T23	PER 479 492	Francisco Cea
+T24	LOC 495 500	Spain
+T25	PER 505 517	David Howell
+T26	PER 520 533	Peter Hedblom
+T27	LOC 537 543	Sweden
+T28	PER 550 566	Steven Bottomley
+T29	PER 569 581	Ove Sellberg
+T30	LOC 584 590	Sweden
+T31	PER 595 610	Joakim Haeggman
+T32	LOC 614 620	Sweden
+T33	PER 625 637	Stephen Ames
+T34	LOC 640 659	Trinidad and Tobago
+T35	PER 664 677	Klas Eriksson
+T36	LOC 681 687	Sweden
+T37	PER 692 705	Roger Chapman
+T38	PER 708 718	Mark Davis
+T39	PER 721 733	Pierre Fulke
+T40	LOC 736 742	Sweden
+T41	PER 748 760	Martin Gates
+T42	PER 763 777	Anders Haglund
+T43	LOC 780 786	Sweden
+T44	PER 793 805	Niclas Fasth
+T45	LOC 808 814	Sweden
+T46	PER 819 833	Michael Jonzon
+T47	LOC 836 842	Sweden
+T48	PER 847 855	Chistian
+T49	PER 857 863	Cevaer
+T50	LOC 866 872	France
+T51	PER 877 889	Thomas Bjorn
+T52	LOC 892 899	Denmark
+T53	PER 904 918	Tony Johnstone
+T54	LOC 922 930	Zimbabwe
+T55	PER 935 953	Padraig Harrington
+T56	LOC 956 963	Ireland
+T57	PER 968 981	Pedro Linhart
+T58	LOC 985 990	Spain
+T59	PER 995 1007	David Carter
+T60	PER 1012 1026	Ross McFarlane
+T61	PER 1029 1045	Domingo Hospital
+T62	LOC 1048 1053	Spain
+T63	PER 1058 1074	Seve Ballesteros
+T64	LOC 1078 1083	Spain
+T65	PER 1088 1103	Paul Broadhurst
+T66	PER 1106 1117	Greg Turner
+T67	LOC 1120 1131	New Zealand
+T68	PER 1136 1140	Mike
+T69	PER 1142 1149	Harwood
+T70	LOC 1152 1161	Australia
+T71	PER 1166 1180	Brenden Pappas
+T72	LOC 1183 1195	South Africa
+T73	PER 1200 1205	Peter
+T74	PER 1207 1217	Teravainen
+T75	LOC 1220 1224	U.S.
+T76	PER 1229 1246	Jean Van de Velde
+T77	LOC 1249 1255	France
+T78	PER 1260 1273	Oyvind Rojahn
+T79	LOC 1277 1283	Norway
+T80	PER 1288 1306	Stephen McAllister
+T81	PER 1309 1320	Neal Briggs

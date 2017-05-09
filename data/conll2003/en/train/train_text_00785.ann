@@ -1,0 +1,31 @@
+T1	LOC 0 5	Japan
+T2	LOC 48 53	TOKYO
+T3	LOC 100 105	Japan
+T4	ORG 243 261	New Party Sakigake
+T5	PER 272 290	Masayoshi Takemura
+T6	PER 487 495	Takemura
+T7	ORG 557 565	Sakigake
+T8	PER 632 649	Ryutaro Hashimoto
+T9	ORG 653 677	Liberal Democratic Party
+T10	ORG 680 683	LDP
+T11	ORG 719 742	Social Democratic Party
+T12	ORG 842 850	Sakigake
+T13	PER 959 967	Takemura
+T14	ORG 982 990	Sakigake
+T15	ORG 1020 1023	LDP
+T16	PER 1064 1078	Yukio Hatoyama
+T17	ORG 1104 1112	Sakigake
+T18	PER 1163 1171	Hatoyama
+T19	ORG 1246 1254	Sakigake
+T20	PER 1314 1322	Takemura
+T21	PER 1539 1547	Takemura
+T22	PER 1558 1566	Hatoyama
+T23	MISC 1612 1625	LDP-dominated
+T24	PER 1655 1663	Takemura
+T25	PER 1835 1843	Hatoyama
+T26	ORG 1977 1985	Sakigake
+T27	MISC 2019 2035	Social Democrats
+T28	PER 2050 2058	Hatoyama
+T29	PER 2123 2132	Hashimoto
+T30	PER 2166 2175	Hashimoto
+T31	MISC 2205 2219	Latin American

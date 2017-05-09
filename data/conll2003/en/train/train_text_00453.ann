@@ -1,0 +1,19 @@
+T1	PER 0 7	Yeltsin
+T2	ORG 33 41	Interfax
+T3	LOC 45 51	MOSCOW
+T4	MISC 64 71	Russian
+T5	PER 82 95	Boris Yeltsin
+T6	ORG 183 191	Interfax
+T7	PER 285 305	Sergei Yastrzhembsky
+T8	LOC 363 370	Kremlin
+T9	LOC 386 392	Moscow
+T10	ORG 396 404	Interfax
+T11	PER 410 424	Yastrezhembsky
+T12	PER 446 453	Yeltsin
+T13	PER 609 619	B. Yeltsin
+T14	ORG 684 692	Interfax
+T15	PER 700 714	Yastrezhembsky
+T16	PER 732 739	Yeltsin
+T17	LOC 835 841	Moscow
+T18	PER 973 980	Yeltsin
+T19	LOC 1012 1018	Moscow

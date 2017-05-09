@@ -1,0 +1,8 @@
+T1	ORG 0 4	DBRS
+T2	ORG 14 24	Power Corp
+T3	ORG 27 32	Power
+T4	LOC 54 61	TORONTO
+T5	ORG 74 102	Dominion Bond Rating Service
+T6	ORG 147 167	Power Corp of Canada
+T7	ORG 267 271	DBRS
+T8	ORG 295 315	Power Financial Corp

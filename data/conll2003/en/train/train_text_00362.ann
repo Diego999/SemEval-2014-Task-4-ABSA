@@ -1,0 +1,42 @@
+T1	MISC 10 15	SWISS
+T2	MISC 16 26	GRAND PRIX
+T3	LOC 37 43	ZURICH
+T4	MISC 87 92	Swiss
+T5	MISC 93 103	Grand Prix
+T6	MISC 104 113	World Cup
+T7	PER 143 159	Andrea Ferrigato
+T8	LOC 162 167	Italy
+T9	PER 204 219	Michele Bartoli
+T10	LOC 222 227	Italy
+T11	PER 234 247	Johan Museeuw
+T12	LOC 250 257	Belgium
+T13	PER 264 279	Lance Armstrong
+T14	LOC 282 286	U.S.
+T15	PER 293 313	Francesco Casagrande
+T16	LOC 316 321	Italy
+T17	PER 328 346	Alessandro Baronti
+T18	LOC 349 354	Italy
+T19	PER 361 380	Frank Vandenbroucke
+T20	LOC 383 390	Belgium
+T21	PER 411 424	Fabio Baldato
+T22	LOC 427 432	Italy
+T23	PER 457 475	Maurizio Fondriest
+T24	LOC 478 483	Italy
+T25	PER 491 507	Laurent Jalabert
+T26	LOC 510 516	France
+T27	MISC 543 552	World Cup
+T28	PER 594 601	Museeuw
+T29	PER 617 626	Ferrigato
+T30	PER 635 642	Bartoli
+T31	PER 651 665	Stefano Zanini
+T32	LOC 668 673	Italy
+T33	PER 683 692	Armstrong
+T34	PER 700 707	Baldato
+T35	PER 715 736	Alexandre Gontchenkov
+T36	LOC 739 746	Ukraine
+T37	PER 756 772	Gabriele Colombo
+T38	LOC 775 780	Italy
+T39	PER 790 803	Andrei Tchmil
+T40	LOC 806 813	Ukraine
+T41	PER 824 836	Max Sciandri
+T42	LOC 839 846	Britain

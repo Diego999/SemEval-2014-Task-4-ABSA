@@ -1,0 +1,29 @@
+T1	PER 0 6	Arafat
+T2	LOC 15 21	Nablus
+T3	LOC 50 56	NABLUS
+T4	LOC 59 68	West Bank
+T5	MISC 81 92	Palestinian
+T6	PER 103 116	Yasser Arafat
+T7	LOC 132 141	West Bank
+T8	LOC 163 169	Nablus
+T9	LOC 175 183	Ramallah
+T10	PER 229 235	Arafat
+T11	ORG 273 304	Palestinian self-rule Authority
+T12	LOC 319 325	Nablus
+T13	LOC 344 353	Jerusalem
+T14	MISC 356 363	Israeli
+T15	MISC 410 422	Palestinians
+T16	PER 442 448	Arafat
+T17	MISC 503 510	Moslems
+T18	MISC 513 518	Arabs
+T19	MISC 523 527	Jews
+T20	LOC 555 561	Israel
+T21	LOC 590 599	West Bank
+T22	MISC 635 647	Palestinians
+T23	LOC 653 672	Arab East Jerusalem
+T24	LOC 721 727	Israel
+T25	LOC 757 771	East Jerusalem
+T26	PER 830 836	Arafat
+T27	LOC 875 881	Israel
+T28	LOC 938 947	Jerusalem
+T29	MISC 953 960	Israeli

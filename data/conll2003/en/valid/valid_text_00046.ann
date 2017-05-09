@@ -1,0 +1,28 @@
+T1	PER 0 5	Lebed
+T2	MISC 8 16	Chechens
+T3	LOC 50 60	KHASAVYURT
+T4	LOC 63 69	Russia
+T5	MISC 82 89	Russian
+T6	PER 101 116	Alexander Lebed
+T7	PER 151 166	Aslan Maskhadov
+T8	LOC 229 237	Chechnya
+T9	LOC 380 398	Russian Federation
+T10	LOC 407 423	Chechen Republic
+T11	PER 428 433	Lebed
+T12	PER 462 471	Maskhadov
+T13	PER 570 575	Lebed
+T14	PER 620 625	Lebed
+T15	PER 638 647	Maskhadov
+T16	LOC 709 717	Chechnya
+T17	PER 822 827	Lebed
+T18	LOC 898 906	Chechnya
+T19	LOC 1004 1010	Moscow
+T20	LOC 1032 1040	Chechnya
+T21	LOC 1068 1074	Russia
+T22	LOC 1115 1123	Chechnya
+T23	PER 1189 1202	Boris Yeltsin
+T24	PER 1211 1216	Lebed
+T25	LOC 1237 1245	Chechnya
+T26	PER 1330 1349	Viktor Chernomyrdin
+T27	PER 1370 1377	Yeltsin
+T28	PER 1408 1413	Lebed

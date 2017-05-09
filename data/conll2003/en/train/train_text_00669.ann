@@ -1,0 +1,34 @@
+T1	PER 9 15	ROBSON
+T2	ORG 39 48	BARCELONA
+T3	LOC 52 58	MADRID
+T4	LOC 78 85	England
+T5	PER 94 106	Bobby Robson
+T6	ORG 146 155	Barcelona
+T7	ORG 201 216	Atletico Madrid
+T8	MISC 237 244	Spanish
+T9	MISC 245 254	Super Cup
+T10	ORG 288 297	Barcelona
+T11	ORG 368 376	Atletico
+T12	MISC 413 416	Cup
+T13	PER 519 529	Juan Lopez
+T14	ORG 535 543	Atletico
+T15	ORG 589 598	Barcelona
+T16	PER 608 621	Albert Ferrer
+T17	PER 648 663	Julen Lopetegui
+T18	PER 682 696	Milinko Pantic
+T19	ORG 706 715	Barcelona
+T20	PER 719 735	Hristo Stoichkov
+T21	PER 821 834	Sergi Barjuan
+T22	MISC 876 885	Bulgarian
+T23	ORG 917 925	Atletico
+T24	PER 977 998	Juan Eduardo Esnaider
+T25	MISC 1008 1015	Serbian
+T26	PER 1037 1043	Pantic
+T27	PER 1102 1108	Robson
+T28	ORG 1117 1125	Atletico
+T29	LOC 1167 1186	Community of Madrid
+T30	PER 1237 1244	Vicente
+T31	LOC 1245 1253	Calderon
+T32	ORG 1277 1285	Atletico
+T33	ORG 1359 1370	Real Madrid
+T34	LOC 1374 1391	Santiago Bernabeu

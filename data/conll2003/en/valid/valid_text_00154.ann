@@ -1,0 +1,58 @@
+T1	LOC 9 16	AUSTRIA
+T2	LOC 26 34	SCOTLAND
+T3	MISC 38 47	WORLD CUP
+T4	PER 61 73	Steve Pagani
+T5	LOC 75 81	VIENNA
+T6	LOC 94 101	Austria
+T7	MISC 118 127	World Cup
+T8	LOC 157 165	Scotland
+T9	LOC 303 311	Scotland
+T10	LOC 327 334	Belarus
+T11	LOC 418 425	Austria
+T12	PER 470 485	Stephan Marasek
+T13	ORG 489 500	SC Freiburg
+T14	MISC 539 547	Scottish
+T15	PER 708 721	Markus Schopp
+T16	ORG 750 757	Everton
+T17	PER 761 776	Duncan Ferguson
+T18	LOC 792 800	Scotland
+T19	MISC 835 843	Austrian
+T20	PER 855 869	Michael Konsel
+T21	LOC 894 902	Scotland
+T22	PER 945 960	Gary McAllister
+T23	PER 979 992	Andreas Heraf
+T24	PER 997 1005	Ferguson
+T25	MISC 1084 1092	Scottish
+T26	PER 1099 1110	Craig Brown
+T27	MISC 1199 1207	Austrian
+T28	ORG 1241 1249	SK Rapid
+T29	PER 1253 1270	Dietmar Kuehbauer
+T30	MISC 1564 1572	Austrian
+T31	PER 1579 1595	Herbert Prohaska
+T32	LOC 1685 1692	Austria
+T33	PER 1695 1709	Michael Konsel
+T34	PER 1712 1725	Markus Schopp
+T35	PER 1728 1743	Peter Schoettel
+T36	PER 1746 1759	Anton Pfeffer
+T37	PER 1762 1782	Wolfgang Feiersinger
+T38	PER 1785 1800	Stephan Marasek
+T39	PER 1803 1817	Dieter Ramusch
+T40	PER 1820 1833	Andreas Ogris
+T41	PER 1843 1860	Dietmar Kuehbauer
+T42	PER 1863 1876	Anton Polster
+T43	PER 1881 1898	Herfried Sabitzer
+T44	PER 1908 1922	Andreas Herzog
+T45	PER 1925 1938	Andreas Heraf
+T46	LOC 1942 1950	Scotland
+T47	PER 1953 1965	Andrew Goram
+T48	PER 1968 1980	Craig Burley
+T49	PER 1983 1994	Thomas Boyd
+T50	PER 1997 2013	Colin Calderwood
+T51	PER 2016 2028	Colin Hendry
+T52	PER 2031 2046	Thomas McKinley
+T53	PER 2049 2064	Duncan Ferguson
+T54	PER 2067 2080	Stuart McCall
+T55	PER 2083 2099	Alistair McCoist
+T56	PER 2102 2114	Gordon Durie
+T57	PER 2124 2139	Gary McAllister
+T58	PER 2142 2154	John Collins

@@ -1,0 +1,36 @@
+T1	LOC 0 5	Italy
+T2	PER 9 13	Dini
+T3	LOC 20 27	Burundi
+T4	PER 39 46	Nyerere
+T5	LOC 50 54	ROME
+T6	MISC 67 74	Italian
+T7	PER 92 105	Lamberto Dini
+T8	MISC 129 138	Tanzanian
+T9	PER 149 163	Julius Nyerere
+T10	LOC 199 206	Burundi
+T11	PER 230 237	Nyerere
+T12	LOC 249 253	Rome
+T13	LOC 307 311	U.S.
+T14	LOC 329 336	Burundi
+T15	PER 339 351	Howard Wolpe
+T16	ORG 362 385	Sant ' Egidio Community
+T17	MISC 391 398	Italian
+T18	MISC 399 413	Roman Catholic
+T19	LOC 453 460	Burundi
+T20	PER 476 483	Nyerere
+T21	PER 504 508	Dini
+T22	LOC 545 556	Great Lakes
+T23	LOC 595 602	Burundi
+T24	PER 726 733	Nyerere
+T25	MISC 768 786	Artisans for Peace
+T26	ORG 802 845	Lay Volunteers ' International Organisation
+T27	LOC 869 873	Rome
+T28	ORG 891 912	U.N. Security Council
+T29	MISC 953 958	Tutsi
+T30	PER 965 978	Pierre Buyoya
+T31	PER 1047 1053	Buyoya
+T32	PER 1141 1147	Buyoya
+T33	LOC 1208 1215	Burundi
+T34	MISC 1248 1252	Hutu
+T35	LOC 1319 1326	Burundi
+T36	MISC 1387 1391	Hutu

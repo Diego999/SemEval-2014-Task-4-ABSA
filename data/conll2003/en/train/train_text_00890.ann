@@ -1,0 +1,27 @@
+T1	MISC 0 9	Jordanian
+T2	PER 13 21	Kabariti
+T3	PER 28 34	Arafat
+T4	LOC 38 47	West Bank
+T5	LOC 51 59	RAMALLAH
+T6	LOC 62 71	West Bank
+T7	MISC 84 93	Jordanian
+T8	PER 109 132	Abdul-Karim al-Kabariti
+T9	MISC 150 161	Palestinian
+T10	PER 172 185	Yasser Arafat
+T11	LOC 193 202	West Bank
+T12	LOC 230 241	Middle East
+T13	PER 276 284	Kabariti
+T14	MISC 307 324	Palestinian-ruled
+T15	LOC 325 333	Ramallah
+T16	PER 390 396	Arafat
+T17	LOC 471 477	Jordan
+T18	MISC 555 566	Palestinian
+T19	LOC 589 598	West Bank
+T20	LOC 603 607	Gaza
+T21	PER 611 617	Arafat
+T22	MISC 675 678	GMT
+T23	MISC 700 707	Israeli
+T24	LOC 734 743	Jerusalem
+T25	LOC 747 753	Jordan
+T26	ORG 784 789	Petra
+T27	PER 795 803	Kabariti

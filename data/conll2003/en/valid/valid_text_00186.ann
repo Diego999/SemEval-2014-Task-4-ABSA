@@ -1,0 +1,25 @@
+T1	ORG 0 4	U.N.
+T2	PER 16 24	Albright
+T3	LOC 36 41	Chile
+T4	PER 45 53	SANTIAGO
+T5	LOC 70 74	U.S.
+T6	ORG 93 107	United Nations
+T7	PER 110 128	Madeleine Albright
+T8	LOC 142 147	Chile
+T9	ORG 181 197	Security Council
+T10	MISC 210 217	Chilean
+T11	MISC 253 267	Latin American
+T12	PER 276 284	Albright
+T13	PER 312 331	Jose Miguel Insulza
+T14	LOC 409 414	Chile
+T15	LOC 445 449	U.S.
+T16	LOC 549 562	United States
+T17	LOC 567 572	Chile
+T18	PER 599 607	Albright
+T19	LOC 627 634	Uruguay
+T20	LOC 670 675	Chile
+T21	LOC 774 781	Bolivia
+T22	MISC 794 808	Latin American
+T23	LOC 839 849	Cochabamba
+T24	LOC 880 888	Honduras
+T25	LOC 893 902	Guatemala

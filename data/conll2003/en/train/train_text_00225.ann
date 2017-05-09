@@ -1,0 +1,17 @@
+T1	ORG 0 4	RTRS
+T2	ORG 7 23	Australia Senate
+T3	PER 47 53	Howard
+T4	LOC 57 65	CANBERRA
+T5	MISC 78 88	Australian
+T6	PER 104 115	John Howard
+T7	ORG 298 304	Senate
+T8	PER 390 396	Howard
+T9	ORG 448 461	Liberal Party
+T10	ORG 644 650	Senate
+T11	MISC 761 763	A$
+T12	ORG 888 895	Telstra
+T13	ORG 936 942	Senate
+T14	ORG 955 961	Greens
+T15	ORG 966 986	Australian Democrats
+T16	ORG 1028 1039	Labor Party
+T17	ORG 1109 1124	Sydney Newsroom

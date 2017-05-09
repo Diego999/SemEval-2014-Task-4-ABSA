@@ -1,0 +1,22 @@
+T1	ORG 0 4	RTRS
+T2	PER 14 20	Norman
+T3	LOC 67 73	SYDNEY
+T4	PER 110 121	Greg Norman
+T5	PER 143 155	Butch Harmon
+T6	PER 190 195	Butch
+T7	PER 219 225	Norman
+T8	MISC 277 297	World Series of Golf
+T9	LOC 301 306	Akron
+T10	LOC 309 313	Ohio
+T11	PER 317 323	Norman
+T12	MISC 337 349	British Open
+T13	MISC 499 509	Australian
+T14	LOC 549 554	Akron
+T15	MISC 604 613	Americans
+T16	PER 614 627	Billy Mayfair
+T17	PER 632 643	Paul Goydos
+T18	LOC 648 653	Japan
+T19	PER 657 673	Hidemichi Tanaki
+T20	PER 690 696	Norman
+T21	PER 857 863	Norman
+T22	ORG 1138 1153	Sydney Newsroom

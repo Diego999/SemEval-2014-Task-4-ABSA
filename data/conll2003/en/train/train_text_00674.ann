@@ -1,0 +1,27 @@
+T1	ORG 9 15	BAYERN
+T2	MISC 33 43	BUNDESLIGA
+T3	LOC 56 60	BONN
+T4	PER 84 97	Thomas Helmer
+T5	PER 102 119	Juergen Klinsmann
+T6	ORG 127 140	Bayern Munich
+T7	ORG 164 180	Bayer Leverkusen
+T8	MISC 229 239	Bundesliga
+T9	ORG 272 278	Bayern
+T10	ORG 350 359	Stuttgart
+T11	MISC 389 398	Brazilian
+T12	PER 410 422	Paulo Sergio
+T13	ORG 427 437	Leverkusen
+T14	PER 467 484	Alexander Zickler
+T15	PER 532 538	Helmer
+T16	PER 568 577	Klinsmann
+T17	ORG 583 589	Bayern
+T18	PER 681 700	Ruggiero Rizzitelli
+T19	ORG 735 741	Bayern
+T20	PER 752 767	Markus Feldhoff
+T21	ORG 795 805	Leverkusen
+T22	ORG 809 822	Hansa Rostock
+T23	ORG 831 838	Cologne
+T24	MISC 895 904	Rhineside
+T25	PER 918 929	Sean Dundee
+T26	ORG 974 983	Karlsruhe
+T27	ORG 1005 1013	St Pauli

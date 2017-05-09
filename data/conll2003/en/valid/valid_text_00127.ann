@@ -1,0 +1,84 @@
+T1	ORG 0 11	RUGBY UNION
+T2	ORG 14 24	SPRINGBOKS
+T3	ORG 39 48	ALL BLACK
+T4	PER 58 72	Andy Colquhoun
+T5	LOC 74 86	JOHANNESBURG
+T6	LOC 99 111	South Africa
+T7	ORG 183 193	All Blacks
+T8	LOC 249 259	Ellis Park
+T9	LOC 346 357	New Zealand
+T10	LOC 522 533	New Zealand
+T11	ORG 608 617	All Black
+T12	MISC 636 649	South African
+T13	ORG 658 667	Springbok
+T14	PER 679 703	Joost van der Westhuizen
+T15	PER 793 805	Andre Venter
+T16	PER 893 906	Andre Joubert
+T17	ORG 1034 1044	All Blacks
+T18	PER 1098 1111	Walter Little
+T19	PER 1127 1142	Justin Marshall
+T20	PER 1298 1313	Andrew Mehrtens
+T21	PER 1378 1392	Henry Honiball
+T22	ORG 1404 1414	Springboks
+T23	PER 1460 1475	Andrew Mehrtens
+T24	PER 1552 1560	Mehrtens
+T25	ORG 1686 1696	Springboks
+T26	PER 1762 1769	Joubert
+T27	PER 1833 1848	Pieter Hendriks
+T28	PER 1870 1877	Joubert
+T29	MISC 1896 1901	Welsh
+T30	PER 1910 1921	Derek Bevan
+T31	PER 1930 1948	Van der Westhuizen
+T32	PER 1989 1997	Honiball
+T33	PER 2012 2019	Joubert
+T34	ORG 2044 2053	All Black
+T35	PER 2061 2077	Sean Fitzpatrick
+T36	PER 2196 2203	Joubert
+T37	ORG 2294 2304	Springboks
+T38	PER 2342 2360	Van der Westhuizen
+T39	ORG 2382 2391	All Black
+T40	PER 2422 2428	Venter
+T41	PER 2457 2464	Joubert
+T42	ORG 2494 2504	Springboks
+T43	ORG 2576 2586	All Blacks
+T44	PER 2633 2646	Walter Little
+T45	PER 2659 2667	Mehrtens
+T46	PER 2715 2730	Justin Marshall
+T47	LOC 2829 2841	South Africa
+T48	PER 2849 2862	Andre Joubert
+T49	PER 2870 2882	Justin Swart
+T50	PER 2890 2902	Japie Mulder
+T51	PER 2905 2918	Joel Stransky
+T52	PER 2936 2955	Danie van Schalkwyk
+T53	PER 2963 2978	Pieter Hendriks
+T54	PER 2986 3000	Henry Honiball
+T55	PER 3007 3031	Joost van der Westhuizen
+T56	PER 3038 3052	Gary Teichmann
+T57	PER 3071 3083	Andre Venter
+T58	PER 3086 3097	Wayne Fyvie
+T59	PER 3111 3122	Ruben Kruge
+T60	PER 3129 3141	Mark Andrews
+T61	PER 3144 3161	Fritz van Heerden
+T62	PER 3175 3186	Kobus Wiese
+T63	PER 3193 3206	Marius Hurter
+T64	PER 3213 3225	James Dalton
+T65	PER 3232 3244	Dawie Theron
+T66	PER 3247 3258	Garry Pagel
+T67	LOC 3269 3280	New Zealand
+T68	PER 3288 3304	Christian Cullen
+T69	PER 3307 3320	Alama Ieremia
+T70	PER 3335 3346	Jeff Wilson
+T71	PER 3354 3367	Walter Little
+T72	PER 3375 3386	Frank Bunce
+T73	PER 3394 3406	Glen Osborne
+T74	PER 3414 3429	Andrew Mehrtens
+T75	PER 3436 3451	Justin Marshall
+T76	PER 3458 3471	Zinzan Brooke
+T77	PER 3478 3491	Josh Kronfeld
+T78	PER 3498 3511	Michael Jones
+T79	PER 3514 3526	Glenn Taylor
+T80	PER 3540 3552	Robin Brooke
+T81	PER 3559 3568	Ian Jones
+T82	PER 3575 3584	Olo Brown
+T83	PER 3591 3607	Sean Fitzpatrick
+T84	PER 3626 3636	Craig Dowd

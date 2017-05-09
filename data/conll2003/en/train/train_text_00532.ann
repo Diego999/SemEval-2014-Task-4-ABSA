@@ -1,0 +1,25 @@
+T1	ORG 11 17	GIANTS
+T2	ORG 23 31	PHILLIES
+T3	LOC 39 52	SAN FRANCISCO
+T4	PER 65 86	William VanLandingham
+T5	PER 123 137	Glenallen Hill
+T6	ORG 202 222	San Francisco Giants
+T7	ORG 254 275	Philadelphia Phillies
+T8	PER 289 302	VanLandingham
+T9	ORG 409 417	Phillies
+T10	PER 560 573	VanLandingham
+T11	LOC 659 667	Colorado
+T12	PER 670 686	Andres Galarraga
+T13	ORG 726 742	Colorado Rockies
+T14	PER 770 781	Billy Swift
+T15	ORG 872 887	Cincinnati Reds
+T16	PER 891 896	Swift
+T17	LOC 1081 1088	Houston
+T18	PER 1091 1101	Andy Benes
+T19	PER 1142 1155	Royce Clayton
+T20	ORG 1208 1227	St. Louis Cardinals
+T21	ORG 1254 1268	Houston Astros
+T22	PER 1272 1277	Benes
+T23	ORG 1377 1386	Cardinals
+T24	ORG 1429 1436	Houston
+T25	MISC 1444 1476	National League Central Division

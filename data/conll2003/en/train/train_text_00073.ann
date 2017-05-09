@@ -1,0 +1,55 @@
+T1	ORG 0 4	RTRS
+T2	PER 16 22	Muster
+T3	PER 31 44	Philippoussis
+T4	PER 52 63	Stoltenberg
+T5	LOC 73 80	TORONTO
+T6	PER 104 117	Thomas Muster
+T7	LOC 121 128	Austria
+T8	PER 164 177	Daniel Nestor
+T9	LOC 181 187	Canada
+T10	MISC 239 252	Canadian Open
+T11	PER 291 297	Nestor
+T12	PER 409 415	Muster
+T13	PER 601 617	Goran Ivanisevic
+T14	LOC 621 628	Croatia
+T15	PER 670 686	Mikael Tillstrom
+T16	LOC 690 696	Sweden
+T17	PER 749 763	Wayne Ferreira
+T18	LOC 767 779	South Africa
+T19	PER 794 806	Marcelo Rios
+T20	LOC 810 815	Chile
+T21	PER 829 847	MaliVai Washington
+T22	LOC 855 868	United States
+T23	MISC 873 881	American
+T24	PER 882 893	Todd Martin
+T25	PER 929 940	Marc Rosset
+T26	LOC 944 955	Switzerland
+T27	PER 1016 1034	Mark Philippoussis
+T28	LOC 1038 1047	Australia
+T29	PER 1051 1064	Philippoussis
+T30	PER 1157 1170	Philippoussis
+T31	PER 1197 1214	Jason Stoltenberg
+T32	PER 1363 1375	Daniel Vacek
+T33	LOC 1383 1397	Czech Republic
+T34	PER 1499 1505	Nestor
+T35	MISC 1598 1606	Canadian
+T36	PER 1613 1619	Muster
+T37	MISC 1724 1732	Austrian
+T38	PER 1835 1841	Muster
+T39	PER 2144 2150	Muster
+T40	PER 2334 2344	Ivanisevic
+T41	PER 2441 2450	Tillstrom
+T42	PER 2506 2519	Stefan Edberg
+T43	LOC 2543 2552	Wimbledon
+T44	PER 2556 2566	Ivanisevic
+T45	PER 2636 2645	Tillstrom
+T46	PER 2666 2676	Ivanisevic
+T47	LOC 2704 2716	Indianapolis
+T48	PER 2737 2749	Pete Sampras
+T49	LOC 2757 2761	U.S.
+T50	LOC 2872 2879	Toronto
+T51	PER 3083 3092	Tillstrom
+T52	PER 3112 3125	Philippoussis
+T53	PER 3137 3144	Sampras
+T54	MISC 3180 3195	Australian Open
+T55	PER 3249 3255	Rosset

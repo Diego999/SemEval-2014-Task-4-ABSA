@@ -1,0 +1,45 @@
+T1	ORG 9 26	Manchester United
+T2	ORG 32 40	Juventus
+T3	LOC 44 50	Europe
+T4	LOC 54 60	GENEVA
+T5	MISC 73 81	European
+T6	ORG 92 100	Juventus
+T7	MISC 111 118	English
+T8	ORG 149 166	Manchester United
+T9	MISC 185 212	European Champions ' League
+T10	ORG 247 255	Juventus
+T11	MISC 267 272	Dutch
+T12	ORG 283 297	Ajax Amsterdam
+T13	PER 347 360	Alex Ferguson
+T14	MISC 364 372	European
+T15	MISC 448 465	Cup Winners ' Cup
+T16	ORG 477 489	Rapid Vienna
+T17	ORG 494 504	Fenerbahce
+T18	LOC 508 514	Turkey
+T19	ORG 518 526	Juventus
+T20	ORG 532 538	United
+T21	LOC 542 547	Turin
+T22	LOC 591 603	Old Trafford
+T23	ORG 622 628	United
+T24	MISC 692 699	English
+T25	LOC 762 768	Europe
+T26	MISC 791 803	European Cup
+T27	ORG 807 818	Galatasaray
+T28	LOC 822 828	Turkey
+T29	LOC 833 838	Spain
+T30	ORG 842 851	Barcelona
+T31	MISC 905 920	European Trophy
+T32	ORG 947 956	Barcelona
+T33	MISC 964 981	Cup Winners ' Cup
+T34	MISC 1013 1025	European Cup
+T35	ORG 1072 1079	Benfica
+T36	LOC 1083 1091	Portugal
+T37	LOC 1099 1106	Wembley
+T38	ORG 1110 1118	Juventus
+T39	MISC 1132 1144	European Cup
+T40	ORG 1172 1176	Ajax
+T41	ORG 1197 1203	United
+T42	MISC 1211 1218	English
+T43	ORG 1226 1235	Liverpool
+T44	LOC 1271 1277	Heysel
+T45	LOC 1289 1297	Brussels

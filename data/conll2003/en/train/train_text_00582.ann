@@ -1,0 +1,36 @@
+T1	MISC 30 38	Democrat
+T2	PER 52 63	Alan Elsner
+T3	LOC 65 72	CHICAGO
+T4	MISC 127 137	Democratic
+T5	MISC 262 265	Rep
+T6	PER 269 278	Tony Hall
+T7	LOC 282 286	Ohio
+T8	MISC 305 314	Democrats
+T9	ORG 440 456	Democratic Party
+T10	MISC 556 565	Democrats
+T11	ORG 676 692	Democratic Party
+T12	PER 739 743	Hall
+T13	LOC 813 825	Pennsylvania
+T14	PER 833 845	Robert Casey
+T15	MISC 899 910	Republicans
+T16	MISC 953 961	Democrat
+T17	PER 988 993	Casey
+T18	LOC 1020 1027	Chicago
+T19	MISC 1100 1110	Democratic
+T20	MISC 1213 1223	Democratic
+T21	PER 1281 1286	Casey
+T22	ORG 1372 1400	Democrat National Convention
+T23	ORG 1488 1504	Republican Party
+T24	LOC 1602 1615	Massachusetts
+T25	PER 1623 1635	William Weld
+T26	PER 1711 1719	Bob Dole
+T27	MISC 1726 1736	Republican
+T28	MISC 1915 1924	Democrats
+T29	PER 1997 2011	Kate Michelman
+T30	ORG 2031 2069	National Abortion Rights Action League
+T31	ORG 2290 2306	Republican Party
+T32	LOC 2441 2448	Georgia
+T33	MISC 2449 2452	Rep
+T34	PER 2456 2472	Cynthia McKinney
+T35	ORG 2550 2566	Republican House
+T36	PER 2577 2590	Newt Gingrich

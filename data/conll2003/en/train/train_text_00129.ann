@@ -1,0 +1,21 @@
+T1	ORG 0 6	Viacom
+T2	MISC 15 22	Mission
+T3	LOC 44 55	LOS ANGELES
+T4	ORG 68 86	Paramount Pictures
+T5	PER 123 133	Tom Cruise
+T6	MISC 150 170	Mission : Impossible
+T7	ORG 221 234	Daily Variety
+T8	MISC 442 458	Viacom Inc-owned
+T9	ORG 459 468	Paramount
+T10	MISC 485 497	Forrest Gump
+T11	PER 570 576	Cruise
+T12	MISC 645 666	Academy Award-winning
+T13	PER 680 695	William Goldman
+T14	MISC 755 775	Mission : Impossible
+T15	PER 787 801	Brian De Palma
+T16	PER 879 886	Goldman
+T17	MISC 895 901	Oscars
+T18	MISC 913 947	Butch Cassidy and the Sundance Kid
+T19	MISC 956 980	All the President 's Men
+T20	MISC 1081 1101	Mission : Impossible
+T21	ORG 1142 1155	Daily Variety

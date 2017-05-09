@@ -1,0 +1,18 @@
+T1	LOC 0 4	Iran
+T2	LOC 13 17	Iraq
+T3	LOC 45 52	NICOSIA
+T4	LOC 65 69	Iran
+T5	LOC 82 86	Iraq
+T6	MISC 205 212	Iranian
+T7	ORG 225 229	IRNA
+T8	LOC 254 258	Iran
+T9	ORG 291 305	United Nations
+T10	PER 308 328	Majid Takht Ravanchi
+T11	ORG 367 371	U.N.
+T12	PER 390 411	Boutros Boutros-Ghali
+T13	LOC 449 473	Islamic Republic of Iran
+T14	MISC 536 541	Iraqi
+T15	LOC 605 613	New York
+T16	MISC 756 763	Iranian
+T17	MISC 810 817	Iranian
+T18	MISC 889 903	U.N.-sponsored

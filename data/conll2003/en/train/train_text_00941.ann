@@ -1,0 +1,29 @@
+T1	PER 10 19	BALLANGER
+T2	PER 51 63	Martin Ayres
+T3	LOC 65 75	MANCHESTER
+T4	LOC 78 85	England
+T5	PER 98 115	Felicia Ballanger
+T6	LOC 119 125	France
+T7	PER 265 274	Ballanger
+T8	LOC 280 287	Germany
+T9	PER 291 305	Annett Neumann
+T10	MISC 375 382	Olympic
+T11	LOC 413 419	France
+T12	PER 458 470	Magali Faure
+T13	PER 499 514	Tanya Dubnicoff
+T14	LOC 518 524	Canada
+T15	PER 532 541	Ballanger
+T16	LOC 771 777	Russia
+T17	PER 781 801	Svetlana Samokhalova
+T18	MISC 839 847	American
+T19	PER 848 860	Jane Quigley
+T20	LOC 900 906	Russia
+T21	PER 1007 1027	Goulnara Fatkoullina
+T22	PER 1035 1046	Samokhalova
+T23	PER 1119 1126	Quigley
+T24	MISC 1274 1282	Russians
+T25	PER 1385 1399	Ingrid Haringa
+T26	LOC 1407 1418	Netherlands
+T27	MISC 1491 1498	Olympic
+T28	PER 1508 1524	Nathalie Lancien
+T29	LOC 1528 1534	France

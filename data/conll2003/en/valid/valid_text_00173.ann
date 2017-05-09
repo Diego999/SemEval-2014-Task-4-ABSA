@@ -1,0 +1,19 @@
+T1	ORG 0 21	Scottish Labour Party
+T2	LOC 51 59	STIRLING
+T3	LOC 62 70	Scotland
+T4	ORG 83 103	British Labour Party
+T5	PER 111 121	Tony Blair
+T6	MISC 173 181	Scottish
+T7	LOC 273 281	Scotland
+T8	PER 285 290	Blair
+T9	MISC 316 324	Scottish
+T10	ORG 343 349	Labour
+T11	MISC 548 553	Scots
+T12	PER 826 836	John Major
+T13	MISC 872 880	Scottish
+T14	MISC 885 892	English
+T15	ORG 933 951	Conservative Party
+T16	MISC 1013 1021	Scottish
+T17	LOC 1089 1097	Scotland
+T18	ORG 1105 1111	Labour
+T19	ORG 1141 1164	Scottish National Party

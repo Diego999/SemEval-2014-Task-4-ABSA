@@ -1,0 +1,23 @@
+T1	PER 0 7	Chelsea
+T2	PER 33 40	Clinton
+T3	LOC 55 66	CHILLICOTHE
+T4	LOC 69 73	Ohio
+T5	PER 88 103	Chelsea Clinton
+T6	PER 248 255	Chelsea
+T7	PER 280 292	Bill Clinton
+T8	LOC 339 352	West Virginia
+T9	LOC 355 363	Kentucky
+T10	LOC 368 372	Ohio
+T11	PER 474 496	Hillary Rodham Clinton
+T12	LOC 545 555	Huntington
+T13	LOC 558 571	West Virginia
+T14	LOC 592 599	Chicago
+T15	MISC 620 641	Democratic Convention
+T16	PER 663 670	Chelsea
+T17	LOC 717 728	White House
+T18	PER 739 751	Mike McCurry
+T19	ORG 915 937	Sidwell Friends School
+T20	LOC 960 970	Washington
+T21	PER 974 981	McCurry
+T22	PER 987 994	Chelsea
+T23	PER 1170 1177	Chelsea

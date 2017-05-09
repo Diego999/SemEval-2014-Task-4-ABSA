@@ -1,0 +1,25 @@
+T1	ORG 0 11	Khmer Rouge
+T2	PER 15 24	Ieng Sary
+T3	PER 45 52	Pol Pot
+T4	LOC 72 80	Thailand
+T5	ORG 103 114	Khmer Rouge
+T6	PER 122 131	Ieng Sary
+T7	PER 179 186	Pol Pot
+T8	PER 266 275	Ieng Sary
+T9	PER 337 344	Pol Pot
+T10	ORG 405 440	Democratic National United Movement
+T11	ORG 443 447	DNUM
+T12	MISC 522 531	Cambodian
+T13	PER 612 619	Pol Pot
+T14	PER 622 628	Ta Mok
+T15	LOC 631 638	Son Sen
+T16	ORG 711 718	Reuters
+T17	ORG 786 791	Khmer
+T18	ORG 953 988	Democratic National United Movement
+T19	PER 1006 1015	Ieng Sary
+T20	LOC 1088 1096	Cambodia
+T21	ORG 1108 1119	Khmer Rouge
+T22	MISC 1266 1281	French-educated
+T23	PER 1309 1316	Pol Pot
+T24	ORG 1345 1356	Khmer Rouge
+T25	LOC 1379 1387	Cambodia

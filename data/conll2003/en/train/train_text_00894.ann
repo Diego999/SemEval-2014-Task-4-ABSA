@@ -1,0 +1,15 @@
+T1	LOC 4 8	U.S.
+T2	LOC 31 43	Saudi Arabia
+T3	LOC 47 52	DUBAI
+T4	LOC 65 75	Washington
+T5	LOC 97 109	Saudi Arabia
+T6	PER 118 124	Fowler
+T7	LOC 176 180	U.S.
+T8	LOC 192 198	Riyadh
+T9	PER 219 225	Fowler
+T10	PER 331 343	Bill Clinton
+T11	PER 397 403	Fowler
+T12	ORG 448 454	Senate
+T13	PER 492 498	Fowler
+T14	PER 514 527	Raymond Mabus
+T15	LOC 544 557	United States

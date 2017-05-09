@@ -1,0 +1,30 @@
+T1	LOC 0 8	Colombia
+T2	LOC 11 15	U.S.
+T3	LOC 44 49	MIAMI
+T4	LOC 66 70	U.S.
+T5	MISC 75 84	Colombian
+T6	ORG 134 142	AMR Corp
+T7	ORG 146 163	American Airlines
+T8	LOC 208 216	New York
+T9	LOC 221 227	Bogota
+T10	ORG 234 262	Department of Transportation
+T11	LOC 324 329	Miami
+T12	ORG 342 345	AMR
+T13	LOC 433 438	Miami
+T14	LOC 443 451	Colombia
+T15	LOC 459 467	New York
+T16	LOC 483 496	United States
+T17	LOC 609 617	Colombia
+T18	LOC 692 700	New York
+T19	ORG 807 838	Federal Aviation Administration
+T20	MISC 842 879	International Aviation Safety program
+T21	LOC 883 891	Colombia
+T22	LOC 1262 1270	Colombia
+T23	ORG 1283 1291	American
+T24	LOC 1330 1338	New York
+T25	LOC 1343 1349	Bogota
+T26	LOC 1379 1392	United States
+T27	MISC 1412 1422	Colombians
+T28	MISC 1512 1521	Colombian
+T29	ORG 1533 1540	Avianca
+T30	ORG 1545 1549	ACES

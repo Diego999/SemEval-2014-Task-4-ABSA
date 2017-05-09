@@ -1,0 +1,40 @@
+T1	LOC 10 18	PAKISTAN
+T2	LOC 34 41	ENGLAND
+T3	LOC 55 65	BIRMINGHAM
+T4	LOC 68 75	England
+T5	LOC 88 96	Pakistan
+T6	LOC 118 125	England
+T7	LOC 189 198	Edgbaston
+T8	ORG 214 220	Surrey
+T9	PER 233 247	Adam Hollioake
+T10	LOC 263 270	England
+T11	ORG 289 299	Lancashire
+T12	PER 308 320	Graham Lloyd
+T13	PER 335 347	Peter Martin
+T14	LOC 383 391	Pakistan
+T15	LOC 418 425	England
+T16	LOC 445 457	Old Trafford
+T17	LOC 524 531	England
+T18	PER 534 547	Mike Atherton
+T19	PER 562 573	Nick Knight
+T20	PER 576 588	Alec Stewart
+T21	PER 591 604	Graham Thorpe
+T22	PER 607 622	Matthew Maynard
+T23	PER 625 639	Adam Hollioake
+T24	PER 642 654	Ronnie Irani
+T25	PER 657 669	Robert Croft
+T26	PER 672 684	Darren Gough
+T27	PER 687 699	Dean Headley
+T28	PER 702 715	Alan Mullally
+T29	LOC 719 727	Pakistan
+T30	PER 730 742	Aamir Sohail
+T31	PER 745 756	Saeed Anwar
+T32	PER 759 769	Ijaz Ahmed
+T33	PER 772 783	Salim Malik
+T34	PER 786 800	Inzamam-ul-Haq
+T35	PER 803 814	Wasim Akram
+T36	PER 829 838	Moin Khan
+T37	PER 841 856	Saqlain Mushtaq
+T38	PER 859 872	Mushtaq Ahmed
+T39	PER 875 887	Waqar Younis
+T40	PER 890 903	Ata-ur-Rehman

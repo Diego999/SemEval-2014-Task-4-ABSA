@@ -1,0 +1,26 @@
+T1	LOC 0 10	Washington
+T2	MISC 19 24	Tamil
+T3	LOC 36 40	U.S.
+T4	LOC 43 52	Sri Lanka
+T5	LOC 56 63	COLOMBO
+T6	LOC 76 85	Sri Lanka
+T7	LOC 105 118	United States
+T8	LOC 171 175	U.S.
+T9	MISC 230 240	Sri Lankan
+T10	LOC 286 299	United States
+T11	LOC 352 361	Sri Lanka
+T12	LOC 401 405	U.S.
+T13	MISC 492 500	American
+T14	LOC 566 575	Sri Lanka
+T15	ORG 593 614	U.S. State Department
+T16	PER 654 667	Philip Wilcox
+T17	LOC 684 694	Washington
+T18	LOC 741 748	Colombo
+T19	LOC 762 769	Colombo
+T20	MISC 791 796	Tamil
+T21	MISC 942 953	Sri Lankans
+T22	LOC 987 1000	United States
+T23	LOC 1004 1008	U.S.
+T24	LOC 1030 1037	Colombo
+T25	LOC 1097 1104	Colombo
+T26	ORG 1201 1233	Liberation Tigers of Tamil Eelam

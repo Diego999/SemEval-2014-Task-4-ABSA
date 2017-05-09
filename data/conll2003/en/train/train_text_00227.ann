@@ -1,0 +1,21 @@
+T1	ORG 0 4	RTRS
+T2	ORG 7 14	Niugini
+T3	LOC 43 49	SYDNEY
+T4	ORG 83 101	Niugini Mining Ltd
+T5	MISC 121 123	A$
+T6	ORG 185 205	Battle Mountain Gold
+T7	ORG 260 267	Niugini
+T8	ORG 294 312	Niugini Mining Ltd
+T9	ORG 335 350	Battle Mountain
+T10	ORG 401 408	Niugini
+T11	ORG 438 453	Battle Mountain
+T12	LOC 511 517	Sydney
+T13	ORG 528 535	Niugini
+T14	LOC 578 587	Australia
+T15	LOC 590 595	Chile
+T16	LOC 600 616	Papua New Guinea
+T17	ORG 660 665	Lihir
+T18	MISC 703 706	GMT
+T19	ORG 711 725	Niugini Mining
+T20	MISC 741 743	A$
+T21	ORG 799 814	Sydney Newsroom

@@ -1,0 +1,32 @@
+T1	LOC 10 17	ENGLAND
+T2	LOC 20 28	PAKISTAN
+T3	LOC 47 57	MANCHESTER
+T4	LOC 60 67	England
+T5	LOC 80 88	Pakistan
+T6	LOC 172 179	England
+T7	LOC 184 192	Pakistan
+T8	LOC 196 208	Old Trafford
+T9	LOC 233 240	England
+T10	PER 243 256	Mike Atherton
+T11	PER 271 282	Nick Knight
+T12	PER 285 297	Alec Stewart
+T13	PER 300 313	Graham Thorpe
+T14	PER 316 331	Matthew Maynard
+T15	PER 334 346	Graham Lloyd
+T16	PER 349 361	Ronnie Irani
+T17	PER 364 376	Robert Croft
+T18	PER 379 391	Darren Gough
+T19	PER 394 406	Dean Headley
+T20	PER 409 422	Alan Mullally
+T21	LOC 426 434	Pakistan
+T22	PER 437 449	Aamir Sohail
+T23	PER 452 463	Saeed Anwar
+T24	PER 466 476	Ijaz Ahmed
+T25	PER 479 493	Inzamam-ul-Haq
+T26	PER 496 507	Salim Malik
+T27	PER 510 521	Wasim Akram
+T28	PER 536 545	Moin Khan
+T29	PER 548 561	Mushtaq Ahmed
+T30	PER 564 576	Waqar Younis
+T31	PER 579 592	Ata-ur-Rehman
+T32	PER 595 610	Saqlain Mushtaq

@@ -1,0 +1,64 @@
+T1	ORG 11 15	CUBS
+T2	ORG 21 27	BRAVES
+T3	LOC 56 63	ATLANTA
+T4	PER 76 87	Brian McRae
+T5	PER 99 112	Tyler Houston
+T6	ORG 165 177	Chicago Cubs
+T7	ORG 231 245	Atlanta Braves
+T8	ORG 263 269	Braves
+T9	PER 333 345	Kevin Foster
+T10	PER 553 559	Foster
+T11	LOC 621 629	Colorado
+T12	PER 632 646	Vinny Castilla
+T13	PER 688 700	Larry Walker
+T14	MISC 737 740	RBI
+T15	ORG 748 764	Colorado Rockies
+T16	ORG 780 798	Pittsburgh Pirates
+T17	ORG 849 857	Castilla
+T18	PER 927 939	Marc Wilkins
+T19	ORG 957 965	Colorado
+T20	PER 1029 1040	John Ericks
+T21	LOC 1063 1070	Florida
+T22	PER 1073 1087	Edgar Renteria
+T23	PER 1147 1160	Jesus Tavarez
+T24	ORG 1189 1204	Florida Marlins
+T25	ORG 1215 1230	Cincinnati Reds
+T26	PER 1252 1257	Edgar
+T27	PER 1304 1311	Tavarez
+T28	PER 1403 1408	Edgar
+T29	ORG 1451 1458	Florida
+T30	PER 1467 1477	John Boles
+T31	LOC 1552 1565	San Francisco
+T32	PER 1568 1584	Osvaldo Fenandez
+T33	PER 1610 1626	Trenidad Hubbard
+T34	ORG 1657 1677	San Francisco Giants
+T35	ORG 1728 1742	Montreal Expos
+T36	PER 1752 1761	Fernandez
+T37	ORG 1873 1881	Montreal
+T38	LOC 1888 1899	Los Angeles
+T39	PER 1902 1912	Greg Gagne
+T40	PER 1942 1953	Chad Curtis
+T41	ORG 2021 2040	Los Angeles Dodgers
+T42	ORG 2097 2110	New York Mets
+T43	ORG 2246 2253	Dodgers
+T44	PER 2262 2274	Bill Russell
+T45	PER 2285 2296	Mike Piazza
+T46	LOC 2301 2310	San Diego
+T47	PER 2313 2325	Steve Finley
+T48	PER 2330 2339	Jody Reed
+T49	ORG 2374 2390	San Diego Padres
+T50	ORG 2472 2493	Philadelphia Phillies
+T51	PER 2497 2509	Ken Caminiti
+T52	MISC 2520 2523	RBI
+T53	ORG 2532 2538	Padres
+T54	ORG 2619 2638	Los Angeles Dodgers
+T55	MISC 2646 2666	National League West
+T56	LOC 2673 2680	Houston
+T57	PER 2683 2695	Jeff Bagwell
+T58	PER 2708 2718	Donne Wall
+T59	ORG 2761 2775	Houston Astros
+T60	ORG 2789 2808	St. Louis Cardinals
+T61	PER 2816 2820	Wall
+T62	ORG 2889 2895	Astros
+T63	ORG 2927 2936	Cardinals
+T64	MISC 2957 2980	National League Central

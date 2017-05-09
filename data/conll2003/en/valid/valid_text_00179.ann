@@ -1,0 +1,23 @@
+T1	MISC 0 10	S. African
+T2	MISC 11 21	Afrikaners
+T3	LOC 50 59	CAPE TOWN
+T4	MISC 72 85	South African
+T5	LOC 210 223	Northern Cape
+T6	PER 278 294	Constand Viljoen
+T7	ORG 311 324	Freedom Front
+T8	LOC 359 367	Pretoria
+T9	MISC 391 401	Afrikaners
+T10	MISC 564 573	Afrikaner
+T11	LOC 623 635	South Africa
+T12	PER 712 719	Viljoen
+T13	PER 928 942	Nelson Mandela
+T14	ORG 955 980	African National Congress
+T15	PER 1147 1154	Viljoen
+T16	LOC 1177 1189	South Africa
+T17	MISC 1257 1267	Afrikaners
+T18	MISC 1300 1305	Dutch
+T19	MISC 1308 1314	German
+T20	MISC 1319 1325	French
+T21	PER 1370 1377	Viljoen
+T22	LOC 1460 1473	Northern Cape
+T23	MISC 1555 1564	Afrikaans

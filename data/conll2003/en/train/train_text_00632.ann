@@ -1,0 +1,39 @@
+T1	MISC 0 12	Palestinians
+T2	LOC 28 37	Jerusalem
+T3	LOC 52 61	JERUSALEM
+T4	MISC 74 85	Palestinian
+T5	LOC 97 106	Jerusalem
+T6	LOC 175 181	Israel
+T7	LOC 192 211	Arab East Jerusalem
+T8	MISC 256 263	Israeli
+T9	LOC 327 336	Jerusalem
+T10	LOC 340 348	Old City
+T11	ORG 396 427	Palestinian self-rule Authority
+T12	LOC 510 518	Old City
+T13	MISC 699 706	Israeli
+T14	ORG 734 755	Palestinian Authority
+T15	MISC 782 792	PLO-Israel
+T16	MISC 879 882	GMT
+T17	MISC 907 918	Palestinian
+T18	PER 928 949	Ahmed Hashem Zighayer
+T19	ORG 955 962	Reuters
+T20	PER 1107 1125	Benjamin Netanyahu
+T21	ORG 1201 1210	Authority
+T22	LOC 1276 1286	Gaza Strip
+T23	LOC 1291 1300	West Bank
+T24	LOC 1317 1326	Jerusalem
+T25	LOC 1330 1336	Israel
+T26	ORG 1420 1441	Palestinian Authority
+T27	ORG 1505 1508	PLO
+T28	PER 1542 1551	Netanyahu
+T29	LOC 1584 1593	Jerusalem
+T30	LOC 1632 1638	Israel
+T31	PER 1670 1679	Netanyahu
+T32	ORG 1771 1804	Palestine Liberation Organisation
+T33	ORG 1807 1810	PLO
+T34	LOC 1816 1822	Israel
+T35	LOC 1832 1851	Arab East Jerusalem
+T36	LOC 1864 1875	Middle East
+T37	MISC 1949 1961	Palestinians
+T38	LOC 1967 1981	East Jerusalem
+T39	PER 2097 2106	Netanyahu

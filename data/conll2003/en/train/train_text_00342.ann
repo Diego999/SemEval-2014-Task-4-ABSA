@@ -1,0 +1,39 @@
+T1	MISC 9 15	POLISH
+T2	LOC 54 60	WARSAW
+T3	MISC 84 90	Polish
+T4	ORG 149 161	Amica Wronki
+T5	ORG 164 177	Hutnik Krakow
+T6	ORG 181 192	Sokol Tychy
+T7	ORG 195 206	Lech Poznan
+T8	ORG 210 227	Rakow Czestochowa
+T9	ORG 230 244	Stomil Olsztyn
+T10	ORG 248 260	Wisla Krakow
+T11	ORG 263 276	Gornik Zabrze
+T12	ORG 280 293	Slask Wroclaw
+T13	ORG 296 310	Odra Wodzislaw
+T14	ORG 314 326	GKS Katowice
+T15	ORG 329 343	Polonia Warsaw
+T16	ORG 347 361	Zaglebie Lubin
+T17	ORG 364 372	LKS Lodz
+T18	ORG 376 388	Legia Warsaw
+T19	ORG 391 404	GKS Belchatow
+T20	ORG 408 419	Widzew Lodz
+T21	ORG 422 434	Ruch Chorzow
+T22	ORG 530 542	Amica Wronki
+T23	ORG 560 572	Legia Warsaw
+T24	ORG 590 601	Lech Poznan
+T25	ORG 619 630	Widzew Lodz
+T26	ORG 648 660	GKS Katowice
+T27	ORG 678 689	Sokol Tychy
+T28	ORG 708 722	Odra Wodzislaw
+T29	ORG 741 754	Slask Wroclaw
+T30	ORG 771 785	Polonia Warsaw
+T31	ORG 802 815	GKS Belchatow
+T32	ORG 831 845	Stomil Olsztyn
+T33	ORG 861 873	Wisla Krakow
+T34	ORG 889 902	Hutnik Krakow
+T35	ORG 919 936	Rakow Czestochowa
+T36	ORG 953 967	Zaglebie Lubin
+T37	ORG 985 997	Ruch Chorzow
+T38	ORG 1014 1027	Gornik Zabrze
+T39	ORG 1044 1052	LKS Lodz

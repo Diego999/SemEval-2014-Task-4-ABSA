@@ -1,0 +1,13 @@
+T1	LOC 54 60	LONDON
+T2	PER 144 149	Crohn
+T3	MISC 243 250	Swedish
+T4	PER 320 325	Crohn
+T5	PER 366 382	Andrew Wakefield
+T6	LOC 390 428	Royal Free Hospital School of Medicine
+T7	LOC 480 499	University Hospital
+T8	LOC 502 509	Uppsala
+T9	PER 620 625	Crohn
+T10	PER 641 650	Wakefield
+T11	ORG 673 679	Lancet
+T12	PER 699 704	Crohn
+T13	MISC 1006 1012	German

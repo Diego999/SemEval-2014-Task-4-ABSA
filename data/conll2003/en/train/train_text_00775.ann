@@ -1,0 +1,12 @@
+T1	ORG 0 10	Stagecoach
+T2	ORG 16 22	Swebus
+T3	LOC 48 54	LONDON
+T4	MISC 67 74	British
+T5	ORG 107 130	Stagecoach Holdings Plc
+T6	MISC 182 189	Swedish
+T7	ORG 217 226	Swebus AB
+T8	ORG 294 304	Stagecoach
+T9	ORG 412 418	Swebus
+T10	ORG 527 536	Swebus AB
+T11	ORG 650 660	Stagecoach
+T12	ORG 687 702	London Newsroom

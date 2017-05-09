@@ -1,0 +1,14 @@
+T1	LOC 0 7	Germany
+T2	LOC 10 16	Poland
+T3	LOC 54 60	WARSAW
+T4	LOC 73 80	Germany
+T5	LOC 85 91	Poland
+T6	ORG 212 215	PAP
+T7	ORG 240 248	Interior
+T8	PER 258 280	Zbigniew Siemiatkowski
+T9	PER 285 302	Bernd Schmidbauer
+T10	MISC 305 311	German
+T11	PER 341 352	Helmut Kohl
+T12	LOC 410 416	Warsaw
+T13	PER 439 453	Ryszard Hincza
+T14	MISC 463 469	Polish

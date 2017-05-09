@@ -1,0 +1,17 @@
+T1	PER 0 5	Major
+T2	MISC 9 29	office-Conservatives
+T3	LOC 53 59	LONDON
+T4	MISC 72 79	British
+T5	PER 95 105	John Major
+T6	MISC 142 154	Conservative
+T7	PER 162 172	John Gorst
+T8	PER 313 318	Gorst
+T9	PER 455 460	Major
+T10	LOC 474 488	Downing Street
+T11	PER 497 502	Gorst
+T12	PER 762 767	Gorst
+T13	PER 783 788	Major
+T14	ORG 829 845	House of Commons
+T15	PER 901 906	Gorst
+T16	ORG 1041 1057	House of Commons
+T17	PER 1120 1125	Gorst

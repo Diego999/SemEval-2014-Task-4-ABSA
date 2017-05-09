@@ -1,0 +1,39 @@
+T1	MISC 5 13	Africans
+T2	ORG 34 38	U.N.
+T3	PER 47 61	Evelyn Leopold
+T4	ORG 63 77	UNITED NATIONS
+T5	MISC 95 102	African
+T6	ORG 159 163	U.N.
+T7	PER 201 222	Boutros Boutros-Ghali
+T8	PER 322 332	Kofi Annan
+T9	LOC 336 341	Ghana
+T10	ORG 348 352	U.N.
+T11	PER 395 416	Ahmedou Ould Abdallah
+T12	LOC 420 430	Mauritania
+T13	ORG 444 448	U.N.
+T14	LOC 467 474	Burundi
+T15	PER 477 487	Amara Essy
+T16	LOC 495 506	Ivory Coast
+T17	ORG 538 559	U.N. General Assembly
+T18	PER 587 600	Hamid Algabid
+T19	LOC 604 609	Niger
+T20	ORG 641 679	Organisation of the Islamic Conference
+T21	ORG 706 710	U.N.
+T22	LOC 723 728	Ghana
+T23	LOC 735 746	Ivory Coast
+T24	LOC 749 759	Mauritania
+T25	LOC 764 769	Niger
+T26	ORG 800 816	Security Council
+T27	PER 827 838	Paolo Fulci
+T28	LOC 842 847	Italy
+T29	PER 989 1001	Joseph Garba
+T30	LOC 1005 1012	Nigeria
+T31	ORG 1017 1038	U.N. General Assembly
+T32	PER 1140 1153	Boutros-Ghali
+T33	MISC 1193 1201	Africans
+T34	LOC 1425 1438	United States
+T35	ORG 1500 1516	Security Council
+T36	MISC 1558 1565	African
+T37	ORG 1760 1776	Security Council
+T38	ORG 1865 1881	General Assembly
+T39	PER 1906 1919	Boutros-Ghali

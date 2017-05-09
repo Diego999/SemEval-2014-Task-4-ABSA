@@ -1,0 +1,16 @@
+T1	ORG 0 12	Dow Chemical
+T2	LOC 16 21	China
+T3	LOC 42 49	BEIJING
+T4	ORG 66 81	Dow Chemical Co
+T5	LOC 89 102	United States
+T6	LOC 157 164	Tianjin
+T7	LOC 182 187	China
+T8	ORG 194 205	China Daily
+T9	LOC 351 358	Tianjin
+T10	ORG 481 502	Caltex Petroleum Corp
+T11	LOC 559 566	Tianjin
+T12	ORG 621 626	Mobil
+T13	ORG 629 634	Shell
+T14	ORG 639 645	Caltex
+T15	LOC 671 678	Tianjin
+T16	LOC 686 691	China

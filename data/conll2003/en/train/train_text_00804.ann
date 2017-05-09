@@ -1,0 +1,49 @@
+T1	LOC 40 50	MANCHESTER
+T2	LOC 53 60	England
+T3	PER 192 206	Chris Boardman
+T4	LOC 209 216	Britain
+T5	PER 233 246	Alexei Markov
+T6	LOC 249 255	Russia
+T7	PER 268 285	Andrea Collinelli
+T8	LOC 288 293	Italy
+T9	PER 310 324	Francis Moreau
+T10	LOC 327 333	France
+T11	PER 346 352	Moreau
+T12	PER 414 428	Chris Boardman
+T13	LOC 431 438	Britain
+T14	PER 472 489	Andrea Collinelli
+T15	LOC 492 497	Italy
+T16	MISC 510 517	Olympic
+T17	LOC 564 573	Australia
+T18	PER 576 587	Darryn Hill
+T19	PER 590 601	Shane Kelly
+T20	PER 604 616	Gary Neiwand
+T21	LOC 639 646	Germany
+T22	PER 649 661	Jens Fiedler
+T23	PER 664 678	Michael Hubner
+T24	PER 681 695	Soren Lausberg
+T25	LOC 710 716	France
+T26	PER 719 731	Laurent Gane
+T27	PER 734 750	Florian Rousseau
+T28	PER 753 764	Herve Thuet
+T29	LOC 779 785	Greece
+T30	PER 788 807	Dimitrios Georgalis
+T31	PER 810 829	Georgios Chimonetos
+T32	PER 832 839	Lampros
+T33	PER 841 853	Vasilopoulos
+T34	PER 944 956	Magali Faure
+T35	LOC 959 965	France
+T36	PER 973 988	Kathrin Freitag
+T37	LOC 991 998	Germany
+T38	PER 1099 1116	Felicia Ballanger
+T39	LOC 1119 1125	France
+T40	PER 1133 1148	Oksana Grichina
+T41	LOC 1151 1157	Russia
+T42	PER 1188 1203	Tanya Dubnicoff
+T43	LOC 1206 1212	Canada
+T44	PER 1220 1235	Michelle Ferris
+T45	LOC 1238 1247	Australia
+T46	PER 1278 1292	Annett Neumann
+T47	LOC 1295 1302	Germany
+T48	PER 1310 1327	Galina Enioukhina
+T49	LOC 1330 1336	Russia

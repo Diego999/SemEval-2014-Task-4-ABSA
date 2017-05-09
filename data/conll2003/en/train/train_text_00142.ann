@@ -1,0 +1,19 @@
+T1	ORG 0 11	RUGBY UNION
+T2	PER 14 20	MULDER
+T3	LOC 43 55	JOHANNESBURG
+T4	PER 75 87	Japie Mulder
+T5	LOC 110 122	South Africa
+T6	LOC 159 170	New Zealand
+T7	LOC 174 182	Pretoria
+T8	PER 198 204	Mulder
+T9	LOC 230 236	Durban
+T10	ORG 304 313	Springbok
+T11	PER 322 336	Gary Teichmann
+T12	PER 401 417	Andre Markgraaff
+T13	PER 426 432	Mulder
+T14	ORG 455 473	Northern Transvaal
+T15	PER 481 493	Andre Snyman
+T16	PER 551 570	Danie van Schalkwyk
+T17	PER 579 594	Pieter Hendriks
+T18	PER 656 662	Snyman
+T19	PER 778 788	Markgraaff

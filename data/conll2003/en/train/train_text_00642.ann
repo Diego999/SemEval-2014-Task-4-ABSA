@@ -1,0 +1,97 @@
+T1	LOC 41 51	MANCHESTER
+T2	LOC 54 61	England
+T3	PER 205 219	Chris Boardman
+T4	LOC 222 229	Britain
+T5	PER 274 285	Jens Lehman
+T6	LOC 288 295	Germany
+T7	PER 315 323	Boardman
+T8	PER 340 355	Edouard Gritson
+T9	LOC 358 364	Russia
+T10	PER 368 382	Francis Moreau
+T11	LOC 385 391	France
+T12	PER 408 419	Heiko Szonn
+T13	LOC 422 429	Germany
+T14	PER 443 460	Andrea Collinelli
+T15	LOC 463 468	Italy
+T16	PER 485 501	Michael Sandstod
+T17	LOC 505 512	Denmark
+T18	PER 525 538	Alexei Markov
+T19	LOC 541 547	Russia
+T20	PER 564 580	Mariano Friedick
+T21	LOC 583 587	U.S.
+T22	PER 636 647	Shane Kelly
+T23	LOC 650 659	Australia
+T24	PER 690 704	Soren Lausberg
+T25	LOC 707 714	Germany
+T26	PER 730 743	Jan Van Eiden
+T27	LOC 746 753	Germany
+T28	PER 769 780	Herve Thuet
+T29	LOC 783 789	France
+T30	PER 805 821	Grzegorz Krejner
+T31	LOC 824 830	Poland
+T32	PER 846 859	Ainars Kiksis
+T33	LOC 862 868	Latvia
+T34	PER 884 903	Dimitrios Georgalis
+T35	LOC 906 912	Greece
+T36	PER 928 939	Jose Moreno
+T37	LOC 942 947	Spain
+T38	PER 963 975	Keiji Kojima
+T39	LOC 978 983	Japan
+T40	PER 1000 1014	Graham Sharman
+T41	LOC 1017 1026	Australia
+T42	PER 1043 1056	Jose Escuredo
+T43	LOC 1059 1064	Spain
+T44	PER 1081 1094	Craig MacLean
+T45	LOC 1097 1104	Britain
+T46	PER 1121 1141	Christian Meidlinger
+T47	LOC 1144 1151	Austria
+T48	PER 1168 1190	Darren McKenzie-Potter
+T49	LOC 1193 1204	New Zealand
+T50	PER 1221 1238	Masanaga Shiohara
+T51	LOC 1241 1246	Japan
+T52	PER 1263 1282	Jean-Pierre Van Zyl
+T53	LOC 1285 1297	South Africa
+T54	LOC 1310 1316	Keirin
+T55	PER 1327 1342	Marty Nothstein
+T56	LOC 1345 1349	U.S.
+T57	PER 1394 1406	Gary Neiwand
+T58	LOC 1409 1418	Australia
+T59	PER 1425 1439	Frederic Magne
+T60	LOC 1442 1448	France
+T61	PER 1455 1466	Pavel Buran
+T62	LOC 1469 1483	Czech Republic
+T63	PER 1490 1504	Michael Hubner
+T64	LOC 1507 1514	Germany
+T65	PER 1521 1533	Laurent Gane
+T66	LOC 1536 1542	France
+T67	LOC 1546 1553	Madison
+T68	PER 1575 1592	Silvio Martinelli
+T69	PER 1595 1606	Marco Villa
+T70	LOC 1609 1614	Italy
+T71	PER 1671 1684	Scott McGrory
+T72	PER 1687 1699	Stephen Pate
+T73	LOC 1702 1711	Australia
+T74	PER 1721 1735	Andreas Kappes
+T75	PER 1738 1750	Carsten Wolf
+T76	LOC 1753 1760	Germany
+T77	PER 1770 1784	Kurt Betschart
+T78	PER 1787 1797	Bruno Risi
+T79	LOC 1800 1811	Switzerland
+T80	PER 1821 1837	Gabriel Curuchet
+T81	PER 1840 1853	Juan Curuchet
+T82	MISC 1856 1865	Argentine
+T83	PER 1875 1888	Peter Pieters
+T84	PER 1891 1901	Tomas Post
+T85	LOC 1904 1915	Netherlands
+T86	PER 1925 1938	J immi Madsen
+T87	PER 1941 1954	Jens Veggerby
+T88	LOC 1957 1964	Denmark
+T89	PER 1974 1992	Isaac Galvez-Lopez
+T90	PER 1995 2008	Juan Llaneras
+T91	LOC 2011 2016	Spain
+T92	PER 2026 2043	Wolfgang Kotzmann
+T93	PER 2046 2059	Franz Stocher
+T94	LOC 2062 2069	Austria
+T95	PER 2079 2097	Christophe Capelle
+T96	PER 2100 2117	Jean-Michel Monin
+T97	LOC 2120 2126	France

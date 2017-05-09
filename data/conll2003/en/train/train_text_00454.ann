@@ -1,0 +1,19 @@
+T1	ORG 0 12	Yugo Zastava
+T2	LOC 50 58	BELGRADE
+T3	LOC 95 101	Serbia
+T4	ORG 105 112	Zastava
+T5	PER 381 401	Dragutin Stanojlovic
+T6	MISC 661 669	Yugoslav
+T7	ORG 707 714	Zastava
+T8	LOC 756 766	Yugoslavia
+T9	LOC 796 802	Serbia
+T10	LOC 807 817	Montenegro
+T11	LOC 853 863	Kragujevac
+T12	PER 981 992	Stanojlovic
+T13	ORG 1038 1053	Socialist Party
+T14	LOC 1072 1078	Serbia
+T15	ORG 1342 1357	Socialist Party
+T16	ORG 1370 1377	Reuters
+T17	MISC 1508 1516	Yugoslav
+T18	PER 1801 1814	Gordana Kukic
+T19	ORG 1817 1834	Belgrade Newsroom

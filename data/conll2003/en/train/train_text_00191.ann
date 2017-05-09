@@ -1,0 +1,24 @@
+T1	LOC 0 2	HK
+T2	PER 6 11	Tsang
+T3	LOC 21 30	Indonesia
+T4	LOC 33 44	New Zealand
+T5	LOC 48 57	HONG KONG
+T6	LOC 70 79	Hong Kong
+T7	PER 100 112	Donald Tsang
+T8	LOC 124 133	Indonesia
+T9	LOC 138 149	New Zealand
+T10	LOC 209 216	Jakarta
+T11	PER 219 224	Tsang
+T12	PER 245 252	Suharto
+T13	ORG 267 274	Finance
+T14	PER 275 290	Mar'ie Muhammad
+T15	ORG 305 320	Foreign Affairs
+T16	PER 321 331	Ali Alatas
+T17	ORG 348 366	Trade and Industry
+T18	PER 367 383	Tungky Ariwibowo
+T19	LOC 394 405	New Zealand
+T20	PER 427 432	Tsang
+T21	PER 458 468	Jim Bolger
+T22	PER 493 505	Don McKinnon
+T23	ORG 522 529	Finance
+T24	PER 530 540	Bill Birch

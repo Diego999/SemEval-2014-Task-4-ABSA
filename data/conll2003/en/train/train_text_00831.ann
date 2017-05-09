@@ -1,0 +1,13 @@
+T1	ORG 0 2	ND
+T2	PER 15 27	SPOT THOMSON
+T3	ORG 30 52	BOLD / OGILVY , MATHER
+T4	ORG 57 59	AD
+T5	LOC 72 78	ATHENS
+T6	MISC 91 96	Greek
+T7	ORG 110 123	New democracy
+T8	ORG 137 161	Bold / Ogilvy and Mather
+T9	PER 218 230	Spot Thomson
+T10	PER 255 270	Miltiadis Evert
+T11	PER 325 337	Spot Thomson
+T12	PER 415 436	Dimitris Kontogiannis
+T13	ORG 439 454	Athens Newsroom

@@ -1,0 +1,36 @@
+T1	ORG 22 31	NEWCASTLE
+T2	LOC 53 59	LONDON
+T3	ORG 72 81	Newcastle
+T4	ORG 195 214	Sheffield Wednesday
+T5	LOC 218 225	England
+T6	PER 234 246	Alan Shearer
+T7	PER 252 264	Kevin Keegan
+T8	MISC 353 361	Yugoslav
+T9	PER 362 378	Dejan Stefanovic
+T10	MISC 391 400	Colombian
+T11	PER 409 426	Faustino Asprilla
+T12	ORG 452 461	Wednesday
+T13	PER 480 494	Peter Atherton
+T14	PER 541 555	Mark Pembridge
+T15	PER 603 618	Guy Whittingham
+T16	ORG 646 655	Yorkshire
+T17	ORG 707 716	Newcastle
+T18	LOC 729 736	England
+T19	PER 745 758	Les Ferdinand
+T20	ORG 801 810	Wednesday
+T21	ORG 951 960	Liverpool
+T22	ORG 1001 1011	Sunderland
+T23	LOC 1021 1027	London
+T24	ORG 1046 1063	Tottenham Hotspur
+T25	ORG 1068 1075	Everton
+T26	MISC 1098 1107	Frenchman
+T27	PER 1108 1121	Frank LeBoeuf
+T28	MISC 1126 1133	Italian
+T29	PER 1134 1149	Gianluca Vialli
+T30	ORG 1193 1200	Chelsea
+T31	ORG 1206 1214	Coventry
+T32	ORG 1237 1244	Arsenal
+T33	LOC 1274 1283	Leicester
+T34	MISC 1313 1316	Cup
+T35	ORG 1325 1342	Manchester United
+T36	ORG 1363 1372	Blackburn

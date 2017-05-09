@@ -1,0 +1,18 @@
+T1	PER 0 7	Yeltsin
+T2	LOC 40 46	MOSCOW
+T3	PER 59 72	Naina Yeltsin
+T4	MISC 87 94	Russian
+T5	ORG 201 210	Itar-Tass
+T6	ORG 241 245	Tass
+T7	LOC 257 264	Kremlin
+T8	LOC 333 358	Central Clinical Hospital
+T9	PER 393 400	Yeltsin
+T10	PER 457 471	Sergei Mironov
+T11	ORG 477 481	Tass
+T12	PER 482 487	Naina
+T13	PER 554 560	Yelena
+T14	PER 565 572	Tatyana
+T15	PER 599 612	Boris Yeltsin
+T16	PER 860 867	Yeltsin
+T17	LOC 875 881	Moscow
+T18	PER 961 968	Yeltsin

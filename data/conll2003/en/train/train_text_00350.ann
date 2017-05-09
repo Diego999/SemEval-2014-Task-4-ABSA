@@ -1,0 +1,51 @@
+T1	ORG 11 18	ORIOLES
+T2	ORG 30 36	ANGELS
+T3	LOC 40 49	BALTIMORE
+T4	PER 62 77	Rafael Palmeiro
+T5	PER 123 137	Roberto Alomar
+T6	ORG 167 184	Baltimore Orioles
+T7	ORG 202 219	California Angels
+T8	MISC 242 257	American League
+T9	ORG 296 303	Orioles
+T10	PER 334 348	Mike Devereaux
+T11	PER 398 409	Kyle Abbott
+T12	PER 446 452	Alomar
+T13	PER 472 486	Brady Anderson
+T14	PER 500 508	Palmeiro
+T15	PER 569 575	Alomar
+T16	LOC 582 588	Boston
+T17	PER 598 618	Mariner Darren Bragg
+T18	PER 679 692	Randy Johnson
+T19	ORG 704 718	Boston Red Sox
+T20	LOC 772 779	Seattle
+T21	PER 855 860	Bragg
+T22	ORG 1022 1031	Cleveland
+T23	PER 1034 1047	Kevin Seitzer
+T24	PER 1102 1113	David Hulse
+T25	ORG 1142 1159	Milwaukee Brewers
+T26	ORG 1169 1186	Cleveland Indians
+T27	PER 1238 1249	Bob Wickman
+T28	ORG 1278 1294	New York Yankees
+T29	ORG 1329 1338	Milwaukee
+T30	LOC 1403 1412	Minnesota
+T31	PER 1415 1428	Marty Cordova
+T32	PER 1433 1444	Matt Lawton
+T33	PER 1465 1482	Frankie Rodriguez
+T34	ORG 1572 1587	Minnesota Twins
+T35	ORG 1608 1621	Texas Rangers
+T36	PER 1766 1775	Rodriguez
+T37	LOC 1860 1868	New York
+T38	PER 1871 1887	Wally Whitehurst
+T39	PER 1969 1981	Paul O'Neill
+T40	ORG 2036 2052	New York Yankees
+T41	ORG 2088 2105	Oakland Athletics
+T42	PER 2109 2119	Whitehurst
+T43	ORG 2136 2153	Triple-A Columbus
+T44	ORG 2266 2285	St. Louis Cardinals
+T45	ORG 2326 2342	San Diego Padres
+T46	LOC 2349 2360	Kansas City
+T47	PER 2363 2374	Jose Rosado
+T48	PER 2426 2440	Michael Tucker
+T49	ORG 2480 2498	Kansas City Royals
+T50	ORG 2558 2572	Detroit Tigers
+T51	PER 2607 2613	Rosado

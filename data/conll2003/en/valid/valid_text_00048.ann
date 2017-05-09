@@ -1,0 +1,20 @@
+T1	LOC 0 8	Belgrade
+T2	LOC 53 61	BELGRADE
+T3	LOC 74 82	Belgrade
+T4	LOC 99 115	Aerodrom Beograd
+T5	MISC 213 221	Yugoslav
+T6	ORG 234 240	Tanjug
+T7	LOC 344 353	Batajnica
+T8	ORG 388 394	Tanjug
+T9	LOC 402 410	Belgrade
+T10	PER 436 453	Ljubomir Acimovic
+T11	LOC 482 488	Surcin
+T12	LOC 593 602	Batajnica
+T13	PER 605 613	Acimovic
+T14	LOC 748 756	Belgrade
+T15	ORG 767 773	Tanjug
+T16	LOC 786 795	Batajnica
+T17	ORG 869 911	Federal Air Traffic Control Administration
+T18	PER 921 935	Branko Bilbija
+T19	PER 947 957	Amra Kevic
+T20	LOC 960 968	Belgrade

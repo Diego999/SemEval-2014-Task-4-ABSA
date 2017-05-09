@@ -1,0 +1,10 @@
+T1	ORG 0 7	SunGard
+T2	ORG 15 24	CheckFree
+T3	LOC 33 42	SAN MATEO
+T4	LOC 45 51	Calif.
+T5	ORG 64 95	SunGard Shareholder Systems Inc
+T6	ORG 114 138	SunGard Data Systems Inc
+T7	ORG 200 228	Securities Products Business
+T8	ORG 237 251	CheckFree Corp
+T9	ORG 436 443	SunGard
+T10	LOC 498 506	New York

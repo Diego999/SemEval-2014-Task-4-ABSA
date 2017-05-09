@@ -1,0 +1,21 @@
+T1	ORG 0 20	Sierra Semiconductor
+T2	PER 43 54	Martin Wolk
+T3	LOC 56 63	SEATTLE
+T4	ORG 76 101	Sierra Semiconductor Corp
+T5	LOC 279 287	San Jose
+T6	LOC 290 296	Calif.
+T7	PER 639 650	Elias Moosa
+T8	ORG 654 677	Roberston Stephens & Co
+T9	ORG 705 711	Sierra
+T10	ORG 882 892	PMC-Sierra
+T11	PER 1157 1170	Scott Randall
+T12	ORG 1174 1199	Soundview Financial Group
+T13	ORG 1581 1617	International Business Machines Corp
+T14	PER 1735 1742	Randall
+T15	PER 1931 1940	Miles Kan
+T16	ORG 1944 1961	Hambrecht & Quist
+T17	ORG 2053 2063	PMC-Sierra
+T18	PER 2218 2221	Kan
+T19	ORG 2238 2241	PMC
+T20	ORG 2283 2289	Sierra
+T21	LOC 2450 2457	Seattle

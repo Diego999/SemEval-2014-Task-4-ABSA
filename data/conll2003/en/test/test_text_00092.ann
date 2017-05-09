@@ -1,0 +1,17 @@
+T1	PER 0 7	Yeltsin
+T2	LOC 24 31	Kremlin
+T3	LOC 56 62	MOSCOW
+T4	MISC 75 82	Russian
+T5	PER 93 106	Boris Yeltsin
+T6	ORG 242 250	Interfax
+T7	PER 358 371	Yegor Stroyev
+T8	PER 380 387	Yeltsin
+T9	LOC 562 568	Russia
+T10	PER 599 606	Yeltsin
+T11	LOC 625 632	Kremlin
+T12	PER 741 758	Mikhail Gorbachev
+T13	LOC 793 805	Soviet Union
+T14	PER 809 816	Yeltsin
+T15	PER 985 999	Renat Akchurin
+T16	ORG 1029 1038	Itar-Tass
+T17	PER 1051 1058	Yeltsin

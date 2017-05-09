@@ -1,0 +1,11 @@
+T1	ORG 0 13	Jones Medical
+T2	LOC 39 48	ST. LOUIS
+T3	ORG 61 89	Jones Medical Industries Inc
+T4	ORG 134 161	Daniels Pharmaceuticals Inc
+T5	LOC 165 179	St. Petersburg
+T6	LOC 182 186	Fla.
+T7	ORG 219 224	Jones
+T8	ORG 241 246	Jones
+T9	ORG 285 308	Daniels Pharmaceuticals
+T10	MISC 385 392	Levoxyl
+T11	LOC 457 464	Chicago

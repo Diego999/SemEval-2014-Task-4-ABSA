@@ -1,0 +1,28 @@
+T1	ORG 10 15	ESSEX
+T2	ORG 20 24	KENT
+T3	LOC 56 62	LONDON
+T4	ORG 75 80	Essex
+T5	ORG 85 89	Kent
+T6	ORG 174 184	Derbyshire
+T7	ORG 189 195	Surrey
+T8	MISC 248 255	English
+T9	ORG 286 291	Essex
+T10	ORG 343 352	Yorkshire
+T11	PER 393 414	Richard Kettleborough
+T12	ORG 480 484	Kent
+T13	ORG 539 554	Nottinghamshire
+T14	LOC 654 669	Tunbridge Wells
+T15	ORG 673 683	Derbyshire
+T16	ORG 711 725	Worcestershire
+T17	ORG 732 738	Surrey
+T18	ORG 754 766	Warwickshire
+T19	ORG 843 857	Leicestershire
+T20	ORG 869 877	Somerset
+T21	ORG 897 909	Warwickshire
+T22	PER 918 928	Tim Munton
+T23	ORG 940 946	Surrey
+T24	MISC 1005 1015	Australian
+T25	PER 1022 1034	Dave Gilbert
+T26	ORG 1041 1051	Derbyshire
+T27	MISC 1055 1065	Australian
+T28	PER 1074 1084	Dean Jones

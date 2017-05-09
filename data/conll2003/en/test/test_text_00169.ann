@@ -1,0 +1,27 @@
+T1	ORG 0 4	RTRS
+T2	MISC 7 17	Australian
+T3	PER 21 34	John Langmore
+T4	LOC 55 63	CANBERRA
+T5	MISC 76 86	Australian
+T6	PER 103 116	John Langmore
+T7	ORG 181 205	House of Representatives
+T8	PER 214 227	Bob Halverson
+T9	PER 248 257	Halverson
+T10	PER 303 322	John Vance Langmore
+T11	ORG 371 395	House of Representatives
+T12	PER 426 432	Fraser
+T13	MISC 440 468	Australian Capital Territory
+T14	PER 507 516	Halverson
+T15	PER 589 597	Langmore
+T16	LOC 695 704	Australia
+T17	ORG 737 751	United Nations
+T18	LOC 768 776	New York
+T19	ORG 812 816	U.N.
+T20	LOC 850 860	Copenhagen
+T21	ORG 905 909	U.N.
+T22	PER 940 949	Inge Kaul
+T23	PER 953 961	Langmore
+T24	PER 1052 1058	Fraser
+T25	PER 1218 1230	Paul Keating
+T26	LOC 1323 1339	Papua New Guinea
+T27	LOC 1364 1372	Canberra

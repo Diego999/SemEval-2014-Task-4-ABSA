@@ -1,0 +1,17 @@
+T1	ORG 0 4	CBOE
+T2	ORG 26 29	MFS
+T3	LOC 41 48	CHICAGO
+T4	ORG 65 95	Chicago Board Options Exchange
+T5	ORG 98 102	CBOE
+T6	ORG 185 210	MFS Communications Co Inc
+T7	ORG 282 294	WorldCom Inc
+T8	ORG 331 334	MFS
+T9	ORG 367 375	WorldCom
+T10	ORG 405 423	The New York Times
+T11	ORG 471 474	MFS
+T12	ORG 518 521	MFS
+T13	ORG 548 571	American Stock Exchange
+T14	ORG 580 602	Pacific Stock Exchange
+T15	ORG 626 649	American Stock Exchange
+T16	ORG 857 879	Pacific Stock Exchange
+T17	ORG 939 942	MFS

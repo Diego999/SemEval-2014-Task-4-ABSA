@@ -1,0 +1,52 @@
+T1	LOC 10 15	INDIA
+T2	LOC 18 27	SRI LANKA
+T3	LOC 42 49	COLOMBO
+T4	MISC 87 93	Singer
+T5	MISC 95 107	World Series
+T6	LOC 130 135	India
+T7	LOC 140 149	Sri Lanka
+T8	LOC 167 172	India
+T9	PER 174 183	A. Jadeja
+T10	PER 195 207	S. Tendulkar
+T11	PER 221 231	S. Ganguly
+T12	PER 234 242	de Silva
+T13	PER 245 255	Dharmasena
+T14	PER 260 273	M. Azharuddin
+T15	PER 277 290	Kaluwitharana
+T16	PER 293 303	Jayasuriya
+T17	PER 308 317	V. Kambli
+T18	PER 330 339	R. Dravid
+T19	PER 351 361	J. Srinath
+T20	PER 504 513	A. Kumble
+T21	PER 516 525	N. Mongia
+T22	PER 528 537	V. Prasad
+T23	PER 540 549	A. Kapoor
+T24	PER 563 567	Vass
+T25	PER 579 591	Pushpakumara
+T26	PER 603 613	Dharmasena
+T27	PER 625 637	Muralitharan
+T28	PER 650 660	Jayasuriya
+T29	PER 673 681	de Silva
+T30	LOC 695 704	Sri Lanka
+T31	PER 706 719	S. Jayasuriya
+T32	PER 733 749	R. Kaluwitharana
+T33	PER 752 761	Tendulkar
+T34	PER 766 776	A.de Silva
+T35	PER 898 914	Arjuna Ranatunga
+T36	PER 917 933	Asanka Gurusinha
+T37	PER 936 942	Hashan
+T38	PER 944 956	Tillekeratne
+T39	PER 959 974	Roshan Mahanama
+T40	PER 977 994	Kumara Dharmasena
+T41	PER 997 1010	Chaminda Vaas
+T42	PER 1014 1034	Muthiah Muralitharan
+T43	PER 1037 1058	Ravindra Pushpakumara
+T44	PER 1070 1076	Kumble
+T45	PER 1089 1095	Prasad
+T46	PER 1107 1114	Srinath
+T47	PER 1127 1136	Tendulkar
+T48	PER 1148 1154	Kapoor
+T49	PER 1167 1173	Jadeja
+T50	PER 1188 1195	Ganguly
+T51	LOC 1215 1224	Sri Lanka
+T52	PER 1262 1279	Sanath Jayasuriya

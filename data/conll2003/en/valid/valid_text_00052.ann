@@ -1,0 +1,27 @@
+T1	PER 0 7	Yeltsin
+T2	PER 20 25	Naina
+T3	ORG 40 48	Interfax
+T4	LOC 52 58	MOSCOW
+T5	MISC 71 78	Russian
+T6	PER 89 102	Boris Yeltsin
+T7	PER 120 125	Naina
+T8	ORG 158 166	Interfax
+T9	PER 196 216	Sergei Yastrzhembsky
+T10	PER 230 243	Naina Yeltsin
+T11	MISC 292 299	Russian
+T12	PER 322 329	Yeltsin
+T13	MISC 376 383	Russian
+T14	PER 419 426	Yeltsin
+T15	LOC 449 455	Moscow
+T16	PER 494 507	Naina Yeltsin
+T17	PER 571 584	Yastrzhembsky
+T18	PER 592 599	Yeltsin
+T19	PER 613 626	Naina Yeltsin
+T20	LOC 644 650	Moscow
+T21	LOC 654 679	Central Clinical Hospital
+T22	PER 759 766	Yeltsin
+T23	PER 948 961	Yastrzhembsky
+T24	PER 967 974	Yeltsin
+T25	LOC 1033 1041	Barvikha
+T26	LOC 1061 1067	Moscow
+T27	LOC 1177 1183	Moscow

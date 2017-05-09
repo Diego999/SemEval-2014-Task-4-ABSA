@@ -1,0 +1,28 @@
+T1	ORG 0 11	PLO Council
+T2	LOC 44 50	Israel
+T3	LOC 54 62	RAMALLAH
+T4	LOC 65 74	West Bank
+T5	ORG 91 122	Palestinian Legislative Council
+T6	LOC 171 177	Israel
+T7	PER 207 220	Yasser Arafat
+T8	MISC 230 236	Jewish
+T9	MISC 279 291	Palestinians
+T10	MISC 405 412	Israeli
+T11	MISC 465 476	Palestinian
+T12	PER 487 500	Yasser Arafat
+T13	LOC 533 541	Ramallah
+T14	LOC 553 559	Israel
+T15	MISC 577 583	Jewish
+T16	LOC 636 645	Jerusalem
+T17	PER 667 685	Benjamin Netanyahu
+T18	PER 760 766	Arafat
+T19	LOC 787 793	Israel
+T20	MISC 859 870	Palestinian
+T21	LOC 945 954	West Bank
+T22	LOC 959 963	Gaza
+T23	MISC 1053 1060	Israeli
+T24	MISC 1124 1135	Palestinian
+T25	PER 1147 1153	Arafat
+T26	PER 1190 1201	Ahmed Korei
+T27	MISC 1265 1272	Israeli
+T28	MISC 1354 1365	Israeli-PLO

@@ -1,0 +1,23 @@
+T1	MISC 32 49	1,000 LAKES RALLY
+T2	LOC 53 62	JYVASKYLA
+T3	LOC 65 72	Finland
+T4	MISC 152 163	1,000 Lakes
+T5	MISC 165 170	Rally
+T6	PER 217 231	Juha Kankkunen
+T7	LOC 234 241	Finland
+T8	MISC 244 257	Toyota Celica
+T9	PER 293 306	Tommi Makinen
+T10	LOC 309 316	Finland
+T11	MISC 319 336	Mitsubishi Lancer
+T12	PER 359 374	Marcus Gronholm
+T13	LOC 377 384	Finland
+T14	MISC 387 400	Toyota Celica
+T15	PER 410 425	Jarmo Kytolehto
+T16	LOC 428 435	Finland
+T17	MISC 438 449	Ford Escort
+T18	PER 459 475	Kenneth Eriksson
+T19	LOC 478 484	Sweden
+T20	MISC 487 501	Subaru Impreza
+T21	PER 511 526	Thomas Radstrom
+T22	LOC 529 535	Sweden
+T23	MISC 538 551	Toyota Celica

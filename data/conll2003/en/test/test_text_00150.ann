@@ -1,0 +1,32 @@
+T1	PER 51 61	Elif Kaban
+T2	LOC 63 69	GENEVA
+T3	LOC 94 100	Geneva
+T4	MISC 148 156	Internet
+T5	MISC 1110 1118	Internet
+T6	PER 1465 1475	James Love
+T7	MISC 1510 1526	Washington-based
+T8	PER 1527 1543	Consumer Project
+T9	MISC 1978 1994	Berne Convention
+T10	MISC 2274 2282	Internet
+T11	LOC 2286 2294	Mongolia
+T12	PER 2325 2347	Gundegma Jargalshaihan
+T13	LOC 2400 2410	Ulan Bator
+T14	MISC 2496 2504	Internet
+T15	LOC 2508 2516	Mongolia
+T16	PER 2533 2550	Alexander Bavykin
+T17	LOC 2575 2581	Russia
+T18	LOC 2609 2615	Moscow
+T19	MISC 2879 2887	Internet
+T20	MISC 2910 2918	European
+T21	MISC 2960 2968	Internet
+T22	PER 3086 3096	Marc Pearl
+T23	ORG 3121 3166	Information Technology Association of America
+T24	LOC 3192 3196	U.S.
+T25	MISC 3313 3321	Internet
+T26	MISC 3418 3426	Internet
+T27	MISC 3600 3608	Internet
+T28	MISC 3775 3782	Network
+T29	MISC 3995 4003	Internet
+T30	PER 4022 4031	Tim Casey
+T31	MISC 4039 4049	U.S.-based
+T32	ORG 4050 4080	MCI Communications Corporation

@@ -1,0 +1,16 @@
+T1	MISC 0 12	Palestinians
+T2	LOC 37 46	JERUSALEM
+T3	MISC 59 71	Palestinians
+T4	PER 158 171	Yasser Arafat
+T5	LOC 191 197	Israel
+T6	MISC 211 217	Jewish
+T7	LOC 234 243	Jerusalem
+T8	LOC 279 298	Arab East Jerusalem
+T9	MISC 373 376	GMT
+T10	MISC 402 413	Palestinian
+T11	LOC 459 468	West Bank
+T12	LOC 473 477	Gaza
+T13	LOC 536 542	Israel
+T14	LOC 657 663	Hebron
+T15	LOC 668 677	West Bank
+T16	MISC 695 702	Israeli

@@ -1,0 +1,17 @@
+T1	ORG 0 11	Mostostal Z
+T2	LOC 42 48	WARSAW
+T3	MISC 81 87	Polish
+T4	ORG 106 133	Mostostal Zabrze Holding SA
+T5	PER 274 289	Piotr Grabowski
+T6	ORG 295 302	Reuters
+T7	ORG 310 319	Mostostal
+T8	ORG 461 470	Mostostal
+T9	PER 645 654	Grabowksi
+T10	ORG 663 672	Mostostal
+T11	LOC 693 699	Poland
+T12	ORG 910 933	Polish Development Bank
+T13	ORG 936 939	PBR
+T14	LOC 997 1003	Warsaw
+T15	PER 1029 1038	Grabowski
+T16	ORG 1405 1414	Mostostal
+T17	ORG 1519 1534	Warsaw Newsroom

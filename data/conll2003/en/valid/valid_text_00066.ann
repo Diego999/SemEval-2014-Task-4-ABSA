@@ -1,0 +1,63 @@
+T1	ORG 0 10	Boatmen 's
+T2	PER 44 56	Brad Dorfman
+T3	LOC 58 65	CHICAGO
+T4	ORG 120 146	Boatmen 's Bancshares Inc.
+T5	ORG 150 167	NationsBank Corp.
+T6	LOC 216 224	Missouri
+T7	ORG 316 327	NationsBank
+T8	LOC 351 358	Midwest
+T9	PER 423 437	Michael Ancell
+T10	ORG 468 488	Edward D. Jones & Co
+T11	LOC 537 544	Midwest
+T12	ORG 569 579	Mercantile
+T13	ORG 583 591	Commerce
+T14	MISC 597 612	St. Louis-based
+T15	ORG 613 636	Mercantile Bancorp Inc.
+T16	LOC 744 752	Missouri
+T17	ORG 777 787	Boatmen 's
+T18	LOC 791 802	Kansas City
+T19	MISC 805 814	Mo.-based
+T20	ORG 815 839	Commerce Bancshares Inc.
+T21	LOC 947 954	Midwest
+T22	ORG 1006 1016	Mercantile
+T23	ORG 1019 1027	Commerce
+T24	ORG 1032 1041	Roosevelt
+T25	PER 1051 1062	James Weber
+T26	ORG 1076 1095	A.G. Edwards & Sons
+T27	ORG 1099 1128	Roosevelt Financial Group Inc
+T28	MISC 1149 1159	asset-St .
+T29	MISC 1161 1166	Louis
+T30	ORG 1228 1238	Mercantile
+T31	PER 1243 1248	Weber
+T32	ORG 1257 1267	Mercantile
+T33	ORG 1272 1280	Commerce
+T34	LOC 1379 1387	Missouri
+T35	MISC 1392 1409	Minneapolis-based
+T36	ORG 1410 1432	First Bank System Inc.
+T37	ORG 1437 1450	Norwest Corp.
+T38	MISC 1453 1463	Ohio-based
+T39	ORG 1464 1471	KeyCorp
+T40	ORG 1476 1490	Banc One Corp.
+T41	ORG 1497 1520	First Chicago NBD Corp.
+T42	LOC 1524 1532	Illinois
+T43	ORG 1555 1565	First Bank
+T44	ORG 1568 1575	Norwest
+T45	ORG 1578 1586	Banc One
+T46	ORG 1591 1604	First Chicago
+T47	ORG 1684 1691	KeyCorp
+T48	ORG 1797 1807	Boatmen 's
+T49	LOC 1825 1833	Missouri
+T50	ORG 1934 1944	Boatmen 's
+T51	LOC 1961 1969	Missouri
+T52	LOC 2002 2009	Midwest
+T53	PER 2014 2019	Weber
+T54	LOC 2042 2050	Missouri
+T55	ORG 2157 2168	NationsBank
+T56	ORG 2219 2229	Boatmen 's
+T57	ORG 2289 2299	Boatmen 's
+T58	PER 2432 2438	Ancell
+T59	ORG 2563 2574	NationsBank
+T60	ORG 2630 2640	Boatmen 's
+T61	ORG 2725 2736	NationsBank
+T62	PER 2831 2846	Michael Durante
+T63	ORG 2860 2873	McDonald & Co

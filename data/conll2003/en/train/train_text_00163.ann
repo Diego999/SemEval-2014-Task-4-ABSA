@@ -1,0 +1,42 @@
+T1	PER 9 14	VOGTS
+T2	MISC 32 41	EURO ' 96
+T3	LOC 55 59	BONN
+T4	PER 80 91	Berti Vogts
+T5	MISC 119 127	European
+T6	LOC 159 166	Germany
+T7	LOC 224 230	Poland
+T8	PER 234 239	Vogts
+T9	LOC 304 310	Zabrze
+T10	MISC 352 361	Euro ' 96
+T11	ORG 381 387	Bremen
+T12	PER 391 400	Jens Todt
+T13	ORG 441 445	UEFA
+T14	ORG 505 513	Dortmund
+T15	PER 529 544	Matthias Sammer
+T16	PER 558 572	Steffen Freund
+T17	PER 586 600	Rene Schneider
+T18	MISC 724 733	World Cup
+T19	PER 738 743	Vogts
+T20	PER 888 899	Oliver Kahn
+T21	PER 902 916	Andreas Koepke
+T22	PER 919 930	Oliver Reck
+T23	PER 944 957	Markus Babbel
+T24	PER 960 973	Thomas Helmer
+T25	PER 976 990	Juergen Kohler
+T26	PER 993 1006	Stefan Reuter
+T27	PER 1009 1024	Matthias Sammer
+T28	PER 1027 1041	Rene Schneider
+T29	PER 1057 1069	Mario Basler
+T30	PER 1072 1082	Marco Bode
+T31	PER 1085 1097	Dieter Eilts
+T32	PER 1100 1114	Steffen Freund
+T33	PER 1117 1132	Thomas Haessler
+T34	PER 1135 1150	Andreas Moeller
+T35	PER 1153 1166	Mehmet Scholl
+T36	PER 1169 1182	Thomas Strunz
+T37	PER 1185 1194	Jens Todt
+T38	PER 1197 1212	Christian Ziege
+T39	PER 1225 1240	Oliver Bierhoff
+T40	PER 1243 1254	Fredi Bobic
+T41	PER 1257 1274	Juergen Klinsmann
+T42	PER 1277 1289	Stefan Kuntz

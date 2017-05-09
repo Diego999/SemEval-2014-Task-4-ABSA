@@ -1,0 +1,26 @@
+T1	MISC 0 6	German
+T2	PER 26 33	Yeltsin
+T3	ORG 43 51	Interfax
+T4	LOC 55 61	MOSCOW
+T5	MISC 74 80	German
+T6	PER 92 103	Helmut Kohl
+T7	PER 129 142	Boris Yeltsin
+T8	LOC 187 193	Moscow
+T9	PER 224 231	Yeltsin
+T10	LOC 258 264	Moscow
+T11	ORG 267 275	Interfax
+T12	ORG 296 304	Interfax
+T13	PER 315 322	Yeltsin
+T14	PER 339 359	Sergei Yastrzhembsky
+T15	PER 367 374	Yeltsin
+T16	PER 379 383	Kohl
+T17	PER 463 470	Yeltsin
+T18	PER 480 484	Kohl
+T19	LOC 547 553	Russia
+T20	LOC 567 575	Chechnya
+T21	ORG 585 593	Interfax
+T22	PER 603 610	Yeltsin
+T23	LOC 725 731	Moscow
+T24	LOC 735 742	Germany
+T25	LOC 782 788	Russia
+T26	LOC 817 825	Chechnya

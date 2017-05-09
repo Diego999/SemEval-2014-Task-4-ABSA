@@ -1,0 +1,23 @@
+T1	ORG 0 13	SVCD Bulgaria
+T2	LOC 63 68	SOFIA
+T3	MISC 81 90	Bulgarian
+T4	MISC 188 197	Bulgarian
+T5	ORG 239 246	Bulatka
+T6	PER 267 281	Stefan Raichev
+T7	LOC 499 507	Bulgaria
+T8	LOC 542 548	Europe
+T9	LOC 557 563	Middle
+T10	LOC 572 580	Far East
+T11	PER 583 590	Raichev
+T12	PER 647 662	Valentin Valkov
+T13	PER 728 734	Valkov
+T14	ORG 805 820	Balkan Airlines
+T15	MISC 874 883	Bulgarian
+T16	LOC 884 893	Black Sea
+T17	PER 909 916	Raichev
+T18	LOC 988 994	Balkan
+T19	PER 1170 1177	Raichev
+T20	PER 1186 1193	Raichev
+T21	MISC 1277 1284	English
+T22	PER 1565 1584	Liliana Semerdjieva
+T23	ORG 1587 1601	Sofia Newsroom

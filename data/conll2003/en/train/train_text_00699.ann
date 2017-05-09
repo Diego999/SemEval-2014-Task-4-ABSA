@@ -1,0 +1,93 @@
+T1	ORG 0 7	Reuters
+T2	LOC 45 51	LONDON
+T3	PER 156 169	Alexander III
+T4	LOC 180 188	Scotland
+T5	LOC 259 267	Scotland
+T6	MISC 305 316	Ghibellines
+T7	LOC 336 344	Florence
+T8	LOC 354 371	Florentine Guelfs
+T9	LOC 389 401	Monte Aperto
+T10	PER 412 454	Francois-Rene ( Vicomte de ) Chateaubriand
+T11	MISC 502 508	French
+T12	MISC 548 555	British
+T13	MISC 576 580	Rene
+T14	MISC 607 613	French
+T15	MISC 661 683	Memoires d'Outre Tombe
+T16	LOC 696 707	Los Angeles
+T17	MISC 723 730	Spanish
+T18	LOC 752 803	El Pueblo de Nuestra Senora La Reina de Los Angeles
+T19	LOC 808 852	The Town of Our Lady the Queen of the Angels
+T20	PER 865 879	Anton Bruckner
+T21	MISC 888 896	Austrian
+T22	LOC 1024 1030	France
+T23	MISC 1037 1050	Second Empire
+T24	PER 1065 1077	Napoleon III
+T25	MISC 1134 1149	Franco-Prussian
+T26	LOC 1167 1182	Skeleton Canyon
+T27	LOC 1186 1193	Arizona
+T28	PER 1196 1204	Geronimo
+T29	MISC 1249 1259	Red Indian
+T30	PER 1301 1313	Nelson Miles
+T31	MISC 1333 1339	French
+T32	PER 1359 1373	Darius Milhaud
+T33	MISC 1407 1427	La Creation du Monde
+T34	MISC 1488 1501	Madame Bovary
+T35	LOC 1526 1530	U.S.
+T36	PER 1541 1553	Max Delbruck
+T37	MISC 1581 1592	Nobel Prize
+T38	PER 1696 1708	Edvard Grieg
+T39	MISC 1711 1720	Norwegian
+T40	MISC 1751 1766	Peer Gynt Suite
+T41	LOC 1802 1808	Bergen
+T42	LOC 1819 1823	U.S.
+T43	PER 1838 1852	Edward Dmytryk
+T44	MISC 1888 1897	Crossfire
+T45	LOC 1909 1918	Hollywood
+T46	MISC 1978 1996	Farewell My lovely
+T47	MISC 2028 2043	Boy Scout Rally
+T48	ORG 2056 2070	Crystal Palace
+T49	LOC 2076 2082	London
+T50	LOC 2093 2101	Brussels
+T51	LOC 2106 2113	Antwerp
+T52	LOC 2117 2124	Belgium
+T53	MISC 2143 2150	British
+T54	MISC 2155 2163	Canadian
+T55	MISC 2174 2187	World War Two
+T56	PER 2198 2208	Wilhelmina
+T57	LOC 2224 2235	Netherlands
+T58	MISC 2261 2275	World Wars One
+T59	MISC 2280 2283	Two
+T60	PER 2320 2327	Juliana
+T61	PER 2338 2352	Robert Schuman
+T62	MISC 2355 2361	French
+T63	ORG 2484 2517	European Coal and Steel Community
+T64	LOC 2532 2549	Forth Road Bridge
+T65	LOC 2553 2561	Scotland
+T66	PER 2666 2683	Albert Schweitzer
+T67	LOC 2732 2737	Gabon
+T68	PER 2817 2826	J.S. Bach
+T69	MISC 2854 2871	Nobel Peace Prize
+T70	ORG 2907 2929	Brotherhood of Nations
+T71	MISC 2957 2970	Olympic Games
+T72	LOC 2973 2977	U.S.
+T73	PER 2986 2996	Mark Spitz
+T74	MISC 3048 3056	Olympiad
+T75	LOC 3067 3079	East Germany
+T76	LOC 3088 3101	United States
+T77	PER 3171 3196	E.F. ( Fritz ) Schumacher
+T78	MISC 3245 3263	Small is Beautiful
+T79	LOC 3303 3314	Switzerland
+T80	PER 3325 3340	Georges Simenon
+T81	PER 3395 3412	Inspector Maigret
+T82	LOC 3430 3438	Bulgaria
+T83	MISC 3449 3458	Communist
+T84	PER 3466 3479	Todor Zhivkov
+T85	LOC 3619 3628	Jerusalem
+T86	LOC 3641 3647	Israel
+T87	PER 3715 3720	David
+T88	MISC 3771 3777	Jewish
+T89	MISC 3799 3831	Fourth World Conference on Women
+T90	ORG 3846 3850	U.N.
+T91	LOC 3883 3888	China
+T92	LOC 3892 3916	Great Hall of the People
+T93	ORG 3924 3928	U.N.

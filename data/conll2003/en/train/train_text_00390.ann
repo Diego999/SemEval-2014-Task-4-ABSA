@@ -1,0 +1,28 @@
+T1	MISC 0 7	Israeli
+T2	PER 26 32	Arafat
+T3	LOC 52 61	JERUSALEM
+T4	MISC 74 81	Israeli
+T5	PER 92 104	Ezer Weizman
+T6	PER 117 130	Yasser Arafat
+T7	LOC 165 171	Israel
+T8	ORG 215 231	Yedioth Ahronoth
+T9	PER 267 285	Benjamin Netanyahu
+T10	MISC 341 352	Palestinian
+T11	PER 439 446	Weizman
+T12	MISC 509 516	Israeli
+T13	LOC 528 536	Caesarea
+T14	PER 543 549	Arafat
+T15	PER 612 621	Netanyahu
+T16	PER 626 633	Weizman
+T17	ORG 675 682	Yedioth
+T18	PER 802 808	Arafat
+T19	PER 854 861	Weizman
+T20	PER 873 882	Netanyahu
+T21	PER 894 903	Netanyahu
+T22	PER 920 927	Weizman
+T23	MISC 955 962	Israeli
+T24	PER 1002 1009	Weizman
+T25	LOC 1058 1064	Israel
+T26	LOC 1086 1091	Egypt
+T27	MISC 1150 1162	Palestinians
+T28	ORG 1193 1199	Labour

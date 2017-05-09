@@ -1,0 +1,10 @@
+T1	ORG 9 15	Nijmeh
+T2	ORG 21 25	Nasr
+T3	LOC 33 40	TRIPOLI
+T4	LOC 43 50	Lebanon
+T5	ORG 63 69	Nijmeh
+T6	LOC 73 80	Lebanon
+T7	ORG 86 90	Nasr
+T8	LOC 94 106	Saudi Arabia
+T9	MISC 137 142	Asian
+T10	PER 212 224	Issa Alloush

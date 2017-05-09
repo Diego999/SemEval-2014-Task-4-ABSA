@@ -1,0 +1,7 @@
+T1	ORG 0 14	Bank of France
+T2	MISC 30 33	Ffr
+T3	LOC 47 52	PARIS
+T4	ORG 69 83	Bank of France
+T5	ORG 432 446	Bank of France
+T6	ORG 505 513	Treasury
+T7	ORG 695 709	Paris Newsroom

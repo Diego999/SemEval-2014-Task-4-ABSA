@@ -1,0 +1,22 @@
+T1	ORG 0 14	Slough Estates
+T2	LOC 45 51	LONDON
+T3	ORG 123 141	Slough Estates Plc
+T4	ORG 203 209	Slough
+T5	MISC 361 364	GMT
+T6	ORG 373 385	British Land
+T7	ORG 412 427	Land Securities
+T8	ORG 454 463	Hammerson
+T9	ORG 540 553	Merrill Lynch
+T10	ORG 558 569	SBC Warburg
+T11	ORG 633 646	Merrill Lynch
+T12	ORG 651 662	SBC Warburg
+T13	ORG 720 733	Merrill Lynch
+T14	ORG 922 933	SBC Warburg
+T15	ORG 1154 1165	SBC Warburg
+T16	ORG 1191 1202	SBC Warburg
+T17	ORG 1392 1403	SBC Warburg
+T18	ORG 1446 1460	Slough Estates
+T19	ORG 1546 1552	Slough
+T20	PER 1569 1580	Nigel Mobbs
+T21	PER 1831 1844	Jonathan Birt
+T22	ORG 1847 1862	London Newsroom

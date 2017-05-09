@@ -1,0 +1,17 @@
+T1	ORG 0 8	Ericsson
+T2	LOC 31 36	China
+T3	LOC 46 55	STOCKHOLM
+T4	MISC 68 75	Swedish
+T5	ORG 91 105	LM Ericsson AB
+T6	LOC 205 214	Guangdong
+T7	LOC 227 232	China
+T8	ORG 236 244	Ericsson
+T9	ORG 288 340	Guangdong Post and Telecommunications Administration
+T10	ORG 343 347	GPTA
+T11	MISC 372 375	AXE
+T12	MISC 415 434	Intelligent Network
+T13	MISC 437 439	IN
+T14	ORG 533 541	Ericsson
+T15	PER 552 567	Per Zetterquist
+T16	ORG 573 580	Reuters
+T17	LOC 652 661	Stockholm

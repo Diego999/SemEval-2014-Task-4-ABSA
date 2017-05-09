@@ -1,0 +1,50 @@
+T1	LOC 0 4	GOLF
+T2	MISC 7 18	GERMAN OPEN
+T3	LOC 29 38	STUTTGART
+T4	LOC 41 48	Germany
+T5	MISC 61 67	Briton
+T6	PER 68 79	Ian Woosnam
+T7	MISC 89 100	German Open
+T8	LOC 224 231	Britain
+T9	PER 255 266	Ian Woosnam
+T10	PER 283 296	Thomas Gogele
+T11	LOC 299 306	Germany
+T12	PER 320 335	Robert Karlsson
+T13	LOC 339 345	Sweden
+T14	PER 359 368	Ian Pyman
+T15	PER 380 393	Fernando Roca
+T16	LOC 397 402	Spain
+T17	PER 421 434	Diego Borrego
+T18	LOC 437 442	Spain
+T19	PER 456 475	Miguel Angel Martin
+T20	LOC 479 484	Spain
+T21	PER 503 515	Stephen Ames
+T22	LOC 518 526	Trinidad
+T23	PER 540 553	Roger Chapman
+T24	PER 566 581	Paul Broadhurst
+T25	PER 593 606	Stephen Field
+T26	PER 619 631	Carl Suneson
+T27	LOC 634 639	Spain
+T28	PER 656 667	Greg Turner
+T29	LOC 670 681	New Zealand
+T30	PER 695 711	Heinz-Peter Thul
+T31	LOC 715 722	Germany
+T32	PER 736 750	Ronan Rafferty
+T33	PER 762 772	Barry Lane
+T34	PER 785 797	David Carter
+T35	PER 809 823	Michael Jonzon
+T36	LOC 826 832	Sweden
+T37	PER 847 861	David Williams
+T38	PER 876 888	Lee Westwood
+T39	PER 900 912	Gary Emerson
+T40	PER 924 935	Peter Baker
+T41	PER 948 957	Des Smyth
+T42	LOC 960 967	Ireland
+T43	PER 981 992	Paul Lawrie
+T44	PER 1005 1018	Francisco Cea
+T45	LOC 1021 1026	Spain
+T46	PER 1040 1053	Pedro Linhart
+T47	LOC 1057 1062	Spain
+T48	PER 1076 1090	Jonathan Lomas
+T49	PER 1102 1112	Paul Eales
+T50	PER 1125 1140	Raymond Russell

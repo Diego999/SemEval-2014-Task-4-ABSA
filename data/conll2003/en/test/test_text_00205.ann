@@ -1,0 +1,20 @@
+T1	ORG 0 11	RUGBY UNION
+T2	PER 23 30	CAMPESE
+T3	LOC 52 58	LONDON
+T4	PER 71 84	David Campese
+T5	LOC 128 135	England
+T6	LOC 215 224	Australia
+T7	ORG 278 285	Wallaby
+T8	LOC 356 362	London
+T9	ORG 368 376	Saracens
+T10	PER 405 421	Francois Pienaar
+T11	PER 424 438	Michael Lynagh
+T12	PER 443 457	Philippe Sella
+T13	PER 575 582	Campese
+T14	ORG 700 715	New South Wales
+T15	ORG 754 761	Wallaby
+T16	PER 770 785	Nick Farr-Jones
+T17	PER 795 802	Campese
+T18	LOC 825 832	England
+T19	LOC 874 881	England
+T20	PER 910 923	David Campese

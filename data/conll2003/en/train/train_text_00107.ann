@@ -1,0 +1,29 @@
+T1	PER 0 7	Clinton
+T2	ORG 11 22	Ballybunion
+T3	LOC 39 46	Chicago
+T4	LOC 50 56	DUBLIN
+T5	LOC 69 73	U.S.
+T6	PER 84 96	Bill Clinton
+T7	ORG 123 134	Ballybunion
+T8	MISC 152 157	Irish
+T9	ORG 179 190	Ballybunion
+T10	LOC 203 210	America
+T11	LOC 243 251	Atlantic
+T12	PER 267 274	Clinton
+T13	MISC 308 313	Irish
+T14	PER 331 342	Dick Spring
+T15	MISC 370 380	Democratic
+T16	LOC 401 408	Chicago
+T17	PER 497 504	Clinton
+T18	LOC 515 522	Ireland
+T19	LOC 547 553	Dublin
+T20	ORG 609 620	Ballybunion
+T21	PER 627 634	Clinton
+T22	MISC 646 656	Democratic
+T23	PER 736 744	Kennedys
+T24	PER 754 767	Frank Quilter
+T25	LOC 810 817	Chicago
+T26	PER 821 828	Clinton
+T27	MISC 847 852	Irish
+T28	LOC 868 884	Northern Ireland
+T29	ORG 922 933	Ballybunion

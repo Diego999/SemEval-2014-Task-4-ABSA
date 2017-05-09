@@ -1,0 +1,10 @@
+T1	ORG 0 9	Housecall
+T2	LOC 46 54	NEW YORK
+T3	ORG 110 141	Housecall Medical Resources Inc
+T4	ORG 259 273	Morgan Stanley
+T5	ORG 338 347	Housecall
+T6	MISC 397 410	Atlanta-based
+T7	LOC 459 470	Wall Street
+T8	ORG 586 595	Housecall
+T9	MISC 697 709	non-Medicare
+T10	MISC 835 843	Medicare

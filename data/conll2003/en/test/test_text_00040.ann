@@ -1,0 +1,59 @@
+T1	ORG 27 38	REAL MADRID
+T2	ORG 41 50	BARCELONA
+T3	LOC 54 60	MADRID
+T4	PER 73 85	William Hill
+T5	MISC 110 117	Spanish
+T6	ORG 147 158	Real Madrid
+T7	ORG 163 172	Barcelona
+T8	ORG 189 200	Real Madrid
+T9	ORG 207 216	Barcelona
+T10	ORG 247 258	Real Madrid
+T11	ORG 266 275	Barcelona
+T12	ORG 543 554	Real Madrid
+T13	ORG 555 566	Real Madrid
+T14	ORG 573 584	Real Madrid
+T15	ORG 596 607	Real Madrid
+T16	ORG 608 617	Barcelona
+T17	ORG 628 639	Real Madrid
+T18	ORG 666 675	Barcelona
+T19	ORG 682 691	Barcelona
+T20	ORG 692 703	Real Madrid
+T21	ORG 710 719	Barcelona
+T22	ORG 730 739	Barcelona
+T23	ORG 740 749	Barcelona
+T24	ORG 780 791	Real Madrid
+T25	ORG 792 801	Barcelona
+T26	PER 807 818	Davor Suker
+T27	PER 823 830	Ronaldo
+T28	PER 836 852	Pedrag Mijatovic
+T29	PER 857 866	Luis Figo
+T30	PER 872 885	Raul Gonzalez
+T31	PER 890 900	Juan Pizzi
+T32	PER 907 923	Fernando Redondo
+T33	PER 928 936	Giovanni
+T34	PER 943 957	Victor Sanchez
+T35	PER 963 972	Guillermo
+T36	PER 974 978	Amor
+T37	PER 985 998	Jose Amavisca
+T38	PER 1004 1016	Roger Garcia
+T39	PER 1023 1037	Manolo Sanchis
+T40	PER 1043 1051	Gheorghe
+T41	PER 1053 1060	Popescu
+T42	PER 1067 1081	Roberto Carlos
+T43	PER 1088 1102	JosepGuardiola
+T44	PER 1109 1124	Fernando Hierro
+T45	PER 1130 1137	Ivan de
+T46	PER 1139 1145	laPena
+T47	PER 1152 1162	Luis Milla
+T48	PER 1168 1172	Luis
+T49	PER 1174 1181	Enrique
+T50	PER 1188 1201	Fernando Sanz
+T51	PER 1208 1225	AbelardoFernandez
+T52	PER 1232 1249	Carlos Secretario
+T53	PER 1255 1268	Sergi Barjuan
+T54	PER 1275 1289	Rafael Alkorta
+T55	PER 1295 1301	Albert
+T56	PER 1303 1309	Ferrer
+T57	PER 1316 1329	Chendo Porlan
+T58	PER 1335 1347	Miguel Nadal
+T59	PER 1355 1368	Laurent Blanc

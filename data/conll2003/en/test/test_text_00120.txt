@@ -1,0 +1,20 @@
+CBOT grain / oilseed receipts and shipments . 
+CHICAGO 1996-12-06 
+Grain and soybean receipts and shipments , in bushels , at delivery locations for the previous trading day , according to the Chicago Board of Trade - 
+Receipts Shipments 
+Wheat 
+Chicago 0 0 
+St. Louis 21,346 0 
+Toledo 61,514 0 
+Corn 
+Chicago 78,056 0 
+St. Louis 217,092 75,810 
+Toledo 285,505 561,287 
+Oats 
+Chicago 0 0 
+Minneapolis 306,364 153,231 
+Soybeans 
+Chicago 8,674 484,018 
+St. Louis 253,821 223,172 
+Toledo 64,334 160,476 
+( ( Chicago Newsdesk 312-408-8720 ) ) 

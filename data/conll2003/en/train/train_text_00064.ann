@@ -1,0 +1,21 @@
+T1	ORG 0 14	In Home Health
+T2	LOC 43 53	MINNETONKA
+T3	LOC 56 60	Minn
+T4	ORG 76 94	In Home Health Inc
+T5	ORG 134 161	U.S. Federal District Court
+T6	LOC 165 176	Minneapolis
+T7	ORG 195 231	Health Care Financing Administration
+T8	ORG 234 238	HCFA
+T9	MISC 290 298	Medicaid
+T10	ORG 306 310	HCFA
+T11	MISC 593 601	Medicare
+T12	PER 750 761	Mark Gildea
+T13	ORG 813 827	In Home Health
+T14	ORG 956 970	In Home Health
+T15	ORG 980 999	U.S. District Court
+T16	LOC 1003 1014	Minneapolis
+T17	MISC 1144 1152	Medicare
+T18	MISC 1265 1273	Medicare
+T19	PER 1278 1284	Gildea
+T20	MISC 1418 1426	Medicare
+T21	ORG 1444 1460	Chicago Newsdesk

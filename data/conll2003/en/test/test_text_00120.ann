@@ -1,0 +1,15 @@
+T1	ORG 0 4	CBOT
+T2	LOC 47 54	CHICAGO
+T3	ORG 193 215	Chicago Board of Trade
+T4	LOC 246 253	Chicago
+T5	LOC 259 268	St. Louis
+T6	LOC 279 285	Toledo
+T7	LOC 302 309	Chicago
+T8	LOC 320 329	St. Louis
+T9	LOC 346 352	Toledo
+T10	LOC 376 383	Chicago
+T11	LOC 389 400	Minneapolis
+T12	LOC 428 435	Chicago
+T13	LOC 451 460	St. Louis
+T14	LOC 478 484	Toledo
+T15	ORG 505 521	Chicago Newsdesk

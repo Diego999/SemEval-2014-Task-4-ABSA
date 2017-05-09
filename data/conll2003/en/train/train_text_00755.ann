@@ -1,0 +1,20 @@
+T1	LOC 0 6	Turkey
+T2	PER 10 16	Ciller
+T3	LOC 34 40	Jordan
+T4	LOC 44 50	ANKARA
+T5	MISC 63 70	Turkish
+T6	PER 88 100	Tansu Ciller
+T7	LOC 112 118	Jordan
+T8	ORG 191 207	Foreign Ministry
+T9	PER 218 228	Omer Akbel
+T10	MISC 307 316	Jordanian
+T11	PER 332 355	Abdul-Karim al-Kabariti
+T12	LOC 389 395	Turkey
+T13	LOC 407 413	Jordan
+T14	LOC 460 471	Middle East
+T15	LOC 511 522	Middle East
+T16	PER 578 583	Akbel
+T17	MISC 592 599	Turkish
+T18	PER 615 632	Necmettin Erbakan
+T19	MISC 648 654	Moslem
+T20	LOC 677 681	Iran

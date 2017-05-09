@@ -1,0 +1,9 @@
+T1	PER 0 7	Clinton
+T2	MISC 13 23	Democratic
+T3	LOC 41 48	CHICAGO
+T4	PER 71 83	Bill Clinton
+T5	MISC 127 137	Democratic
+T6	LOC 189 200	White House
+T7	PER 204 211	Clinton
+T8	MISC 358 368	Republican
+T9	PER 380 388	Bob Dole

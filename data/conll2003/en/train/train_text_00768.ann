@@ -1,0 +1,18 @@
+T1	LOC 0 6	France
+T2	PER 10 15	Juppe
+T3	LOC 37 43	Greece
+T4	LOC 54 60	ATHENS
+T5	MISC 73 79	French
+T6	PER 88 99	Alain Juppe
+T7	LOC 130 136	Greece
+T8	ORG 183 212	French Archaeological Society
+T9	PER 236 251	Dimitris Reppas
+T10	PER 273 278	Juppe
+T11	MISC 289 294	Greek
+T12	PER 310 324	Costas Simitis
+T13	PER 346 364	Theodoros Pangalos
+T14	PER 367 373	Reppas
+T15	MISC 398 404	French
+T16	ORG 455 477	Archaeological Society
+T17	MISC 501 506	Greek
+T18	PER 621 627	Reppas

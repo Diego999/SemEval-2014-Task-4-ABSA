@@ -1,0 +1,10 @@
+T1	LOC 37 45	NEW YORK
+T2	ORG 111 127	Conference Board
+T3	LOC 400 404	U.S.
+T4	ORG 506 522	Conference Board
+T5	PER 533 546	Ken Goldstein
+T6	PER 1032 1041	Goldstein
+T7	LOC 1179 1190	New England
+T8	LOC 1193 1201	Mountain
+T9	LOC 1206 1224	West South Central
+T10	LOC 1269 1287	East North Central

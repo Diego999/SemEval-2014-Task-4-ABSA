@@ -1,0 +1,11 @@
+T1	ORG 0 4	RTRS
+T2	LOC 7 16	Melbourne
+T3	LOC 59 68	MELBOURNE
+T4	MISC 201 211	Australian
+T5	LOC 220 229	Melbourne
+T6	ORG 418 425	Reuters
+T7	ORG 431 459	Public Transport Corporation
+T8	LOC 552 561	Melbourne
+T9	LOC 572 579	Preston
+T10	LOC 818 833	Bell St Station
+T11	ORG 1001 1016	Sydney Newsroom

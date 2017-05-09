@@ -1,0 +1,38 @@
+T1	MISC 0 19	BOBSLEIGH-WORLD CUP
+T2	LOC 39 43	IGLS
+T3	LOC 46 53	Austria
+T4	MISC 79 88	World Cup
+T5	ORG 131 148	United States III
+T6	PER 151 163	Brian Shimer
+T7	PER 166 177	Randy Jones
+T8	ORG 228 235	Italy I
+T9	PER 238 252	Guenther Huber
+T10	PER 255 272	Antonio Tartaglia
+T11	ORG 306 314	Canada I
+T12	PER 317 331	Pierre Lueders
+T13	PER 334 349	Dave MacEachern
+T14	ORG 383 391	German I
+T15	PER 394 409	Sepp Dostthaler
+T16	PER 412 424	Thomas Lebsa
+T17	ORG 458 471	Switzerland I
+T18	PER 474 487	Reto Goetschi
+T19	PER 490 502	Guido Acklin
+T20	ORG 536 547	Germany III
+T21	PER 550 560	Dirk Wiese
+T22	PER 563 575	Jakobs Marco
+T23	ORG 609 625	Czech Republic I
+T24	PER 628 639	Jiri Dzmura
+T25	PER 642 656	Pavel Polomsky
+T26	ORG 690 699	Austria I
+T27	PER 702 718	Hubert Schoesser
+T28	PER 721 733	Erwin Arnold
+T29	ORG 767 776	Britain I
+T30	PER 779 790	Sean Olsson
+T31	PER 793 802	Dean Ward
+T32	ORG 844 859	United States I
+T33	PER 862 875	Jim Herberich
+T34	PER 878 885	Garrett
+T35	PER 887 892	Hines
+T36	ORG 925 936	Austria III
+T37	PER 940 952	Hannes Conti
+T38	PER 955 968	Georg Kuttner

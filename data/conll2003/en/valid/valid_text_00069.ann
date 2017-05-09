@@ -1,0 +1,24 @@
+T1	PER 0 4	Dole
+T2	LOC 48 54	IRVINE
+T3	LOC 57 62	Calif
+T4	MISC 117 128	Republicans
+T5	PER 227 234	Clinton
+T6	PER 297 301	Dole
+T7	PER 351 358	Clinton
+T8	PER 385 389	Dole
+T9	PER 407 417	Scott Reed
+T10	PER 647 651	Dole
+T11	PER 669 679	Scott Reed
+T12	PER 689 696	Clinton
+T13	PER 714 726	Peter Knight
+T14	LOC 864 878	South Carolina
+T15	PER 886 902	Carroll Campbell
+T16	PER 916 920	Dole
+T17	PER 960 964	Dole
+T18	PER 976 985	Jack Kemp
+T19	PER 998 1002	Dole
+T20	LOC 1065 1070	Texas
+T21	PER 1083 1093	Ross Perot
+T22	ORG 1100 1112	Reform Party
+T23	ORG 1200 1234	Commission on Presidential Debates
+T24	ORG 1321 1343	League of Women Voters

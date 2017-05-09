@@ -1,0 +1,18 @@
+T1	LOC 0 5	Japan
+T2	PER 9 18	Hashimoto
+T3	LOC 26 32	Brazil
+T4	LOC 37 41	Peru
+T5	LOC 45 53	BRASILIA
+T6	MISC 66 74	Japanese
+T7	PER 90 107	Ryutaro Hashimoto
+T8	LOC 113 121	Brasilia
+T9	LOC 136 140	Lima
+T10	MISC 176 190	Latin American
+T11	MISC 200 209	Brazilian
+T12	ORG 210 226	Foreign Ministry
+T13	PER 247 256	Hashimoto
+T14	LOC 283 289	Mexico
+T15	LOC 294 299	Chile
+T16	LOC 322 328	Brazil
+T17	LOC 338 342	Peru
+T18	LOC 365 375	Costa Rica

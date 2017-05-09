@@ -1,0 +1,45 @@
+T1	LOC 0 7	Britain
+T2	MISC 33 41	American
+T3	PER 54 68	Edna Fernandes
+T4	LOC 70 76	LONDON
+T5	MISC 93 100	British
+T6	MISC 159 173	trans-Atlantic
+T7	ORG 191 210	British Airways Plc
+T8	ORG 215 232	American Airlines
+T9	LOC 236 243	Britain
+T10	ORG 247 280	Monopolies and Mergers Commission
+T11	ORG 341 359	Trade and Industry
+T12	PER 370 378	Ian Lang
+T13	LOC 499 506	Britain
+T14	LOC 515 528	United States
+T15	MISC 543 557	trans-Atlantic
+T16	PER 628 632	Lang
+T17	LOC 674 681	Britain
+T18	ORG 685 707	Office of Fair Trading
+T19	ORG 927 929	BA
+T20	ORG 934 936	AA
+T21	MISC 985 999	trans-Atlantic
+T22	LOC 1025 1027	UK
+T23	LOC 1032 1036	U.S.
+T24	LOC 1133 1139	London
+T25	MISC 1279 1303	British Airways-American
+T26	ORG 1384 1399	British Airways
+T27	ORG 1404 1412	American
+T28	LOC 1431 1446	London Heathrow
+T29	LOC 1472 1478	Europe
+T30	ORG 1482 1490	American
+T31	ORG 1503 1512	AMR Corp.
+T32	ORG 1705 1720	British Airways
+T33	ORG 2012 2027	British Airways
+T34	ORG 2067 2072	USAir
+T35	MISC 2104 2118	trans-Atlantic
+T36	ORG 2142 2157	British Airways
+T37	ORG 2162 2170	American
+T38	LOC 2216 2222	London
+T39	LOC 2226 2243	Dallas-Fort Worth
+T40	MISC 2344 2360	London-to-Boston
+T41	ORG 2374 2394	Office of Fair Trade
+T42	ORG 2406 2421	British Airways
+T43	ORG 2424 2432	American
+T44	PER 2572 2576	Lang
+T45	ORG 2614 2636	Office of Fair Trading

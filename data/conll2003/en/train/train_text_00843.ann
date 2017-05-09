@@ -1,0 +1,17 @@
+T1	ORG 0 7	Gazprom
+T2	LOC 45 51	MOSCOW
+T3	MISC 96 103	Russian
+T4	ORG 117 128	RAO Gazprom
+T5	ORG 244 274	Federal Securities Corporation
+T6	ORG 277 280	FFK
+T7	ORG 418 421	FFK
+T8	ORG 484 491	Gazprom
+T9	ORG 510 513	FFK
+T10	ORG 601 608	Gazprom
+T11	ORG 633 640	Gazprom
+T12	LOC 643 649	Russia
+T13	ORG 858 865	Gazprom
+T14	MISC 1310 1332	Russian Trading System
+T15	ORG 1335 1342	Gazprom
+T16	PER 1458 1474	Artyom Danielyan
+T17	ORG 1477 1492	Moscow Newsroom

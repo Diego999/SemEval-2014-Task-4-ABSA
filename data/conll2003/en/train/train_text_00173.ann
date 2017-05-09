@@ -1,0 +1,12 @@
+T1	PER 0 7	Buffett
+T2	ORG 15 31	Property Capital
+T3	LOC 41 51	WASHINGTON
+T4	LOC 64 69	Omaha
+T5	PER 82 96	Warren Buffett
+T6	ORG 132 154	Property Capital Trust
+T7	ORG 211 245	Securities and Exchnage Commission
+T8	PER 248 255	Buffett
+T9	MISC 310 322	Boston-based
+T10	PER 536 543	Buffett
+T11	ORG 605 627	Berkshire Hathaway Inc
+T12	LOC 700 704	U.S.

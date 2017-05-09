@@ -1,0 +1,29 @@
+T1	ORG 15 34	Wall Street Journal
+T2	LOC 47 55	NEW YORK
+T3	ORG 72 103	National Basketball Association
+T4	ORG 113 131	America Online Inc
+T5	LOC 152 165	United States
+T6	ORG 269 292	The Wall Street Journal
+T7	LOC 369 378	Manhattan
+T8	ORG 488 502	America Online
+T9	ORG 524 527	NBA
+T10	ORG 613 616	NBA
+T11	ORG 671 695	Baxter International Inc
+T12	LOC 732 739	Austria
+T13	ORG 743 766	Immuno International AG
+T14	ORG 814 823	Boeing Co
+T15	PER 893 905	Bill Clinton
+T16	ORG 960 981	Philip Morris Cos Inc
+T17	ORG 1014 1034	Salomon Brothers Inc
+T18	ORG 1057 1093	International Business Machines Corp
+T19	ORG 1099 1124	Sierra Semiconductor Corp
+T20	ORG 1183 1202	Red Lion Hotels Inc
+T21	ORG 1240 1255	Doubletree Corp
+T22	ORG 1261 1269	GTE Corp
+T23	ORG 1272 1282	Baby Bells
+T24	PER 1466 1473	Clinton
+T25	ORG 1534 1568	Securities and Exchange Commission
+T26	ORG 1623 1636	H&R Block Inc
+T27	ORG 1668 1683	CompuServe Corp
+T28	ORG 1741 1788	Federal Trade Commission and Justice Department
+T29	LOC 1852 1860	New York

@@ -1,0 +1,29 @@
+T1	ORG 0 5	Amoco
+T2	LOC 25 30	Yemen
+T3	LOC 46 54	NEW YORK
+T4	ORG 67 77	Amoco Corp
+T5	LOC 154 159	Yemen
+T6	ORG 208 213	Amoco
+T7	LOC 266 272	Shabwa
+T8	LOC 306 311	Yemen
+T9	ORG 355 360	Amoco
+T10	PER 371 382	Dan Dietsch
+T11	MISC 460 487	Middle East Economic Survey
+T12	MISC 490 494	MEES
+T13	LOC 499 504	Yemen
+T14	ORG 509 514	Amoco
+T15	MISC 594 611	Shabwa Block No .
+T16	MISC 613 616	S-1
+T17	LOC 631 642	South Yemen
+T18	LOC 663 674	North Yemen
+T19	ORG 707 712	Amoco
+T20	LOC 777 782	Yemen
+T21	ORG 805 810	Amoco
+T22	MISC 832 838	Yemeni
+T23	ORG 839 873	Ministry of Petroleum and Minerals
+T24	MISC 907 918	Amoco-Yemen
+T25	LOC 939 951	Soviet Union
+T26	LOC 1004 1010	Shabwa
+T27	MISC 1075 1111	International Petroleum Encyclopedia
+T28	PER 1118 1131	Oliver Ludwig
+T29	ORG 1134 1154	New York Energy Desk

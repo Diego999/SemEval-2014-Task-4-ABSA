@@ -1,0 +1,29 @@
+T1	ORG 11 18	ORIOLES
+T2	PER 29 42	DAVEY JOHNSON
+T3	LOC 59 68	BALTIMORE
+T4	ORG 81 98	Baltimore Orioles
+T5	PER 107 120	Davey Johnson
+T6	ORG 166 182	Seattle Mariners
+T7	PER 265 272	Johnson
+T8	ORG 398 405	Orioles
+T9	PER 425 441	William Goldiner
+T10	PER 456 463	Johnson
+T11	ORG 504 511	Orioles
+T12	PER 526 542	Andy Etchebarren
+T13	PER 567 574	Johnson
+T14	PER 589 596	Johnson
+T15	ORG 654 671	California Angels
+T16	PER 680 693	John McNamara
+T17	LOC 710 718	New York
+T18	LOC 722 752	Columbia Presbyterian Hospital
+T19	PER 804 811	Johnson
+T20	LOC 842 851	Baltimore
+T21	ORG 864 871	Orioles
+T22	PER 908 918	Phil Regan
+T23	ORG 933 948	Cincinnati Reds
+T24	MISC 956 991	National League Championship Series
+T25	ORG 1017 1030	New York Mets
+T26	MISC 1036 1048	World Series
+T27	ORG 1073 1082	Baltimore
+T28	ORG 1157 1173	New York Yankees
+T29	MISC 1181 1210	American League East Division

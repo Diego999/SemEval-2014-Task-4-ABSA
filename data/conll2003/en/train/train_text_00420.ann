@@ -1,0 +1,33 @@
+T1	MISC 9 18	UKRAINIAN
+T2	LOC 59 63	KIEV
+T3	LOC 87 94	Ukraine
+T4	ORG 146 157	Dynamo Kiev
+T5	ORG 160 177	Kremin Kremenchuk
+T6	ORG 181 196	Vorskla Poltava
+T7	ORG 199 212	Nyva Ternopil
+T8	ORG 216 234	Torpedo Zaporizhya
+T9	ORG 237 253	Shakhtar Donetsk
+T10	ORG 257 274	Kryvbas Kryvy Rig
+T11	ORG 277 289	Karpaty Lviv
+T12	ORG 293 321	Prykarpattya Ivano-Frankivsk
+T13	ORG 324 346	Zirka-Nibas Kirovohrad
+T14	ORG 350 369	Chornomorets Odessa
+T15	ORG 372 391	Metalurg Zaporizhya
+T16	ORG 395 416	Dnipro Dnipropetrovsk
+T17	ORG 419 428	CSKA Kiev
+T18	ORG 525 531	Dynamo
+T19	ORG 549 556	Vorskla
+T20	ORG 574 580	Dnipro
+T21	ORG 598 610	Chornomorets
+T22	ORG 628 636	Shakhtar
+T23	ORG 654 662	Metalurg
+T24	ORG 679 686	Karpaty
+T25	ORG 703 714	Zirka-Nibas
+T26	ORG 731 738	Torpedo
+T27	ORG 755 761	Tavria
+T28	ORG 777 790	Nyva Ternopil
+T29	ORG 807 811	CSKA
+T30	ORG 827 834	Kryvbas
+T31	ORG 850 864	Nyva Vinnytsya
+T32	ORG 880 892	Prykarpattya
+T33	ORG 909 915	Kremin

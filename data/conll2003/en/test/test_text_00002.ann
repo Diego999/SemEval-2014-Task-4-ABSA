@@ -1,0 +1,44 @@
+T1	ORG 0 11	RUGBY UNION
+T2	PER 14 22	CUTTITTA
+T3	LOC 32 37	ITALY
+T4	LOC 54 58	ROME
+T5	LOC 71 76	Italy
+T6	PER 86 103	Marcello Cuttitta
+T7	LOC 142 150	Scotland
+T8	LOC 154 165	Murrayfield
+T9	PER 276 284	Cuttitta
+T10	PER 299 311	George Coste
+T11	LOC 429 436	England
+T12	LOC 440 450	Twickenham
+T13	PER 465 479	Stefano Bordon
+T14	PER 507 512	Coste
+T15	PER 542 554	Corrado Covi
+T16	LOC 587 594	England
+T17	PER 645 653	Cuttitta
+T18	MISC 689 703	1995 World Cup
+T19	LOC 754 759	Italy
+T20	LOC 776 783	England
+T21	PER 806 811	Coste
+T22	MISC 896 905	World Cup
+T23	PER 928 933	Coste
+T24	PER 1088 1102	Javier Pertile
+T25	PER 1105 1118	Paolo Vaccari
+T26	PER 1121 1138	Marcello Cuttitta
+T27	PER 1141 1157	Ivan Francescato
+T28	PER 1160 1175	Leandro Manteri
+T29	PER 1178 1193	Diego Dominguez
+T30	PER 1196 1215	Francesco Mazzariol
+T31	PER 1218 1236	Alessandro Troncon
+T32	PER 1239 1253	Orazio Arancio
+T33	PER 1256 1270	Andrea Sgorlon
+T34	PER 1273 1291	Massimo Giovanelli
+T35	PER 1294 1311	Carlo Checchinato
+T36	PER 1314 1334	Walter Cristofoletto
+T37	PER 1337 1358	Franco Properzi Curti
+T38	PER 1361 1374	Carlo Orlandi
+T39	PER 1377 1393	Massimo Cuttitta
+T40	PER 1396 1413	Giambatista Croci
+T41	PER 1416 1430	Gianluca Guidi
+T42	PER 1433 1449	Nicola Mazzucato
+T43	PER 1452 1471	Alessandro Moscardi
+T44	PER 1474 1491	Andrea Castellani

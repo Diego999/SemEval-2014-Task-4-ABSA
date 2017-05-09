@@ -1,0 +1,22 @@
+T1	ORG 4 19	Liberia Council
+T2	LOC 53 61	MONROVIA
+T3	PER 74 84	Ruth Perry
+T4	LOC 122 129	Liberia
+T5	ORG 233 246	State Council
+T6	ORG 264 271	Council
+T7	PER 290 295	Perry
+T8	MISC 300 308	Liberian
+T9	ORG 309 315	Senate
+T10	LOC 354 362	Monrovia
+T11	MISC 382 394	West African
+T12	LOC 458 465	Nigeria
+T13	LOC 477 482	Abuja
+T14	ORG 660 673	State Council
+T15	PER 688 702	Charles Taylor
+T16	PER 707 721	Alhadji Kromah
+T17	LOC 776 783	Liberia
+T18	PER 811 817	Taylor
+T19	LOC 922 930	Monrovia
+T20	MISC 1113 1125	West African
+T21	MISC 1225 1233	American
+T22	LOC 1249 1256	Liberia

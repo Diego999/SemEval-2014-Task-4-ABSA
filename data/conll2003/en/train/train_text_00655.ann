@@ -1,0 +1,42 @@
+T1	PER 10 15	GIBBS
+T2	LOC 46 58	JOHANNESBURG
+T3	ORG 71 87	Western Province
+T4	PER 96 112	Herschelle Gibbs
+T5	LOC 145 157	South Africa
+T6	LOC 230 235	Kenya
+T7	LOC 250 255	Kenya
+T8	LOC 258 270	South Africa
+T9	LOC 273 281	Pakistan
+T10	LOC 286 295	Sri Lanka
+T11	PER 343 354	Bob Woolmer
+T12	PER 360 365	Gibbs
+T13	LOC 416 423	England
+T14	MISC 433 446	South African
+T15	PER 489 499	Herschelle
+T16	LOC 543 550	England
+T17	ORG 593 596	MCC
+T18	PER 683 690	Woolmer
+T19	PER 751 765	Jacques Kallis
+T20	PER 768 778	Paul Adams
+T21	PER 783 796	Shaun Pollock
+T22	PER 935 945	Nicky Boje
+T23	PER 950 963	Derek Crookes
+T24	PER 972 979	Pollock
+T25	PER 984 989	Adams
+T26	PER 998 1003	Gibbs
+T27	ORG 1021 1037	Western Province
+T28	PER 1048 1054	Kallis
+T29	PER 1066 1079	Hansie Cronje
+T30	PER 1094 1108	Craig Matthews
+T31	PER 1128 1143	Dave Richardson
+T32	PER 1146 1160	Brian McMillan
+T33	PER 1163 1175	Gary Kirsten
+T34	PER 1178 1191	Andrew Hudson
+T35	PER 1194 1204	Pat Symcox
+T36	PER 1207 1219	Jonty Rhodes
+T37	PER 1222 1234	Allan Donald
+T38	PER 1237 1254	Fanie de Villiers
+T39	PER 1257 1272	Daryll Cullinan
+T40	PER 1275 1288	Derek Crookes
+T41	PER 1291 1306	Herschelle Gibs
+T42	PER 1309 1319	Nicky Boje

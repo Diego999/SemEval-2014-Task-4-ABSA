@@ -1,0 +1,64 @@
+T1	MISC 20 33	CANADIAN OPEN
+T2	LOC 37 44	TORONTO
+T3	MISC 74 87	Canadian Open
+T4	PER 172 185	Daniel Nestor
+T5	LOC 188 194	Canada
+T6	PER 206 219	Thomas Muster
+T7	LOC 222 229	Austria
+T8	PER 241 257	Mikael Tillstrom
+T9	LOC 260 266	Sweden
+T10	PER 278 294	Goran Ivanisevic
+T11	LOC 297 304	Croatia
+T12	PER 333 347	Wayne Ferreira
+T13	LOC 350 362	South Africa
+T14	PER 370 380	Jiri Novak
+T15	LOC 383 388	Czech
+T16	LOC 390 398	Republic
+T17	PER 414 426	Marcelo Rios
+T18	LOC 429 434	Chile
+T19	PER 442 457	Kenneth Carlsen
+T20	LOC 460 467	Denmark
+T21	PER 483 501	MaliVai Washington
+T22	LOC 504 508	U.S.
+T23	PER 516 529	Alex Corretja
+T24	LOC 532 537	Spain
+T25	PER 554 565	Todd Martin
+T26	LOC 568 572	U.S.
+T27	PER 580 592	Renzo Furlan
+T28	LOC 595 600	Italy
+T29	PER 620 638	Mark Philippoussis
+T30	LOC 641 650	Australia
+T31	PER 662 673	Marc Rosset
+T32	LOC 677 688	Switzerland
+T33	PER 716 730	Cedric Pioline
+T34	LOC 733 739	France
+T35	PER 747 761	Gregory Carraz
+T36	LOC 764 770	France
+T37	PER 791 805	Patrick Rafter
+T38	LOC 808 817	Australia
+T39	PER 830 849	Alberto Berasategui
+T40	LOC 853 858	Spain
+T41	PER 870 880	Petr Korda
+T42	LOC 883 897	Czech Republic
+T43	PER 910 926	Francisco Clavet
+T44	LOC 929 934	Spain
+T45	PER 947 959	Daniel Vacek
+T46	LOC 962 976	Czech Republic
+T47	PER 989 1006	Jason Stoltenberg
+T48	LOC 1010 1019	Australia
+T49	PER 1053 1068	Todd Woodbridge
+T50	LOC 1071 1080	Australia
+T51	PER 1086 1102	Sebastien Lareau
+T52	LOC 1105 1111	Canada
+T53	PER 1128 1140	Alex O'Brien
+T54	LOC 1143 1147	U.S.
+T55	PER 1155 1166	Byron Black
+T56	LOC 1169 1177	Zimbabwe
+T57	PER 1197 1212	Bohdan Ulihrach
+T58	LOC 1215 1229	Czech Republic
+T59	PER 1237 1252	Andrea Gaudenzi
+T60	LOC 1255 1260	Italy
+T61	PER 1277 1287	Tim Henman
+T62	LOC 1290 1297	Britain
+T63	PER 1305 1319	Chris Woodruff
+T64	LOC 1322 1326	U.S.

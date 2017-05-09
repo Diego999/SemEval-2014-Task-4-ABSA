@@ -1,0 +1,27 @@
+T1	LOC 0 4	Mass
+T2	LOC 53 59	BOSTON
+T3	MISC 100 110	Republican
+T4	PER 118 130	William Weld
+T5	LOC 167 171	U.S.
+T6	ORG 172 178	Senate
+T7	LOC 219 232	Massachusetts
+T8	PER 236 240	Weld
+T9	PER 277 283	Franny
+T10	MISC 312 322	Democratic
+T11	PER 340 350	John Kerry
+T12	PER 398 402	Weld
+T13	ORG 417 424	WBUR-FM
+T14	LOC 534 543	Cambridge
+T15	LOC 546 559	Massachusetts
+T16	LOC 574 584	Washington
+T17	PER 601 612	Franny Weld
+T18	PER 630 645	Tracy Roosevelt
+T19	PER 696 701	Tracy
+T20	MISC 732 742	Democratic
+T21	LOC 760 778	Franklin Roosevelt
+T22	MISC 797 806	Democrats
+T23	PER 833 843	Roosevelts
+T24	PER 864 868	Weld
+T25	PER 884 904	Susan Roosevelt Weld
+T26	PER 940 958	Theodore Roosevelt
+T27	MISC 989 999	Republican

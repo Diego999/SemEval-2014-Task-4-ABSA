@@ -1,0 +1,7 @@
+T1	ORG 0 13	John Lewis UK
+T2	LOC 46 52	LONDON
+T3	PER 69 79	John Lewis
+T4	LOC 101 103	UK
+T5	ORG 321 329	Waitrose
+T6	PER 432 448	Rosemary Bennett
+T7	ORG 451 466	London Newsroom

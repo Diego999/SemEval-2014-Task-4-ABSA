@@ -1,0 +1,112 @@
+T1	MISC 39 48	U.S. OPEN
+T2	LOC 52 60	NEW YORK
+T3	MISC 112 142	U.S. Open Tennis Championships
+T4	LOC 150 172	National Tennis Centre
+T5	PER 248 265	Gabriela Sabatini
+T6	LOC 268 277	Argentina
+T7	PER 285 297	Ann Grossman
+T8	LOC 300 304	U.S.
+T9	PER 318 331	Irina Spirlea
+T10	LOC 334 341	Romania
+T11	PER 349 367	Maria Jose Gaidano
+T12	LOC 370 379	Argentina
+T13	PER 395 412	Lindsay Davenport
+T14	LOC 415 419	U.S.
+T15	PER 427 444	Henrietta Nagyova
+T16	LOC 447 455	Slovakia
+T17	PER 468 485	Anne-Gaelle Sidot
+T18	LOC 488 494	France
+T19	PER 502 515	Wang Shi-Ting
+T20	LOC 518 524	Taiwan
+T21	PER 540 555	Sandrine Testud
+T22	LOC 558 564	France
+T23	PER 572 595	Cristina Torrens-Valero
+T24	LOC 598 603	Spain
+T25	PER 647 662	Andrei Medvedev
+T26	LOC 665 672	Ukraine
+T27	PER 680 702	Jean-Philippe Fleurian
+T28	LOC 705 711	France
+T29	PER 727 740	David Nainkin
+T30	LOC 743 755	South Africa
+T31	PER 767 781	Wayne Ferreira
+T32	LOC 784 796	South Africa
+T33	PER 816 826	David Rikl
+T34	LOC 829 843	Czech Republic
+T35	PER 851 863	Hicham Arazi
+T36	LOC 866 873	Morocco
+T37	PER 889 904	Andrea Gaudenzi
+T38	LOC 907 912	Italy
+T39	PER 920 934	Shuzo Matsuoka
+T40	LOC 937 942	Japan
+T41	PER 1003 1017	Felix Mantilla
+T42	LOC 1020 1025	Spain
+T43	PER 1033 1050	Fernando Meligeni
+T44	LOC 1053 1059	Brazil
+T45	PER 1097 1111	Jonas Bjorkman
+T46	LOC 1114 1120	Sweden
+T47	PER 1128 1140	Karol Kucera
+T48	LOC 1143 1151	Slovakia
+T49	PER 1180 1191	Jan Kroslak
+T50	LOC 1194 1202	Slovakia
+T51	PER 1210 1224	Chris Woodruff
+T52	LOC 1227 1231	U.S.
+T53	PER 1298 1312	Amanda Coetzer
+T54	LOC 1315 1327	South Africa
+T55	PER 1335 1352	Mariaan de Swardt
+T56	LOC 1355 1367	South Africa
+T57	PER 1379 1389	Linda Wild
+T58	LOC 1392 1396	U.S.
+T59	PER 1404 1419	Kristie Boogert
+T60	LOC 1422 1433	Netherlands
+T61	PER 1449 1460	Kimberly Po
+T62	LOC 1463 1467	U.S.
+T63	PER 1475 1490	Kristina Brandi
+T64	LOC 1493 1497	U.S.
+T65	PER 1509 1522	Helena Sukova
+T66	LOC 1525 1539	Czech Republic
+T67	PER 1547 1559	Paola Suarez
+T68	LOC 1562 1571	Argentina
+T69	PER 1629 1641	Monica Seles
+T70	LOC 1644 1648	U.S.
+T71	PER 1656 1673	Laurence Courtois
+T72	LOC 1676 1683	Belgium
+T73	PER 1715 1733	Dally Randriantefy
+T74	LOC 1736 1746	Madagascar
+T75	PER 1754 1762	Jane Chi
+T76	LOC 1765 1769	U.S.
+T77	PER 1781 1799	Ines Gorrochategui
+T78	LOC 1802 1811	Argentina
+T79	PER 1819 1835	Aleksandra Olsza
+T80	LOC 1838 1844	Poland
+T81	PER 1893 1904	Todd Martin
+T82	LOC 1907 1911	U.S.
+T83	PER 1919 1936	Younes El Aynaoui
+T84	LOC 1939 1946	Morocco
+T85	PER 1966 1980	Sjeng Schalken
+T86	LOC 1983 1994	Netherlands
+T87	PER 2002 2018	Gilbert Schaller
+T88	LOC 2021 2028	Austria
+T89	PER 2087 2102	Michael Tebbutt
+T90	LOC 2105 2114	Australia
+T91	PER 2122 2137	Richey Reneberg
+T92	LOC 2140 2144	U.S.
+T93	PER 2169 2182	Paul Haarhuis
+T94	LOC 2185 2196	Netherlands
+T95	PER 2204 2217	Michael Joyce
+T96	LOC 2220 2223	U.S
+T97	PER 2297 2312	Barbara Rittner
+T98	LOC 2315 2322	Germany
+T99	PER 2335 2358	Brenda Schultz-McCarthy
+T100	LOC 2362 2373	Netherlands
+T101	PER 2415 2425	Guy Forget
+T102	LOC 2428 2434	France
+T103	PER 2442 2456	Grant Stafford
+T104	LOC 2459 2471	South Africa
+T105	PER 2557 2569	Lisa Raymond
+T106	LOC 2572 2576	U.S.
+T107	PER 2584 2599	Sarah Pitkowski
+T108	LOC 2602 2608	France
+T109	PER 2620 2632	Asa Carlsson
+T110	LOC 2635 2641	Sweden
+T111	PER 2649 2663	Barbara Schett
+T112	LOC 2666 2673	Austria

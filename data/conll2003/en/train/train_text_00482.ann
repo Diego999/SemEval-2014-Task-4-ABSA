@@ -1,0 +1,19 @@
+T1	PER 0 7	Talbott
+T2	MISC 16 23	Russian
+T3	MISC 26 34	Canadian
+T4	LOC 51 61	WASHINGTON
+T5	PER 100 114	Strobe Talbott
+T6	LOC 123 129	Ottawa
+T7	MISC 152 159	Russian
+T8	MISC 209 217	European
+T9	ORG 240 256	State Department
+T10	PER 265 272	Talbott
+T11	ORG 294 310	State Department
+T12	MISC 334 341	Russian
+T13	PER 366 380	Georgy Mamedov
+T14	PER 527 538	Glyn Davies
+T15	PER 632 639	Talbott
+T16	MISC 706 714	Canadian
+T17	PER 729 741	Gordon Smith
+T18	LOC 747 753	Ottawa
+T19	LOC 800 805	Haiti

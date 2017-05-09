@@ -1,0 +1,40 @@
+T1	ORG 0 6	Zenith
+T2	PER 65 77	Susan Nadeau
+T3	LOC 79 86	CHICAGO
+T4	ORG 139 157	The Walt Disney Co
+T5	ORG 217 223	Zenith
+T6	ORG 380 386	Zenith
+T7	PER 489 503	William Luehrs
+T8	LOC 523 531	Glenview
+T9	MISC 534 544	Ill.-based
+T10	ORG 556 582	Networks Services Division
+T11	ORG 790 796	Zenith
+T12	ORG 839 862	New York Stock Exchange
+T13	ORG 890 899	Americast
+T14	ORG 1027 1033	Disney
+T15	ORG 1036 1045	Americast
+T16	ORG 1078 1093	Ameritech Corp.
+T17	ORG 1096 1111	BellSouth Corp.
+T18	ORG 1114 1123	GTE Corp.
+T19	ORG 1128 1146	SBC Communications
+T20	ORG 1150 1159	Americast
+T21	ORG 1165 1210	Southern New England Telecommunications Corp.
+T22	ORG 1344 1350	Zenith
+T23	LOC 1410 1419	Woodridge
+T24	LOC 1422 1425	Ill
+T25	ORG 1641 1647	Zenith
+T26	PER 1730 1736	Luehrs
+T27	ORG 1891 1897	Zenith
+T28	LOC 1915 1924	Chihuahua
+T29	LOC 1927 1933	Mexico
+T30	PER 1999 2005	Luehrs
+T31	ORG 2074 2083	Americast
+T32	LOC 2211 2224	United States
+T33	PER 2228 2234	Luehrs
+T34	ORG 2577 2583	Zenith
+T35	ORG 2634 2640	Zenith
+T36	MISC 2940 2957	South Korea-based
+T37	ORG 2958 2977	LG Electronics Inc.
+T38	ORG 3005 3011	Zenith
+T39	PER 3015 3032	Robert Gutenstein
+T40	ORG 3050 3069	Kalf , Voorhis & Co

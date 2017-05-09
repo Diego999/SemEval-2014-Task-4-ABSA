@@ -1,0 +1,10 @@
+T1	ORG 0 4	RTRS
+T2	MISC 34 55	Australia-West Indies
+T3	LOC 65 74	MELBOURNE
+T4	MISC 115 127	World Series
+T5	LOC 156 167	West Indies
+T6	LOC 172 181	Australia
+T7	LOC 228 239	West Indies
+T8	PER 288 304	Sherwin Campbell
+T9	PER 315 337	Shivnarine Chanderpaul
+T10	ORG 403 418	Sydney Newsroom

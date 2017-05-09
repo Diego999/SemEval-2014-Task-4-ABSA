@@ -1,0 +1,20 @@
+T1	ORG 9 17	ST PAULI
+T2	LOC 52 56	BONN
+T3	LOC 69 76	Hamburg
+T4	ORG 82 90	St Pauli
+T5	MISC 200 210	Bundesliga
+T6	ORG 222 229	Schalke
+T7	ORG 243 250	Schalke
+T8	ORG 321 329	St Pauli
+T9	PER 357 370	Andre Trulsen
+T10	ORG 375 382	Schalke
+T11	PER 391 401	Martin Max
+T12	PER 462 480	Christian Springer
+T13	ORG 485 493	St Pauli
+T14	PER 594 609	Thomas Sabotzik
+T15	ORG 648 655	Hamburg
+T16	ORG 661 674	Hansa Rostock
+T17	PER 681 695	Karsten Baeron
+T18	PER 768 781	Harald Spoerl
+T19	ORG 797 804	Hamburg
+T20	MISC 828 834	German

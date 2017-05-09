@@ -1,0 +1,31 @@
+T1	ORG 0 12	U.N. Council
+T2	MISC 29 36	Israeli
+T3	ORG 51 65	UNITED NATIONS
+T4	ORG 78 94	Security Council
+T5	LOC 138 144	Israel
+T6	MISC 164 175	Palestinian
+T7	LOC 234 245	Middle East
+T8	MISC 299 310	Palestinian
+T9	ORG 311 315	U.N.
+T10	ORG 335 351	Security Council
+T11	PER 362 372	Tono Eitel
+T12	LOC 376 383	Germany
+T13	LOC 437 443	Israel
+T14	PER 467 478	David Peleg
+T15	PER 660 665	Eitel
+T16	MISC 739 746	Israeli
+T17	MISC 817 828	Palestinian
+T18	PER 841 854	Marwan Jilani
+T19	LOC 883 892	Jerusalem
+T20	LOC 917 923	Israel
+T21	LOC 993 1015	Holy City of Jerusalem
+T22	LOC 1050 1056	Israel
+T23	ORG 1065 1100	Palestinian Liberation Organisation
+T24	MISC 1220 1227	Israeli
+T25	LOC 1261 1269	Old City
+T26	ORG 1401 1405	U.N.
+T27	MISC 1437 1444	Israeli
+T28	MISC 1506 1513	Israeli
+T29	LOC 1558 1567	Jerusalem
+T30	LOC 1666 1672	Canada
+T31	LOC 1734 1756	Burj al-Laqlaq Society

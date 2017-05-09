@@ -1,0 +1,23 @@
+T1	MISC 0 7	Israeli
+T2	MISC 22 41	Bedouin Palestinian
+T3	LOC 50 59	AL-MUNTAR
+T4	LOC 62 71	West Bank
+T5	MISC 84 91	Israeli
+T6	MISC 120 127	Bedouin
+T7	LOC 146 155	West Bank
+T8	MISC 199 211	Palestinians
+T9	MISC 239 245	Jewish
+T10	MISC 349 356	Israeli
+T11	PER 596 610	Amina Muhammad
+T12	LOC 668 674	Israel
+T13	LOC 706 715	West Bank
+T14	MISC 725 733	Bedouins
+T15	MISC 778 785	Israeli
+T16	PER 820 832	Peter Lerner
+T17	MISC 901 913	Palestinians
+T18	MISC 917 924	Israeli
+T19	MISC 960 980	Bedouin Palestinians
+T20	LOC 1023 1037	East Jerusalem
+T21	LOC 1046 1054	Dead Sea
+T22	MISC 1071 1077	Jewish
+T23	MISC 1119 1126	Israeli

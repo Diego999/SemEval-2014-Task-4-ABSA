@@ -1,0 +1,18 @@
+T1	ORG 11 17	BRAVES
+T2	PER 23 29	NEAGLE
+T3	LOC 33 40	ATLANTA
+T4	ORG 82 96	Atlanta Braves
+T5	PER 195 207	Denny Neagle
+T6	MISC 244 259	National League
+T7	ORG 271 289	Pittsburgh Pirates
+T8	ORG 297 304	Pirates
+T9	PER 413 423	Ron Wright
+T10	ORG 454 464	Greenville
+T11	PER 467 480	Corey Pointer
+T12	ORG 504 510	Eugene
+T13	ORG 596 602	Braves
+T14	MISC 645 677	National League Eastern Division
+T15	LOC 703 710	Atlanta
+T16	PER 740 755	Terry Pendleton
+T17	PER 777 789	Luis Polonia
+T18	PER 835 847	Andruw Jones

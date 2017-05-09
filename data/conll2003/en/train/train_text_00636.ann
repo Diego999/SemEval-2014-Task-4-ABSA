@@ -1,0 +1,12 @@
+T1	ORG 0 23	Saskatchewan Wheat Pool
+T2	LOC 43 51	WINNIPEG
+T3	LOC 64 70	Canada
+T4	LOC 248 260	Saskatchewan
+T5	ORG 336 359	Saskatchewan Wheat Pool
+T6	PER 376 386	Don Loewen
+T7	ORG 418 421	SWP
+T8	LOC 549 555	Canada
+T9	ORG 797 800	SWP
+T10	ORG 1031 1078	Saskatchewan Pork International Marketing Group
+T11	LOC 1111 1123	Saskatchewan
+T12	PER 1191 1206	Gilbert Le Gras

@@ -1,0 +1,13 @@
+T1	LOC 0 2	UK
+T2	LOC 33 39	London
+T3	LOC 52 58	LONDON
+T4	MISC 75 82	British
+T5	LOC 136 142	London
+T6	LOC 146 154	Heathrow
+T7	LOC 157 164	Gatwick
+T8	LOC 169 177	Stansted
+T9	ORG 422 445	Department of Transport
+T10	PER 758 765	Goschen
+T11	LOC 1117 1125	Heathrow
+T12	LOC 1185 1192	Gatwick
+T13	ORG 1307 1322	London Newsroom

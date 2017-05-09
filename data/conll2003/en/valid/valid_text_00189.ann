@@ -1,0 +1,18 @@
+T1	LOC 0 6	Manila
+T2	LOC 13 22	Indonesia
+T3	ORG 25 28	OIC
+T4	LOC 55 61	MANILA
+T5	LOC 74 84	Philippine
+T6	PER 95 106	Fidel Ramos
+T7	MISC 130 140	Indonesian
+T8	PER 151 158	Suharto
+T9	ORG 167 201	Organisation of Islamic Conference
+T10	ORG 204 207	OIC
+T11	MISC 276 282	Moslem
+T12	PER 409 414	Ramos
+T13	PER 420 427	Suharto
+T14	LOC 512 519	Jakarta
+T15	LOC 705 711	Manila
+T16	PER 715 720	Ramos
+T17	LOC 816 826	Philippine
+T18	LOC 896 904	Mindanao

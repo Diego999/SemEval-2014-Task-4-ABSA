@@ -1,0 +1,27 @@
+T1	LOC 0 7	Nigeria
+T2	ORG 25 37	Commonwealth
+T3	LOC 51 56	LAGOS
+T4	LOC 69 76	Nigeria
+T5	ORG 108 120	Commonwealth
+T6	PER 252 261	Tom Ikimi
+T7	PER 282 287	Ikimi
+T8	ORG 321 333	Commonwealth
+T9	LOC 516 523	Nigeria
+T10	PER 528 533	Ikimi
+T11	ORG 539 546	Reuters
+T12	LOC 577 582	Abuja
+T13	ORG 629 641	Commonwealth
+T14	LOC 758 764	London
+T15	LOC 841 848	Nigeria
+T16	ORG 872 884	Commonwealth
+T17	PER 920 933	Ken Saro-Wiwa
+T18	ORG 1040 1052	Commonwealth
+T19	LOC 1066 1072	London
+T20	LOC 1140 1147	Nigeria
+T21	LOC 1180 1185	Abuja
+T22	LOC 1311 1318	Nigeria
+T23	LOC 1358 1365	Britain
+T24	ORG 1427 1439	Commonwealth
+T25	LOC 1461 1468	Nigeria
+T26	LOC 1486 1493	Nigeria
+T27	ORG 1581 1593	Commonwealth

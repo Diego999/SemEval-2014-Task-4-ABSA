@@ -1,0 +1,35 @@
+T1	LOC 38 47	VANCOUVER
+T2	MISC 48 55	INDYCAR
+T3	LOC 64 73	VANCOUVER
+T4	LOC 125 134	Vancouver
+T5	MISC 135 142	IndyCar
+T6	PER 267 279	Alex Zanardi
+T7	LOC 282 287	Italy
+T8	ORG 292 305	Reynard Honda
+T9	PER 350 366	Michael Andretti
+T10	LOC 369 373	U.S.
+T11	ORG 378 396	Lola Ford Cosworth
+T12	PER 410 421	Bobby Rahal
+T13	LOC 424 428	U.S.
+T14	ORG 433 454	Reynard Mercedes-Benz
+T15	PER 468 479	Bryan Herta
+T16	LOC 482 486	U.S.
+T17	ORG 491 512	Reynard Mercedes-Benz
+T18	PER 526 538	Jimmy Vasser
+T19	LOC 541 545	U.S.
+T20	ORG 550 563	Reynard Honda
+T21	PER 577 587	Paul Tracy
+T22	LOC 590 596	Canada
+T23	ORG 601 621	Penske Mercedes-Benz
+T24	PER 635 643	Al Unser
+T25	LOC 649 653	U.S.
+T26	ORG 658 678	Penske Mercedes-Benz
+T27	PER 692 705	Andre Ribeiro
+T28	LOC 708 714	Brazil
+T29	ORG 719 729	Lola Honda
+T30	PER 743 760	Mauricio Gugelmin
+T31	LOC 763 769	Brazil
+T32	ORG 774 795	Reynard Ford Cosworth
+T33	PER 810 823	Gil de Ferran
+T34	LOC 826 832	Brazil
+T35	ORG 837 850	Reynard Honda

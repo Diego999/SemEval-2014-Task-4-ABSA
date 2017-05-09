@@ -1,0 +1,29 @@
+T1	LOC 10 15	INDIA
+T2	PER 21 26	SIDHU
+T3	LOC 42 51	NEW DELHI
+T4	MISC 64 70	Indian
+T5	PER 78 96	Navjot Singh Sidhu
+T6	LOC 191 198	England
+T7	ORG 205 225	Press Trust of India
+T8	ORG 396 433	Board of Control for Cricket in India
+T9	LOC 441 447	Mohali
+T10	LOC 476 486	Chandigarh
+T11	PER 490 495	Sidhu
+T12	MISC 510 516	Indian
+T13	LOC 568 575	England
+T14	LOC 579 591	Old Trafford
+T15	LOC 595 605	Manchester
+T16	LOC 625 630	India
+T17	PER 699 718	Mohammed Azharuddin
+T18	PER 722 732	Azharuddin
+T19	PER 775 791	Sachin Tendulkar
+T20	PER 795 800	Sidhu
+T21	MISC 840 850	Singer Cup
+T22	LOC 864 873	Sri Lanka
+T23	MISC 893 903	Sahara Cup
+T24	LOC 912 920	Pakistan
+T25	LOC 947 953	Canada
+T26	PER 968 973	Sidhu
+T27	LOC 1099 1108	Australia
+T28	LOC 1135 1144	New Delhi
+T29	ORG 1151 1171	United News of India

@@ -1,0 +1,25 @@
+T1	PER 0 9	Mussolini
+T2	LOC 54 58	ROME
+T3	PER 71 91	Alessandra Mussolini
+T4	LOC 115 120	Italy
+T5	PER 141 157	Benito Mussolini
+T6	ORG 206 223	National Alliance
+T7	ORG 226 228	AN
+T8	ORG 342 344	AN
+T9	PER 352 367	Gianfranco Fini
+T10	PER 514 518	Fini
+T11	LOC 536 539	RAI
+T12	PER 547 556	Mussolini
+T13	PER 587 605	Giuseppe Tatarella
+T14	ORG 608 610	AN
+T15	ORG 628 647	Chamber of Deputies
+T16	PER 704 713	Mussolini
+T17	PER 876 888	Sophia Loren
+T18	ORG 903 905	AN
+T19	PER 951 960	Mussolini
+T20	ORG 979 986	Chamber
+T21	ORG 994 1003	La Stampa
+T22	ORG 1040 1042	AN
+T23	ORG 1115 1130	Social Movement
+T24	ORG 1133 1142	MS-Fiamma
+T25	MISC 1175 1188	World War Two

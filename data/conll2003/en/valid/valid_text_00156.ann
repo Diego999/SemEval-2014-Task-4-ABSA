@@ -1,0 +1,73 @@
+T1	LOC 9 15	FRANCE
+T2	MISC 28 37	WORLD CUP
+T3	LOC 63 68	PARIS
+T4	MISC 81 88	Euro 96
+T5	PER 98 112	Nicolas Ouedec
+T6	PER 117 132	Youri Djorkaeff
+T7	MISC 158 167	World Cup
+T8	LOC 174 180	France
+T9	LOC 186 192	Mexico
+T10	LOC 275 281	France
+T11	PER 310 322	Aime Jacquet
+T12	MISC 331 338	Euro 96
+T13	ORG 435 442	Chelsea
+T14	PER 460 474	Franck Leboeuf
+T15	PER 478 485	Leboeuf
+T16	MISC 562 569	Mexican
+T17	PER 581 595	Ricardo Pelaez
+T18	ORG 668 675	Chelsea
+T19	LOC 747 753	France
+T20	MISC 772 780	Mexicans
+T21	LOC 848 854	France
+T22	ORG 912 920	Juventus
+T23	PER 924 939	Zinedine Zidane
+T24	PER 956 965	Djorkaeff
+T25	PER 1023 1029	Ouedec
+T26	ORG 1047 1055	Espanyol
+T27	LOC 1059 1068	Barcelona
+T28	ORG 1074 1080	Nantes
+T29	MISC 1099 1107	European
+T30	PER 1184 1200	Joaquin del Olmo
+T31	PER 1224 1230	Ouedec
+T32	PER 1264 1273	Djorkaeff
+T33	ORG 1303 1323	Internazionale Milan
+T34	PER 1402 1417	Osvaldo Sanchez
+T35	PER 1421 1428	Jacquet
+T36	LOC 1467 1473	France
+T37	MISC 1492 1501	World Cup
+T38	LOC 1598 1604	France
+T39	PER 1611 1623	Bernard Lama
+T40	PER 1630 1643	Lilian Thuram
+T41	PER 1651 1665	Sabri Lamouchi
+T42	PER 1679 1692	Laurent Blanc
+T43	PER 1699 1714	Marcel Desailly
+T44	PER 1722 1736	Franck Leboeuf
+T45	PER 1750 1766	Bixente Lizarazu
+T46	PER 1773 1791	Christian Karembeu
+T47	PER 1798 1814	Didier Deschamps
+T48	PER 1822 1837	Youri Djorkaeff
+T49	PER 1844 1858	Reynald Pedros
+T50	PER 1866 1878	Robert Pires
+T51	PER 1892 1906	Nicolas Ouedec
+T52	PER 1914 1929	Florian Maurice
+T53	PER 1944 1956	Patrice Loko
+T54	PER 1964 1979	Zinedine Zidane
+T55	LOC 1988 1994	Mexico
+T56	PER 2001 2016	Osvaldo Sanchez
+T57	PER 2024 2036	Alfonso Rios
+T58	PER 2051 2062	Pavel Pardo
+T59	PER 2069 2083	Claudio Suarez
+T60	PER 2090 2103	Duilio Davino
+T61	PER 2106 2114	Becerril
+T62	PER 2128 2140	German Villa
+T63	PER 2148 2153	Gomez
+T64	PER 2168 2184	Joaquin del Olmo
+T65	PER 2191 2208	Raul Rodrigo Lara
+T66	PER 2216 2233	Cuauhtemoc Blanco
+T67	PER 2247 2266	Alberto Garcia Aspe
+T68	PER 2273 2286	Ramon Ramirez
+T69	PER 2294 2308	Jesus Arellano
+T70	PER 2323 2337	Enrique Alfaro
+T71	PER 2345 2363	Francisco Palencia
+T72	PER 2378 2389	Luis Garcia
+T73	PER 2397 2411	Ricardo Pelaez

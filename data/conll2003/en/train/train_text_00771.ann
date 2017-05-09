@@ -1,0 +1,29 @@
+T1	ORG 27 37	Commission
+T2	LOC 50 58	BRUSSELS
+T3	ORG 126 145	European Commission
+T4	ORG 190 200	Commission
+T5	PER 211 231	Joao Vale de Almeida
+T6	ORG 282 292	Commission
+T7	LOC 333 340	Germany
+T8	LOC 345 351	Saxony
+T9	ORG 370 380	Volkswagen
+T10	LOC 441 448	Germany
+T11	ORG 465 475	Commission
+T12	ORG 515 525	Commission
+T13	ORG 580 590	Commission
+T14	ORG 615 628	Pao de Acucar
+T15	ORG 632 638	Auchan
+T16	ORG 660 670	Commission
+T17	ORG 692 697	CAMAT
+T18	ORG 701 709	AGF-IART
+T19	ORG 773 783	Commission
+T20	MISC 806 814	Austrian
+T21	ORG 833 838	Billa
+T22	MISC 842 848	German
+T23	ORG 855 873	Rewe-Handelsgruppe
+T24	MISC 909 917	European
+T25	PER 931 943	Anita Gradin
+T26	MISC 951 1005	World Congress against Sexual Exploitation of Children
+T27	LOC 1009 1018	Stockholm
+T28	ORG 1024 1032	Eurostat
+T29	ORG 1069 1071	EU

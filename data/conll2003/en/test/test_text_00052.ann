@@ -1,0 +1,18 @@
+T1	ORG 0 13	RADIO ROMANIA
+T2	LOC 44 53	BUCHAREST
+T3	ORG 66 79	Radio Romania
+T4	MISC 104 125	Democratic Convention
+T5	ORG 218 241	Social Democratic Union
+T6	ORG 250 276	Hungarian Democratic Union
+T7	ORG 279 283	UDMR
+T8	PER 328 347	Emil Constantinescu
+T9	LOC 445 452	Romania
+T10	PER 466 480	Constantinescu
+T11	ORG 514 518	UDMR
+T12	LOC 580 587	Romania
+T13	PER 603 613	Marko Bela
+T14	LOC 653 662	Timisoara
+T15	LOC 692 696	Arad
+T16	LOC 699 705	Oradea
+T17	LOC 710 715	Sibiu
+T18	ORG 745 763	Bucharest Newsroom

@@ -1,0 +1,43 @@
+T1	LOC 15 23	Pakistan
+T2	MISC 93 102	Pakistani
+T3	ORG 117 121	DAWN
+T4	LOC 380 383	Hub
+T5	LOC 388 394	Gadoon
+T6	LOC 462 476	Tando Allahyar
+T7	LOC 482 491	Hyderabad
+T8	PER 589 601	Nawaz Sharif
+T9	ORG 631 655	Pakistan People 's Party
+T10	PER 692 706	Benazir Bhutto
+T11	ORG 710 727	BUSINESS RECORDER
+T12	ORG 802 818	Sui Southern Gas
+T13	ORG 823 839	Sui Northern Gas
+T14	LOC 855 860	Japan
+T15	LOC 905 913	Pakistan
+T16	ORG 1084 1098	FINANCIAL POST
+T17	LOC 1166 1176	Gujar Khan
+T18	LOC 1195 1203	Pakistan
+T19	ORG 1332 1342	THE NATION
+T20	ORG 1452 1471	Mohib Textile Mills
+T21	MISC 1594 1601	Islamic
+T22	PER 1642 1658	Asif Ali Zardari
+T23	MISC 1716 1724	Japanese
+T24	LOC 1759 1764	Japan
+T25	ORG 1783 1805	Karachi Stock Exchange
+T26	ORG 1836 1844	THE NEWS
+T27	PER 1897 1914	Shahid Hasan Khan
+T28	MISC 2025 2048	Area Electricity Boards
+T29	LOC 2096 2104	Pakistan
+T30	ORG 2108 2130	Muslim Commercial Bank
+T31	ORG 2133 2157	Vital Information System
+T32	ORG 2164 2179	Duff and Phelps
+T33	LOC 2187 2191	U.S.
+T34	LOC 2241 2251	Bangladesh
+T35	ORG 2285 2326	Credit Rating and Information Systems Ltd
+T36	ORG 2350 2366	Sindh High Court
+T37	ORG 2410 2434	Privatisation Commission
+T38	ORG 2453 2467	Javedan Cement
+T39	ORG 2471 2502	Dadabhoy Investment ( pvt ) Ltd
+T40	ORG 2576 2586	THE MUSLIM
+T41	LOC 2590 2598	Pakistan
+T42	LOC 2603 2607	Iran
+T43	LOC 2692 2701	Islamabad

@@ -1,0 +1,43 @@
+T1	LOC 10 17	ENGLAND
+T2	LOC 20 28	PAKISTAN
+T3	LOC 54 60	LONDON
+T4	LOC 138 145	England
+T5	LOC 150 158	Pakistan
+T6	LOC 162 170	The Oval
+T7	LOC 187 194	England
+T8	PER 210 221	M. Atherton
+T9	PER 224 236	Waqar Younis
+T10	PER 241 251	A. Stewart
+T11	PER 254 267	Mushtaq Ahmed
+T12	PER 272 282	N. Hussain
+T13	PER 285 296	Saeed Anwar
+T14	PER 299 311	Waqar Younis
+T15	PER 316 325	G. Thorpe
+T16	PER 332 346	Mohammad Akram
+T17	PER 351 361	J. Crawley
+T18	PER 374 383	N. Knight
+T19	PER 386 399	Mushtaq Ahmed
+T20	PER 404 412	C. Lewis
+T21	PER 415 426	Wasim Akram
+T22	PER 430 442	I. Salisbury
+T23	PER 577 585	R. Croft
+T24	PER 588 595	D. Cork
+T25	PER 598 609	A. Mullally
+T26	PER 633 644	Wasim Akram
+T27	PER 657 669	Waqar Younis
+T28	PER 683 697	Mohammad Akram
+T29	PER 710 723	Mushtaq Ahmed
+T30	PER 737 749	Aamir Sohail
+T31	LOC 760 768	Pakistan
+T32	PER 771 783	Aamir Sohail
+T33	PER 786 797	Saeed Anwar
+T34	PER 800 810	Ijaz Ahmed
+T35	PER 814 828	Inzamam-ul-Haq
+T36	PER 831 842	Salim Malik
+T37	PER 845 857	Asif Mujtaba
+T38	PER 860 871	Wasim Akram
+T39	PER 874 878	Moin
+T40	PER 880 884	Khan
+T41	PER 887 900	Mushtaq Ahmed
+T42	PER 903 915	Waqar Younis
+T43	PER 918 931	Mohammad Akam

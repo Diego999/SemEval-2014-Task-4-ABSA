@@ -1,0 +1,32 @@
+T1	LOC 19 23	U.S.
+T2	PER 50 60	Greg Frost
+T3	LOC 62 73	KANSAS CITY
+T4	LOC 76 78	Mo
+T5	LOC 130 134	U.S.
+T6	LOC 135 146	High Plains
+T7	LOC 273 278	Texas
+T8	LOC 288 294	Kansas
+T9	PER 514 526	Kim Anderson
+T10	ORG 568 593	Oklahoma State University
+T11	LOC 660 671	High Plains
+T12	MISC 795 804	Dust Bowl
+T13	PER 1000 1011	Mark Hodges
+T14	ORG 1040 1065	Oklahoma Wheat Commission
+T15	MISC 1161 1191	Oklahoma Climatological Survey
+T16	PER 1364 1378	Howard Johnson
+T17	ORG 1418 1440	University of Oklahoma
+T18	LOC 1695 1700	Texas
+T19	LOC 1757 1765	Oklahoma
+T20	PER 1773 1786	Rodney Mosier
+T21	ORG 1817 1838	Texas Wheat Producers
+T22	LOC 1859 1874	Texas Panhandle
+T23	PER 2040 2046	Mosier
+T24	LOC 2129 2134	Texas
+T25	MISC 2215 2220	Dolly
+T26	LOC 2237 2243	Kansas
+T27	LOC 2271 2275	U.S.
+T28	LOC 2508 2514	Kansas
+T29	LOC 2624 2632	Oklahoma
+T30	ORG 2636 2667	Agricultural Statistics Service
+T31	ORG 2870 2907	Texas Agricultural Statistics Service
+T32	PER 2914 2924	Greg Frost

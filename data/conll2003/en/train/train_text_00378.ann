@@ -1,0 +1,28 @@
+T1	MISC 0 7	Russian
+T2	LOC 42 48	Grozny
+T3	LOC 52 58	SHATOI
+T4	LOC 61 67	Russia
+T5	MISC 80 87	Russian
+T6	LOC 127 135	Chechnya
+T7	MISC 182 189	Russian
+T8	PER 205 220	Alexander Lebed
+T9	LOC 261 267	Grozny
+T10	MISC 287 294	Russian
+T11	LOC 323 331	Chechnya
+T12	PER 342 357	Anatoly Shkirko
+T13	ORG 365 373	Interfax
+T14	MISC 445 453	Chechens
+T15	ORG 485 492	Reuters
+T16	PER 503 523	Liutauras Stremaitis
+T17	MISC 654 661	Chechen
+T18	LOC 700 706	Shatoi
+T19	LOC 773 779	Grozny
+T20	PER 782 789	Shkirko
+T21	ORG 795 803	Interfax
+T22	MISC 889 897	Chechens
+T23	MISC 915 922	Chechen
+T24	PER 939 953	Movladi Udugov
+T25	MISC 1028 1036	Chechens
+T26	MISC 1113 1120	Russian
+T27	PER 1175 1180	Lebed
+T28	LOC 1214 1222	Chechnya

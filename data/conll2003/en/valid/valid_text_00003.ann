@@ -1,0 +1,48 @@
+T1	MISC 15 20	ASHES
+T2	LOC 35 41	LONDON
+T3	LOC 54 63	Australia
+T4	MISC 80 85	Ashes
+T5	LOC 116 123	England
+T6	ORG 185 214	Test and County Cricket Board
+T7	LOC 234 243	Australia
+T8	MISC 407 414	English
+T9	ORG 448 468	British Universities
+T10	ORG 511 525	Minor Counties
+T11	LOC 531 539	Scotland
+T12	LOC 583 589	London
+T13	LOC 610 617	Lord 's
+T14	ORG 628 649	Duke of Norfolk 's XI
+T15	LOC 655 662	Arundel
+T16	ORG 675 686	Northampton
+T17	ORG 697 711	Worcestershire
+T18	ORG 722 728	Durham
+T19	LOC 770 780	Headingley
+T20	ORG 784 789	Leeds
+T21	LOC 834 842	The Oval
+T22	LOC 846 852	London
+T23	LOC 896 903	Lord 's
+T24	LOC 906 912	London
+T25	ORG 928 943	Gloucestershire
+T26	ORG 947 953	Sussex
+T27	ORG 957 963	Surrey
+T28	ORG 999 1009	Derbyshire
+T29	LOC 1063 1072	Edgbaston
+T30	LOC 1075 1085	Birmingham
+T31	ORG 1157 1171	Leicestershire
+T32	LOC 1216 1223	Lord 's
+T33	ORG 1240 1260	British Universities
+T34	LOC 1266 1272	Oxford
+T35	ORG 1302 1311	Hampshire
+T36	LOC 1359 1371	Old Trafford
+T37	LOC 1374 1384	Manchester
+T38	ORG 1397 1414	Minor Counties XI
+T39	LOC 1426 1434	Scotland
+T40	ORG 1449 1458	Glamorgan
+T41	ORG 1488 1497	Middlesex
+T42	LOC 1542 1552	Headingley
+T43	ORG 1577 1585	Somerset
+T44	LOC 1629 1641	Trent Bridge
+T45	LOC 1644 1654	Nottingham
+T46	ORG 1673 1677	Kent
+T47	LOC 1723 1731	The Oval
+T48	LOC 1734 1740	London

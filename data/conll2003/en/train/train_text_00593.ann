@@ -1,0 +1,24 @@
+T1	ORG 0 6	Amtrak
+T2	LOC 52 62	MONTPELIER
+T3	LOC 65 67	Vt
+T4	ORG 126 132	Amtrak
+T5	MISC 226 239	The Vermonter
+T6	LOC 261 271	St. Albans
+T7	LOC 274 281	Vermont
+T8	MISC 293 301	Canadian
+T9	LOC 313 330	Washington , D.C.
+T10	LOC 397 404	Roxbury
+T11	LOC 450 460	Montpelier
+T12	ORG 463 469	Amtrak
+T13	PER 482 497	Maureen Garrity
+T14	LOC 506 530	Vermont Central Hospital
+T15	PER 541 551	Dan Pudvah
+T16	PER 686 692	Pudvah
+T17	PER 780 787	Garrity
+T18	PER 1085 1092	Garrity
+T19	LOC 1149 1160	Springfield
+T20	LOC 1163 1176	Massachusetts
+T21	LOC 1252 1265	New York City
+T22	LOC 1270 1280	Washington
+T23	PER 1283 1290	Garrity
+T24	LOC 1455 1475	Northfield Mountains

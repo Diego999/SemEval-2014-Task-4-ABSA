@@ -1,0 +1,13 @@
+T1	ORG 0 15	Electronic Data
+T2	LOC 45 51	LONDON
+T3	ORG 92 115	Electronic Data Systems
+T4	ORG 268 271	EDS
+T5	LOC 407 429	Oceanic Control Centre
+T6	LOC 433 442	Prestwick
+T7	LOC 457 465	Scotland
+T8	ORG 470 503	National Air Traffic Services Ltd
+T9	ORG 506 510	NATS
+T10	ORG 533 557	Civil Aviation Authority
+T11	LOC 648 654	Europe
+T12	LOC 659 672	North America
+T13	ORG 772 787	London Newsroom

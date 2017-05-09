@@ -1,0 +1,53 @@
+T1	ORG 11 17	BRAVES
+T2	ORG 32 36	CUBS
+T3	LOC 40 47	ATLANTA
+T4	PER 60 72	Fred McGriff
+T5	ORG 197 211	Atlanta Braves
+T6	ORG 238 250	Chicago Cubs
+T7	PER 337 344	McGriff
+T8	PER 437 448	Brad Clontz
+T9	LOC 489 496	Atlanta
+T10	LOC 543 551	Colorado
+T11	PER 554 567	Mark Thompson
+T12	PER 622 633	Ellis Burks
+T13	ORG 673 689	Colorado Rockies
+T14	ORG 699 717	Pittsburgh Pirates
+T15	PER 725 739	Vinny Castilla
+T16	PER 744 758	Dante Bichette
+T17	MISC 774 777	RBI
+T18	LOC 782 790	Colorado
+T19	LOC 858 865	Florida
+T20	PER 868 879	Kevin Brown
+T21	PER 924 935	Kurt Abbott
+T22	ORG 992 1007	Florida Marlins
+T23	ORG 1027 1042	Cincinnati Reds
+T24	ORG 1054 1061	Marlins
+T25	ORG 1128 1132	Reds
+T26	LOC 1234 1245	Los Angeles
+T27	PER 1248 1261	Tom Candiotti
+T28	PER 1334 1345	Mike Piazza
+T29	PER 1350 1368	Todd Hollandsworth
+T30	ORG 1401 1420	Los Angeles Dodgers
+T31	ORG 1434 1447	New York Mets
+T32	PER 1455 1464	Candiotti
+T33	LOC 1551 1562	Los Angeles
+T34	LOC 1609 1618	San Diego
+T35	PER 1621 1634	Joey Hamilton
+T36	PER 1675 1691	Rickey Henderson
+T37	ORG 1746 1762	San Diego Padres
+T38	ORG 1776 1797	Philadelphia Phillies
+T39	PER 1838 1846	Hamilton
+T40	LOC 1949 1962	San Francisco
+T41	PER 1965 1979	Pedro Martinez
+T42	PER 2018 2029	David Segui
+T43	ORG 2055 2069	Montreal Expos
+T44	ORG 2083 2103	San Francisco Giants
+T45	PER 2140 2148	Martinez
+T46	LOC 2216 2225	San Diego
+T47	LOC 2310 2317	Houston
+T48	PER 2320 2334	Orlando Miller
+T49	PER 2396 2412	Todd Stottlemyre
+T50	ORG 2422 2436	Houston Astros
+T51	ORG 2456 2475	St. Louis Cardinals
+T52	MISC 2532 2551	NL Central division
+T53	PER 2555 2569	Shane Reynolds

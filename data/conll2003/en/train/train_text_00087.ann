@@ -1,0 +1,25 @@
+T1	LOC 15 21	Bosnia
+T2	LOC 34 42	SARAJEVO
+T3	LOC 92 100	Sarajevo
+T4	ORG 122 129	Reuters
+T5	ORG 202 214	OSLOBODJENJE
+T6	MISC 222 229	Bosnian
+T7	MISC 345 352	Bosnian
+T8	MISC 365 373	Croatian
+T9	MISC 412 419	Bosnian
+T10	ORG 469 523	Bosnian Association for Refugees and Displaced Persons
+T11	PER 526 544	Mirhunisa Komarica
+T12	MISC 593 600	Bosnian
+T13	LOC 609 619	Srebrenica
+T14	MISC 658 665	Serbian
+T15	PER 688 696	Komarica
+T16	LOC 723 733	Srebrenica
+T17	LOC 746 752	Trepca
+T18	LOC 786 799	Aleksandrovac
+T19	ORG 803 814	DNEVNI AVAZ
+T20	MISC 818 827	Slovenian
+T21	MISC 854 861	Bosnian
+T22	LOC 884 893	Ljubljana
+T23	LOC 937 946	Ljubljana
+T24	LOC 951 958	Maribor
+T25	LOC 965 973	Sarajevo

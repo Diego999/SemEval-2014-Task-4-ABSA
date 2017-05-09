@@ -1,0 +1,16 @@
+T1	LOC 0 5	China
+T2	PER 31 43	Wang Donghai
+T3	LOC 47 54	BEIJING
+T4	MISC 67 74	Chinese
+T5	PER 106 118	Wang Donghai
+T6	MISC 125 139	New York-based
+T7	ORG 155 176	Human Rights in China
+T8	PER 213 217	Wang
+T9	PER 341 345	Wang
+T10	LOC 400 405	China
+T11	PER 432 436	Wang
+T12	PER 508 512	Wang
+T13	ORG 552 566	Democracy Wall
+T14	PER 853 857	Wang
+T15	LOC 994 1001	Beijing
+T16	LOC 1005 1021	Tiananmen Square

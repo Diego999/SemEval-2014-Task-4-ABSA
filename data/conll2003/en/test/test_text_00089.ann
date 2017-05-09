@@ -1,0 +1,47 @@
+T1	LOC 0 6	Russia
+T2	ORG 13 20	Norilsk
+T3	PER 55 71	Lynnley Browning
+T4	LOC 73 79	MOSCOW
+T5	MISC 92 99	Russian
+T6	PER 117 135	Alexander Livshits
+T7	ORG 164 178	Norilsk Nickel
+T8	ORG 319 326	Norilsk
+T9	PER 402 423	Konstantin Chernyshev
+T10	LOC 446 452	Moscow
+T11	ORG 463 474	Rinaco Plus
+T12	ORG 481 488	Norilsk
+T13	PER 502 510	Livshits
+T14	ORG 584 593	Itar-Tass
+T15	PER 613 621	Livshits
+T16	ORG 661 679	RAO Norilsky Nikel
+T17	PER 889 910	Christopher Granville
+T18	ORG 932 948	United City Bank
+T19	LOC 952 958	Moscow
+T20	MISC 1096 1103	Russian
+T21	ORG 1158 1185	International Monetary Fund
+T22	LOC 1285 1291	Moscow
+T23	LOC 1345 1351	Russia
+T24	PER 1557 1567	Chernyshev
+T25	ORG 1674 1681	Norilsk
+T26	LOC 1719 1725	Moscow
+T27	ORG 1841 1848	Norilsk
+T28	ORG 1861 1868	Norilsk
+T29	ORG 1953 1960	Norilsk
+T30	ORG 2165 2172	Norilsk
+T31	ORG 2294 2298	Tass
+T32	PER 2306 2314	Livshits
+T33	ORG 2326 2330	Duma
+T34	ORG 2346 2353	Norilsk
+T35	ORG 2392 2399	Norilsk
+T36	ORG 2504 2511	Norilsk
+T37	PER 2609 2619	Chernyshev
+T38	LOC 2734 2745	Krasnoyarsk
+T39	ORG 2777 2784	Norilsk
+T40	ORG 2794 2801	Norilsk
+T41	MISC 2832 2839	Russian
+T42	ORG 2856 2866	Uneximbank
+T43	ORG 2919 2932	Interrosimpex
+T44	ORG 3013 3020	Norilsk
+T45	ORG 3039 3049	Uneximbank
+T46	ORG 3170 3177	Norilsk
+T47	ORG 3463 3478	Moscow Newsroom
