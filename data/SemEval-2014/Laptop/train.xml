@@ -1652,7 +1652,7 @@
         </aspectTerms>
     </sentence>
     <sentence id="199">
-        <text>Well i got this computer from Best Buy and I have had nothing but problems I bought the computer with a virus.</text>
+        <text>Well i got this computer from Best Buy and I have had nothing but problems I bought the computer with a virus.....</text>
     </sentence>
     <sentence id="1376">
         <text>It seems they could have updated XP and done without creating Vista.</text>
@@ -3349,7 +3349,7 @@
         <text>Best Buy was great as always and accepted the return and gave me another model 1764.</text>
     </sentence>
     <sentence id="200">
-        <text>and dell and best buy both refused to take it back after i only had it for 1 hour</text>
+        <text>and dell and best buy both refused to take it back after i only had it for 1 hour....</text>
     </sentence>
     <sentence id="2887">
         <text>My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!</text>
@@ -5221,7 +5221,7 @@
         <text>returned it to walmart.</text>
     </sentence>
     <sentence id="572">
-        <text>10 hours of battery life is really something else</text>
+        <text>10 hours of battery life is really something else....</text>
         <aspectTerms>
             <aspectTerm term="battery life" polarity="positive" from="12" to="24"/>
         </aspectTerms>
@@ -5730,7 +5730,7 @@
         <text>I can do pretty much 75% of what I do on my desktop on my kitchen table.</text>
     </sentence>
     <sentence id="673">
-        <text>Being a PC user my whole life</text>
+        <text>Being a PC user my whole life....</text>
     </sentence>
     <sentence id="356">
         <text>great battery life.</text>
@@ -6633,7 +6633,7 @@
         <text>I have Vista, so I am unable to install and uninstall some programs.</text>
         <aspectTerms>
             <aspectTerm term="Vista" polarity="negative" from="7" to="12"/>
-            <aspectTerm term="programs" polarity="negative" from="59" to="67"/>
+            <aspectTerm term="programs" polarity="negative" from="60" to="68"/>
             <aspectTerm term="install" polarity="negative" from="32" to="39"/>
             <aspectTerm term="uninstall" polarity="negative" from="44" to="54"/>
         </aspectTerms>
@@ -6986,7 +6986,7 @@
         <text>I have never had it crash, randomly turn off,</text>
     </sentence>
     <sentence id="161">
-        <text>For the same price, you get a lot more in the Asus 1920x1080 res.</text>
+        <text>For the same price, you get a lot more in the Asus....1920x1080 res.</text>
         <aspectTerms>
             <aspectTerm term="price" polarity="negative" from="13" to="18"/>
         </aspectTerms>
@@ -7251,7 +7251,7 @@
         <text>I got the black MacBook two years ago and have never regretted it.</text>
     </sentence>
     <sentence id="604">
-        <text>As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .</text>
+        <text>As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .....</text>
     </sentence>
     <sentence id="893">
         <text>My wife also has problems with her Asus - different model.</text>
@@ -7694,7 +7694,7 @@
         <text>They are asking me to ship the unit back to fix it at their site.</text>
     </sentence>
     <sentence id="427">
-        <text>I bought it from HSN because it was "bundled" with extra software, but as it turns out, that software just crashes it more often.</text>
+        <text>I bought it from HSN because it was "bundled" with extra software, but as it turns out, that software just crashes it more often.....</text>
         <aspectTerms>
             <aspectTerm term="software" polarity="conflict" from="57" to="65"/>
             <aspectTerm term="software" polarity="negative" from="93" to="101"/>
@@ -8570,7 +8570,7 @@
         </aspectTerms>
     </sentence>
     <sentence id="513">
-        <text>He LEFT ME, instructions on what to do when this comes up, or that comes up..</text>
+        <text>He LEFT ME, instructions on what to do when this comes up, or that comes up......</text>
     </sentence>
     <sentence id="3029">
         <text>It's a joke.</text>
@@ -13430,7 +13430,7 @@
         <text>It has everything I would need for a home computer.</text>
     </sentence>
     <sentence id="514">
-        <text>The computer did what it was NOT supposed to do, and I didn't know what to do</text>
+        <text>The computer did what it was NOT supposed to do, and I didn't know what to do....</text>
     </sentence>
     <sentence id="1729">
         <text>I love this computer.</text>
