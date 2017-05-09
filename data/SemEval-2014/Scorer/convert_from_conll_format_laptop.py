@@ -11,11 +11,11 @@ def replace(text):
     return text.replace('"', "&quot;").replace('( ', '(').replace(' )', ')')
 
 ref_file = 'ref_laptop.xml'
-pred_file = 'best_laptop.txt'
+pred_file = 'default_laptop_5.txt'
 ASPECT_TAG = 'B-MISC'
 
 
-def map_aspect_to_text(current_aspect, current_from, current_to):
+def map_aspect_to_text(text, current_aspect, current_from, current_to):
     aspects_exploded = current_aspect.split(' ')
     offset = 0 if (current_from - 6) < 0 else (current_from - 6)
     current_from = text.find(aspects_exploded[0], offset)
@@ -46,7 +46,7 @@ with open(pred_file, 'r', encoding='utf-8') as fp:
 
             # Just to check if the mapping (conversion) is correct from truth to truth !
             # Should give a F1-score of 1.0
-            #tag = truth
+            tag = truth
 
             if tag == ASPECT_TAG:
                 aspects.append((token, int(fr), int(to)))
@@ -78,13 +78,13 @@ with open(pred_file.replace('txt', 'xml'), 'w', encoding='utf-8') as fp:
                     current_aspect += ' ' + asp
                     current_to = to
                 else:
-                    current_aspect, current_from, current_to = map_aspect_to_text(current_aspect, current_from, current_to)
+                    current_aspect, current_from, current_to = map_aspect_to_text(text, current_aspect, current_from, current_to)
                     fp.write('\t\t\t<aspectTerm term="' + replace(current_aspect) + '" polarity="" from="' + str(current_from) + '" to="' + str(current_to) + '"/>\n')
                     current_aspect, current_from, current_to = asp, fr, to
                 i += 1
 
             if current_aspect != '':
-                current_aspect, current_from, current_to = map_aspect_to_text(current_aspect, current_from, current_to)
+                current_aspect, current_from, current_to = map_aspect_to_text(text, current_aspect, current_from, current_to)
                 fp.write('\t\t\t<aspectTerm term="' + replace(current_aspect) + '" polarity="" from="' + str(current_from) + '" to="' + str(current_to) + '"/>\n')
                 current_aspect, current_from, current_to = '', 0, 0
 

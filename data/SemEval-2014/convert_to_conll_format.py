@@ -7,7 +7,7 @@ import string
 import random
 import math
 
-file = '/Users/diego/Downloads/NeuroNER-master/data/SemEval-2014/Laptop/test.xml'
+file = '/Users/diego/Github/SemEval-2014-Task-4-ABSA/data/SemEval-2014/Restaurant/test.xml'
 tokenizer = spacy.load('en')
 xmldoc = minidom.parse(file)
 sentence_list = xmldoc.getElementsByTagName('sentence')
