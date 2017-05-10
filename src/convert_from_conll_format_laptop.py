@@ -6,12 +6,20 @@ import re
 import string
 import random
 import math
+import sys
+
 
 def replace(text):
     return text.replace('"', "&quot;").replace('( ', '(').replace(' )', ')')
 
-ref_file = 'ref_laptop.xml'
-pred_file = 'default_laptop_5.txt'
+
+if len(sys.argv) < 3:
+    pred_file = 'default_laptop_5.txt'
+    ref_file = 'ref_laptop.xml'
+else:
+    pred_file = sys.argv[1]
+    ref_file = sys.argv[2]
+
 ASPECT_TAG = 'B-MISC'
 
 
