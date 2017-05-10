@@ -7,12 +7,13 @@ import string
 import random
 import math
 
-file = '/Users/diego/Github/SemEval-2014-Task-4-ABSA/data/SemEval-2014/Restaurant/test.xml'
+file = '/Users/diego/Github/SemEval-2014-Task-4-ABSA/data/SemEval-2014/Laptop/train.xml'
 tokenizer = spacy.load('en')
 xmldoc = minidom.parse(file)
 sentence_list = xmldoc.getElementsByTagName('sentence')
 
 ASPECT_TAG = 'B-MISC'
+
 
 def is_valid_char(char):
     return char in string.ascii_lowercase or char in string.ascii_uppercase or char.isdigit()
@@ -22,6 +23,7 @@ final_data = []
 
 for sentence in sentence_list:
     text = sentence.getElementsByTagName('text')[0].childNodes[0].nodeValue.replace(u'\xa0', u' ')
+    id = sentence.attributes['id'].value
     if is_valid_char(text[-1]):
         text += ' .'
     else:
@@ -35,8 +37,6 @@ for sentence in sentence_list:
 
     # Sort by "from" ascending
     aspects = sorted(aspects, key=lambda x: x[1])
-    if 'the Asus' in text:
-        a = 2
     tokens_temp = [str(t).replace(u'\xa0', u' ') for t in tokenizer(text)]
     tokens = []
     for token in tokens_temp:
@@ -68,9 +68,6 @@ for sentence in sentence_list:
 
     for i in range(len(aspects)):
         aspect, fr, to = aspects[i]
-        if '"Max Assurance"' in text:
-            a=2
-        #print(aspect, fr, to)
         for aspect in [str(t) for t in tokenizer(text[fr:to])]:
             current_length = 0
             for j, token in enumerate(tokens):
@@ -79,8 +76,6 @@ for sentence in sentence_list:
                         tags[j] = ASPECT_TAG
                         break
 
-
-                #print(token)
                 current_length += len(token)
                 if j + 1 < len(tokens):
                     current_length += len(text[current_length:text.find(tokens[j + 1], current_length)])
@@ -95,7 +90,7 @@ for sentence in sentence_list:
         print('')
     assert (len([t for t in tags if t == ASPECT_TAG]) == len(list(itertools.chain.from_iterable([[str(t) for t in tokenizer(aspect[0])] for aspect in aspects]))))
 
-    final_data.append((tokens, tags))
+    final_data.append((tokens, tags, id))
 
 data = final_data
 
@@ -104,16 +99,33 @@ if 'train' in file:
     split = math.ceil(len(final_data)*0.8)
 
     train = final_data[:split]
-    val = final_data[split+1:]
+    val = final_data[split:]
     data = train
+
+    train_ids, val_ids = [x[2] for x in train], [x[2] for x in val]
+    assert len(train_ids) == len(train) and len(val_ids) == len(val)
+
+    # Create reference XML file
+    for name, ids in {'train':train_ids, 'valid':val_ids}.items():
+        filename = file[:file.rfind('/')+1] + 'ref_' + name + '.xml'
+        with open(filename, 'w', encoding='utf-8') as fp:
+            fp.write('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<sentences>\n')
+
+            tokenizer = spacy.load('en')
+            xmldoc = minidom.parse(file)
+            sentence_list = xmldoc.getElementsByTagName('sentence')
+            for id in ids:
+                for sentence in sentence_list:
+                    if sentence.attributes['id'].value == id:
+                        fp.write('    ' + sentence.toxml() + '\n')
+                        break
+
+            fp.write('</sentences>\n')
 
 while True:
     pattern = re.compile("^ +")
     with open(file.replace('xml', 'txt'), 'w', encoding='utf-8') as fp:
-        for tokens, tags in data:
-            if 'children' in tokens:
-                a = 2
-
+        for tokens, tags, _ in data:
             fp.write('-DOCSTART- -X- -X- O\n\n')
             for i in range(len(tokens)):
                 if not pattern.match(tokens[i]):
