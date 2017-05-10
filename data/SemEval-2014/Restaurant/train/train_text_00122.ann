@@ -1,5 +1,3 @@
-T1	MISC 18 26	desserts
-T2	MISC 31 36	mixed
-T3	MISC 37 43	drinks
-T4	MISC 55 60	snack
-T5	MISC 61 66	foods
+T1	MISC 0 7	Service
+T2	MISC 21 28	oysters
+T3	MISC 68 73	price

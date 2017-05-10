@@ -1,4 +1,7 @@
-T1	MISC 10 16	salmon
-T2	MISC 17 21	dish
-T3	MISC 54 59	price
-T4	MISC 102 108	flavor
+T1	MISC 4 8	anti
+T2	MISC 9 10	-
+T3	MISC 11 16	pasta
+T4	MISC 48 56	calamari
+T5	MISC 71 78	filling
+T6	MISC 79 84	pasta
+T7	MISC 85 90	mains

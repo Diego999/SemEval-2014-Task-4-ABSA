@@ -1,5 +1,4 @@
-T1	MISC 54 61	serving
-T2	MISC 97 102	spicy
-T3	MISC 103 107	tuna
-T4	MISC 108 112	roll
-T5	MISC 143 147	nori
+T1	MISC 9 16	service
+T2	MISC 29 33	food
+T3	MISC 54 64	atmosphere
+T4	MISC 69 80	environment

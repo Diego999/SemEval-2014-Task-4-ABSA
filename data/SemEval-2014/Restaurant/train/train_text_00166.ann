@@ -1,1 +1,5 @@
-T1	MISC 33 42	lambchops
+T1	MISC 4 8	food
+T2	MISC 35 45	appitizers
+T3	MISC 53 57	main
+T4	MISC 58 64	course
+T5	MISC 90 98	desserts

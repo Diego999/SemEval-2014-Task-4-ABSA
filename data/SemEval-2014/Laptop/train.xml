@@ -6630,10 +6630,10 @@
         </aspectTerms>
     </sentence>
     <sentence id="1436">
-        <text>I have Vista, so I am unable to install and uninstall some programs.</text>
+        <text>I have Vista, so I am unable to install and uninstall some programs.</text>
         <aspectTerms>
             <aspectTerm term="Vista" polarity="negative" from="7" to="12"/>
-            <aspectTerm term="programs" polarity="negative" from="60" to="68"/>
+            <aspectTerm term="programs" polarity="negative" from="59" to="68"/>
             <aspectTerm term="install" polarity="negative" from="32" to="39"/>
             <aspectTerm term="uninstall" polarity="negative" from="44" to="54"/>
         </aspectTerms>

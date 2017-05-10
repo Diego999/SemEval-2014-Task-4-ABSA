@@ -1,9 +1,4 @@
-T1	MISC 10 18	tamarind
-T2	MISC 19 23	duck
-T3	MISC 44 51	noodles
-T4	MISC 52 56	with
-T5	MISC 57 63	ground
-T6	MISC 64 68	beef
-T7	MISC 113 119	dishes
-T8	MISC 127 131	Thai
-T9	MISC 132 139	flavors
+T1	MISC 4 8	food
+T2	MISC 32 37	price
+T3	MISC 57 62	fried
+T4	MISC 63 72	dumplings

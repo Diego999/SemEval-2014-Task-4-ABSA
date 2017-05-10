@@ -1,4 +1,5 @@
-T1	MISC 11 15	wine
-T2	MISC 16 20	menu
-T3	MISC 32 38	entree
-T4	MISC 43 53	horedevous
+T1	MISC 5 9	dish
+T2	MISC 13 17	nori
+T3	MISC 18 19	-
+T4	MISC 20 27	wrapped
+T5	MISC 28 32	tuna

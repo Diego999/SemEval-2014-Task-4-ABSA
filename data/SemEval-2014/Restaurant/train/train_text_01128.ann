@@ -1,2 +1,8 @@
-T1	MISC 47 54	italian
-T2	MISC 55 59	food
+T1	MISC 13 17	meal
+T2	MISC 23 28	pesto
+T3	MISC 29 34	pizza
+T4	MISC 41 46	house
+T5	MISC 47 52	salad
+T6	MISC 66 72	bottle
+T7	MISC 73 75	of
+T8	MISC 76 80	wine

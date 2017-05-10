@@ -1,2 +1,11 @@
-T1	MISC 4 14	appetizing
-T2	MISC 87 92	price
+T1	MISC 2 6	food
+T2	MISC 26 32	busboy
+T3	MISC 39 45	waiter
+T4	MISC 58 64	cheese
+T5	MISC 81 86	pasta
+T6	MISC 93 98	water
+T7	MISC 99 102	and
+T8	MISC 103 107	wine
+T9	MISC 108 115	glasses
+T10	MISC 142 146	meal
+T11	MISC 197 201	wine

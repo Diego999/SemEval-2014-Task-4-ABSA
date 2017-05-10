@@ -1,6 +1,5 @@
-T1	MISC 32 36	food
-T2	MISC 55 58	dim
-T3	MISC 59 62	sum
-T4	MISC 89 97	portions
-T5	MISC 122 128	dishes
-T6	MISC 154 158	dish
+T1	MISC 79 84	sushi
+T2	MISC 85 88	bar
+T3	MISC 91 95	chef
+T4	MISC 127 130	ala
+T5	MISC 131 136	carte

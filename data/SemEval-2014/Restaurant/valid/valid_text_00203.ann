@@ -1,4 +1,6 @@
-T1	MISC 12 19	Chicken
-T2	MISC 20 28	Teriyaki
-T3	MISC 29 33	dish
-T4	MISC 53 60	chicken
+T1	MISC 40 45	Gulab
+T2	MISC 46 51	Jamun
+T3	MISC 52 53	(
+T4	MISC 54 61	dessert
+T5	MISC 62 63	)
+T6	MISC 83 89	waiter

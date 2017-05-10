@@ -1,4 +1,4 @@
-T1	MISC 4 10	waiter
-T2	MISC 26 31	place
-T3	MISC 96 102	prices
-T4	MISC 146 150	food
+T1	MISC 15 22	service
+T2	MISC 30 37	seating
+T3	MISC 45 53	Delivery
+T4	MISC 66 71	sushi

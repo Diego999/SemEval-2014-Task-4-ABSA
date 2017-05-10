@@ -1,7 +1,2 @@
-T1	MISC 4 8	wait
-T2	MISC 26 29	dim
-T3	MISC 30 33	sum
-T4	MISC 67 73	tables
-T5	MISC 100 103	dim
-T6	MISC 104 107	sum
-T7	MISC 108 118	atmosphere
+T1	MISC 4 12	ambience
+T2	MISC 63 68	lunch

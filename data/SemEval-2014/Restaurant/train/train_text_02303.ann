@@ -1,10 +1,2 @@
-T1	MISC 4 12	ambiance
-T2	MISC 28 32	food
-T3	MISC 62 68	dishes
-T4	MISC 98 106	eggplant
-T5	MISC 107 115	parmesan
-T6	MISC 118 122	veal
-T7	MISC 123 125	in
-T8	MISC 126 133	carozza
-T9	MISC 134 141	chicken
-T10	MISC 142 153	saltimbocca
+T1	MISC 4 11	service
+T2	MISC 76 82	server

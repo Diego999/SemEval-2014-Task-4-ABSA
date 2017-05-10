@@ -1,1 +1,4 @@
-T1	MISC 0 4	Food
+T1	MISC 6 15	appetizer
+T2	MISC 20 27	entrees
+T3	MISC 34 39	cokes
+T4	MISC 48 52	bill

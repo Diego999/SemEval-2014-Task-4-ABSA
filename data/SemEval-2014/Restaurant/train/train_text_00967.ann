@@ -1,5 +1,4 @@
-T1	MISC 11 18	service
-T2	MISC 55 60	amuse
-T3	MISC 61 67	bouche
-T4	MISC 75 81	tables
-T5	MISC 102 109	dessert
+T1	MISC 4 8	menu
+T2	MISC 9 16	choices
+T3	MISC 37 42	taste
+T4	MISC 55 61	flavor

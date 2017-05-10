@@ -1,1 +1,4 @@
-T1	MISC 20 27	service
+T1	MISC 18 21	pre
+T2	MISC 22 23	-
+T3	MISC 24 31	theatre
+T4	MISC 32 36	menu

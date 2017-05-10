@@ -1,3 +1,13 @@
-T1	MISC 4 8	vibe
-T2	MISC 36 43	service
-T3	MISC 62 66	food
+T1	MISC 39 42	pre
+T2	MISC 43 44	-
+T3	MISC 45 52	theater
+T4	MISC 53 57	menu
+T5	MISC 72 79	roasted
+T6	MISC 80 86	tomato
+T7	MISC 87 91	soup
+T8	MISC 92 96	with
+T9	MISC 97 103	chevre
+T10	MISC 106 111	steak
+T11	MISC 112 118	frites
+T12	MISC 121 126	creme
+T13	MISC 127 133	brulee

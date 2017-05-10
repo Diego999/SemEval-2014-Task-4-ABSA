@@ -1,7 +1,5 @@
-T1	MISC 16 21	bread
-T2	MISC 40 49	appetizer
-T3	MISC 88 93	glass
-T4	MISC 94 96	of
-T5	MISC 97 101	wine
-T6	MISC 109 113	main
-T7	MISC 114 120	course
+T1	MISC 19 25	noodle
+T2	MISC 26 32	dishes
+T3	MISC 66 71	Green
+T4	MISC 72 77	Curry
+T5	MISC 78 82	dish
