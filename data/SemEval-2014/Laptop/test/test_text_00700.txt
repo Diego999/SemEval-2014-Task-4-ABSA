@@ -1,1 +1,0 @@
-This version of MacBook Pro runs on a third - generation CPU ( " Ivy Bridge " ) , not the latest fourth - generation Haswell CPU the 2013 version has . 

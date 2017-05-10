@@ -1,1 +1,0 @@
-The wheel that turns the volume up and down does n't work in real time . 

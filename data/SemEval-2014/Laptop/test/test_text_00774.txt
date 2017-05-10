@@ -1,1 +1,0 @@
-I re - seated the " WLAN " card inside and re - installed the LAN device drivers . 

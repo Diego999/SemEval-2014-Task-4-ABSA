@@ -1,1 +1,0 @@
-It started out by randomly ceasing to charge when it was plugged in ( mousing over the battery icon would read , for example , " 74% , plugged in , not charging " ) , requiring me to unplug it and plug it back in several times to get it to charge . 

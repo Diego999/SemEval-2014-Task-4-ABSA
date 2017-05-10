@@ -1,1 +1,0 @@
-We also use Paralles so we can run virtual machines of Windows XP Professional , Windows 7 Home Premium , Windows Server Enterprise 2003 , and Windows Server 2008 Enterprise . 

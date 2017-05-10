@@ -1,1 +1,0 @@
-Summary : After doing some investigation on the web , I have found that Toshiba NB205s are not chronically not booting . 

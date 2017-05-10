@@ -1,1 +1,0 @@
-The Bluetooth was not there at all , and the fingerprint reader driver would be there , but the software would hang after installation was 1/2 way done . 

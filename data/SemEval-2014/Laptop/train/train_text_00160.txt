@@ -1,1 +1,0 @@
-the i3 processor does n't seem to run hot and the fan rarely turns on . 

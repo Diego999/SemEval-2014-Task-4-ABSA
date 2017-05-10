@@ -1,1 +1,0 @@
-( The SATA controller is the motherboard chip that lets the CPU talk to the hard drive . ) 

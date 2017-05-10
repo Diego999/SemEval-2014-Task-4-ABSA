@@ -1,1 +1,0 @@
-The AMD Turin processor seems to always perform so much better than Intel . 

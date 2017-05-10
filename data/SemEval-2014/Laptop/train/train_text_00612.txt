@@ -1,1 +1,0 @@
-The processor screams , and because of the unique way that Apple OSX 16 functions , most of the graphics are routed through the hardware rather than the software . 

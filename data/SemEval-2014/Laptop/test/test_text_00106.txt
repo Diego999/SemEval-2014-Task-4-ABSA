@@ -1,1 +1,0 @@
-It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly . 

@@ -1,1 +1,0 @@
-That seemed to solve the problem , till I wrote an article with semicolons in it . 

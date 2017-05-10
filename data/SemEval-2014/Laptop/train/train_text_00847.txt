@@ -1,1 +1,0 @@
-For the Bluetooth to work properly , you must install the Launch Manager on the Drivers / Applications DVD , or it will not show after the reload . 
