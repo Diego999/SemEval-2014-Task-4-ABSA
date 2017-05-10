@@ -1,4 +1,3 @@
-T1	MISC 46 52	screen
-T2	MISC 53 57	size
-T3	MISC 62 72	processing
-T4	MISC 73 78	power
+T1	MISC 0 7	Toshiba
+T2	MISC 8 16	customer
+T3	MISC 17 25	services

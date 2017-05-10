@@ -1,5 +1,2 @@
-T1	MISC 0 12	Temperatures
-T2	MISC 64 68	Core
-T3	MISC 69 79	Processing
-T4	MISC 80 84	Unit
-T5	MISC 85 97	temperatures
+T1	MISC 71 78	service
+T2	MISC 79 89	department

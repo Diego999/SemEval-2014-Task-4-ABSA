@@ -1,1 +1,1 @@
-Whenever tried to turn it on , it would restart as soon as the BIOS launched Windows ( or Winblows , as I like ot call it ) . 
+another problem . 

@@ -1,2 +1,6 @@
-T1	MISC 35 42	charger
-T2	MISC 43 47	unit
+T1	MISC 48 55	battery
+T2	MISC 56 60	life
+T3	MISC 118 126	response
+T4	MISC 160 168	Internet
+T5	MISC 169 176	focused
+T6	MISC 177 185	activity

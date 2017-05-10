@@ -1,4 +1,2 @@
-T1	MISC 4 9	touch
-T2	MISC 10 13	pad
-T3	MISC 45 50	touch
-T4	MISC 51 54	pad
+T1	MISC 19 27	features
+T2	MISC 43 48	power

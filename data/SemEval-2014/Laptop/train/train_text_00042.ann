@@ -1,2 +1,3 @@
-T1	MISC 123 130	battery
-T2	MISC 159 165	charge
+T1	MISC 38 44	charge
+T2	MISC 152 160	charging
+T3	MISC 240 246	charge

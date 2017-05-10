@@ -1,2 +1,6 @@
-T1	MISC 21 28	battery
-T2	MISC 29 33	life
+T1	MISC 24 32	navigate
+T2	MISC 45 54	operating
+T3	MISC 55 61	system
+T4	MISC 67 71	find
+T5	MISC 72 77	files
+T6	MISC 87 91	runs

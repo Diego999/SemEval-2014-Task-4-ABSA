@@ -1,1 +1,4 @@
-T1	MISC 21 28	battery
+T1	MISC 17 21	hard
+T2	MISC 22 27	drive
+T3	MISC 42 48	mother
+T4	MISC 49 54	board

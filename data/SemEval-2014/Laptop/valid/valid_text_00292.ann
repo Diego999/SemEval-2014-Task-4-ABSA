@@ -1,3 +1,11 @@
-T1	MISC 4 11	battery
-T2	MISC 25 31	charge
-T3	MISC 95 101	charge
+T1	MISC 17 24	battery
+T2	MISC 25 29	life
+T3	MISC 49 52	web
+T4	MISC 53 61	browsing
+T5	MISC 66 70	word
+T6	MISC 71 78	editing
+T7	MISC 145 151	gaming
+T8	MISC 156 161	movie
+T9	MISC 162 169	playing
+T10	MISC 184 191	battery
+T11	MISC 192 196	life

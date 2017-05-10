@@ -1,2 +1,6 @@
-T1	MISC 21 24	usb
-T2	MISC 25 32	devices
+T1	MISC 65 70	extra
+T2	MISC 71 79	features
+T3	MISC 93 100	windows
+T4	MISC 101 102	7
+T5	MISC 103 107	home
+T6	MISC 108 115	premium

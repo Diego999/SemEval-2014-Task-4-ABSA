@@ -1,1 +1,6 @@
-T1	MISC 11 19	keyboard
+T1	MISC 22 30	standard
+T2	MISC 31 33	os
+T3	MISC 34 36	cd
+T4	MISC 48 59	proprietary
+T5	MISC 60 68	hardware
+T6	MISC 69 76	drivers

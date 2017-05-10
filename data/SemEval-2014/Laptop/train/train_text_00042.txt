@@ -1,1 +1,1 @@
-There is a small red circle next to it with a x in the middle , and when I click on it it says : " Consider replacing your battery " and it does not hold full charge . 
+It started out by randomly ceasing to charge when it was plugged in ( mousing over the battery icon would read , for example , " 74% , plugged in , not charging " ) , requiring me to unplug it and plug it back in several times to get it to charge . 

@@ -1,4 +1,3 @@
-T1	MISC 25 33	software
-T2	MISC 55 62	windows
-T3	MISC 63 68	media
-T4	MISC 83 88	price
+T1	MISC 0 2	OS
+T2	MISC 3 4	X
+T3	MISC 47 56	quicklook

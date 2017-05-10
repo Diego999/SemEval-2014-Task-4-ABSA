@@ -1,7 +1,2 @@
-T1	MISC 6 10	SATA
-T2	MISC 11 21	controller
-T3	MISC 29 40	motherboard
-T4	MISC 41 45	chip
-T5	MISC 60 63	CPU
-T6	MISC 76 80	hard
-T7	MISC 81 86	drive
+T1	MISC 73 80	battery
+T2	MISC 81 85	life

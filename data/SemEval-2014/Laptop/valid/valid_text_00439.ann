@@ -1,1 +1,10 @@
-T1	MISC 27 32	PRICE
+T1	MISC 9 12	usb
+T2	MISC 13 18	ports
+T3	MISC 23 25	sd
+T4	MISC 26 32	memory
+T5	MISC 33 37	card
+T6	MISC 38 44	reader
+T7	MISC 52 54	sd
+T8	MISC 55 61	memory
+T9	MISC 62 65	car
+T10	MISC 66 75	expansion

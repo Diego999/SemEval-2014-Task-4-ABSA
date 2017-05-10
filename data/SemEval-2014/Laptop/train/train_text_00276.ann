@@ -1,3 +1,4 @@
-T1	MISC 14 18	word
-T2	MISC 242 246	word
-T3	MISC 247 256	processer
+T1	MISC 17 23	memory
+T2	MISC 34 38	hard
+T3	MISC 39 44	drive
+T4	MISC 57 65	graphics

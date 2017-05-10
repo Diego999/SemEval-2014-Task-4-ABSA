@@ -1,1 +1,1 @@
-apple has a reputation and is well known for its easy usage . 
+Info : Windows failed to load because the kernal is missing , or corrupt . 

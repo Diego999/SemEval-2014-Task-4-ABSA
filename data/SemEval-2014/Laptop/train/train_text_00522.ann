@@ -1,5 +1,2 @@
-T1	MISC 5 13	features
-T2	MISC 32 38	volume
-T3	MISC 39 44	wheel
-T4	MISC 47 52	sound
-T5	MISC 53 60	quality
+T1	MISC 9 15	switch
+T2	MISC 102 108	switch

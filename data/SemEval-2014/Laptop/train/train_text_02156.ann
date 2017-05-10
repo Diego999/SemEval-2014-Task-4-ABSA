@@ -1,4 +1,2 @@
-T1	MISC 42 46	disc
-T2	MISC 47 52	drive
-T3	MISC 165 170	drive
-T4	MISC 241 246	drive
+T1	MISC 4 11	service
+T2	MISC 12 16	tech

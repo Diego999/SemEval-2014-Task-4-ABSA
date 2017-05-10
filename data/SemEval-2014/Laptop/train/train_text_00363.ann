@@ -1,5 +1,7 @@
-T1	MISC 10 18	keyboard
-T2	MISC 43 48	plate
-T3	MISC 116 121	mouse
-T4	MISC 122 129	command
-T5	MISC 130 137	buttons
+T1	MISC 28 35	desktop
+T2	MISC 36 46	background
+T3	MISC 49 55	window
+T4	MISC 56 58	's
+T5	MISC 59 60	7
+T6	MISC 61 68	starter
+T7	MISC 91 99	function

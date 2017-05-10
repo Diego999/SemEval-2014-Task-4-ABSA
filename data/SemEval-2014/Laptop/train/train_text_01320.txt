@@ -1,1 +1,1 @@
-I was loving this Netbook because it had an amazing screen and display and was small and light , but after 1 week it stopped openning web pages for me ( even after installing new browsers ) then eventually it just started giving me a blue screen and crashing everytime I booted it . 
+I acually believe the issue is with the Nvidia grafics card , but still requires a return . 

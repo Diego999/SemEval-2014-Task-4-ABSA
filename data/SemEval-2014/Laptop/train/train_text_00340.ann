@@ -1,5 +1,2 @@
-T1	MISC 3 11	internet
-T2	MISC 12 24	connectivity
-T3	MISC 112 115	USB
-T4	MISC 116 124	wireless
-T5	MISC 125 129	card
+T1	MISC 12 14	cd
+T2	MISC 15 20	drive

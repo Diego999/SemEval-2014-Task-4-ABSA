@@ -1,2 +1,6 @@
-T1	MISC 0 3	Fan
-T2	MISC 16 19	fan
+T1	MISC 17 25	Features
+T2	MISC 38 49	Performance
+T3	MISC 59 66	Battery
+T4	MISC 67 71	Life
+T5	MISC 86 91	Price
+T6	MISC 94 99	Value

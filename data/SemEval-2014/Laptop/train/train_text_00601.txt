@@ -1,1 +1,1 @@
-Drivers updated ok but the BIOS update froze the system up and the computer shut down . 
+One night I turned the freaking thing off after using it , the next day I turn it on , no GUI , screen all dark , power light steady , hard drive light steady and not flashing as it usually does . 

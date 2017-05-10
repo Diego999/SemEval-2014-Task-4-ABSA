@@ -1,3 +1,2 @@
-T1	MISC 11 20	protector
-T2	MISC 28 31	key
-T3	MISC 32 35	pad
+T1	MISC 36 41	carry
+T2	MISC 46 52	handle

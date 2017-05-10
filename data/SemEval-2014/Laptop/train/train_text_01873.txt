@@ -1,1 +1,1 @@
-( If you ever see the spinning beachball come up when you think it should n't , check the " Activity Monitor " app to see if the disk throughput has temporarily dropped to zero . 
+The only thing that is n't perfect about this netbook is the speakers , they are not loud at all but I expected that . 

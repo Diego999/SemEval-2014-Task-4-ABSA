@@ -1,5 +1,4 @@
-T1	MISC 34 41	Windows
-T2	MISC 73 77	disk
-T3	MISC 78 83	image
-T4	MISC 90 94	hard
-T5	MISC 95 100	drive
+T1	MISC 15 22	service
+T2	MISC 23 26	rep
+T3	MISC 98 103	power
+T4	MISC 104 111	adapter

@@ -1,3 +1,8 @@
-T1	MISC 12 20	customer
-T2	MISC 21 28	service
-T3	MISC 29 35	center
+T1	MISC 4 9	speed
+T2	MISC 60 64	hard
+T3	MISC 65 70	drive
+T4	MISC 125 128	500
+T5	MISC 129 131	gb
+T6	MISC 132 140	external
+T7	MISC 141 145	hard
+T8	MISC 146 151	drive

@@ -1,11 +1,2 @@
-T1	MISC 0 6	Screen
-T2	MISC 9 17	keyboard
-T3	MISC 24 29	mouse
-T4	MISC 117 123	screen
-T5	MISC 137 143	island
-T6	MISC 144 151	backlit
-T7	MISC 152 160	keyboard
-T8	MISC 171 176	multi
-T9	MISC 177 178	-
-T10	MISC 179 184	touch
-T11	MISC 185 190	mouse
+T1	MISC 32 38	screen
+T2	MISC 59 64	price

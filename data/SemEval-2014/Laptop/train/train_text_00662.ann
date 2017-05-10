@@ -1,6 +1,4 @@
-T1	MISC 59 65	genius
-T2	MISC 66 69	bar
-T3	MISC 70 75	staff
-T4	MISC 104 107	fan
-T5	MISC 111 115	boot
-T6	MISC 116 118	up
+T1	MISC 20 23	pre
+T2	MISC 24 33	installed
+T3	MISC 34 42	software
+T4	MISC 43 49	update

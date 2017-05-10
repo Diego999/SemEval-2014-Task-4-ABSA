@@ -1,4 +1,8 @@
-T1	MISC 43 47	hard
-T2	MISC 48 52	disc
-T3	MISC 70 77	windows
-T4	MISC 122 129	drivers
+T1	MISC 17 22	iWork
+T2	MISC 47 55	programs
+T3	MISC 60 64	word
+T4	MISC 65 75	processing
+T5	MISC 78 90	spreadsheets
+T6	MISC 97 110	presentations
+T7	MISC 124 133	Microsoft
+T8	MISC 134 140	Office

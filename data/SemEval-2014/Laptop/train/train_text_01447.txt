@@ -1,1 +1,1 @@
-The processor screams , and because of the unique way that Apple OSX 16 functions , most of the graphics are routed through the hardware rather than the software . 
+I tried to upgrade it to a newer version a couple of months ago and I still have the same problem . 

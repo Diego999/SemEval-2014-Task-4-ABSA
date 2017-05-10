@@ -1,5 +1,8 @@
-T1	MISC 9 14	every
-T2	MISC 15 18	day
-T3	MISC 19 28	computing
-T4	MISC 33 36	web
-T5	MISC 37 45	browsing
+T1	MISC 0 4	Hard
+T2	MISC 5 9	disk
+T3	MISC 44 48	hard
+T4	MISC 49 53	disk
+T5	MISC 54 59	space
+T6	MISC 130 138	internal
+T7	MISC 139 143	hard
+T8	MISC 144 148	disk

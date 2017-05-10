@@ -1,4 +1,6 @@
-T1	MISC 8 15	Toshiba
-T2	MISC 16 20	tech
-T3	MISC 21 28	support
-T4	MISC 53 58	techs
+T1	MISC 21 24	DVD
+T2	MISC 25 31	burner
+T3	MISC 46 48	HD
+T4	MISC 66 74	graphics
+T5	MISC 75 79	chip
+T6	MISC 229 239	components
