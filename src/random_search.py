@@ -24,7 +24,7 @@ while file_exists:
     token_hidden_dim = [100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600]
     token_lstm_hidden_state_dimension = draw_val(token_hidden_dim)
 
-    optimizer_set = ['sgd', 'adam']
+    optimizer_set = ['sgd']#, 'adam']
     optimizer = draw_val(optimizer_set)
 
     learning_rate_set = [0.0001, 0.00025, 0.0005, 0.00075, 0.001, 0.0025, 0.005, 0.0075]
