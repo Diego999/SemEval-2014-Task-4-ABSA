@@ -1,0 +1,35 @@
+import os
+import sys
+from subprocess import Popen, PIPE
+
+assert len(sys.argv) == 5
+
+pred, ref, scorer, type = sys.argv[1:]
+os.system('python3 convert_from_conll_format_' + type.lower() + '.py ' + pred + ' ' + ref)
+
+pred = pred.replace('txt', 'xml')
+process = Popen(['java', '-cp', scorer, 'Main.Aspects', pred, ref], stdout=PIPE)
+output = process.communicate()[0].decode('utf-8').split('\n')
+
+interesting_lines = []
+keep_x_next_item = 0
+for o in output:
+    if keep_x_next_item > 0:
+        interesting_lines.append(o)
+        keep_x_next_item -= 1
+        if keep_x_next_item == 0:
+            break
+    if o.startswith('#Gold Aspect Terms'):
+        keep_x_next_item = 3
+
+prec, rec, f1 = [100*float(entry.split('\t')[1].split(' ')[0]) for entry in interesting_lines]
+if prec < 0.01 and rec < 0.01:
+    f1 = 0
+
+temp = [[int(x) for x in entry.split('\t')[1].split(' ')[1][1:-1].split('/')] for entry in interesting_lines[:-1]]
+correct = temp[0][0] + temp[1][0]
+total = temp[0][1] + temp[1][1]
+acc = 100.0*(correct/total)
+print("processed X tokens with X phrases; found: X phrases; correct: X.")
+print("accuracy:  %.2f%%; precision:  %.2f%%; recall:  %.2f%%; FB1:  %.2f" % (acc, prec, rec, f1))
+print("            MISC: precision:  %.2f%%; recall:  %.2f%%; FB1:  %.2f  %.0f" % (prec, rec, f1, total))

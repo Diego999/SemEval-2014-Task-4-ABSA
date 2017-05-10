@@ -87,10 +87,16 @@ def prediction_step(sess, dataset, dataset_type, model, transition_params_traine
     original_conll_file.close()
 
     if dataset_type != 'deploy':
-        if parameters['main_evaluation_mode'] == 'conll':
-            conll_evaluation_script = os.path.join('.', 'conlleval')
-            conll_output_filepath = '{0}_conll_evaluation.txt'.format(output_filepath)
-            shell_command = 'perl {0} < {1} > {2}'.format(conll_evaluation_script, output_filepath, conll_output_filepath)
+        if parameters['main_evaluation_mode'] == 'conll' or (parameters['main_evaluation_mode'] == 'binary' and parameters['evaluate_aspect']):
+            if parameters['evaluate_aspect']:
+                aspect_evaluation_script = os.path.join('.', 'aspecteval')
+                conll_output_filepath = '{0}_aspect_evaluation.txt'.format(output_filepath)
+                shell_command = 'python {0} {1} {2} {3} {4} > {5}'.format(aspect_evaluation_script, output_filepath, parameters['ref_file'] if dataset_type in parameters['ref_file'] else parameters['ref_file'].replace('train', dataset_type), parameters['scorer'], parameters['eval_type'], conll_output_filepath)
+            else:
+                conll_evaluation_script = os.path.join('.', 'conlleval')
+                conll_output_filepath = '{0}_conll_evaluation.txt'.format(output_filepath)
+                shell_command = 'perl {0} < {1} > {2}'.format(conll_evaluation_script, output_filepath, conll_output_filepath)
+
             os.system(shell_command)
             with open(conll_output_filepath, 'r') as f:
                 classification_report = f.read()

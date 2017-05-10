@@ -62,7 +62,7 @@ def load_parameters(parameters_filepath=os.path.join('.','parameters.ini'), verb
             parameters[k] = int(v)
         elif k in ['dropout_rate', 'learning_rate', 'gradient_clipping_value']:
             parameters[k] = float(v)
-        elif k in ['remap_unknown_tokens_to_unk', 'use_character_lstm', 'use_crf', 'train_model', 'use_pretrained_model', 'debug', 'verbose',
+        elif k in ['evaluate_aspect', 'remap_unknown_tokens_to_unk', 'use_character_lstm', 'use_crf', 'train_model', 'use_pretrained_model', 'debug', 'verbose',
                  'reload_character_embeddings', 'reload_character_lstm', 'reload_token_embeddings', 'reload_token_lstm', 'reload_feedforward', 'reload_crf',
                  'check_for_lowercase', 'check_for_digits_replaced_with_zeros', 'freeze_token_embeddings', 'load_only_pretrained_token_embeddings']:
             parameters[k] = distutils.util.strtobool(v)
@@ -263,6 +263,7 @@ def main():
                     elif epoch_number != 0:
                         # Train model: loop over all sequences of training set with shuffling
                         sequence_numbers=list(range(len(dataset.token_indices['train'])))
+
                         random.shuffle(sequence_numbers)
                         for sequence_number in sequence_numbers:
                             transition_params_trained = train.train_step(sess, dataset, sequence_number, model, transition_params_trained, parameters)

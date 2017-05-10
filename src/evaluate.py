@@ -248,15 +248,24 @@ def evaluate_model(results, dataset, y_pred_all, y_true_all, stats_graph_folder,
     for dataset_type in ['train', 'valid', 'test']:
         if dataset_type not in output_filepaths.keys():
             continue
-        conll_evaluation_script = os.path.join('.', 'conlleval')
-        conll_output_filepath = '{0}_conll_evaluation.txt'.format(output_filepaths[dataset_type])
-        shell_command = 'perl {0} < {1} > {2}'.format(conll_evaluation_script, output_filepaths[dataset_type], conll_output_filepath)
+
+        if parameters['evaluate_aspect']:
+            aspect_evaluation_script = os.path.join('.', 'aspecteval')
+            conll_output_filepath = '{0}_aspect_evaluation.txt'.format(output_filepaths[dataset_type])
+            shell_command = 'python {0} {1} {2} {3} {4} > {5}'.format(aspect_evaluation_script, output_filepaths[dataset_type], parameters['ref_file'] if dataset_type in parameters['ref_file'] else parameters['ref_file'].replace('train', dataset_type), parameters['scorer'], parameters['eval_type'], conll_output_filepath)
+        else:
+            conll_evaluation_script = os.path.join('.', 'conlleval')
+            conll_output_filepath = '{0}_conll_evaluation.txt'.format(output_filepaths[dataset_type])
+            shell_command = 'perl {0} < {1} > {2}'.format(conll_evaluation_script, output_filepaths[dataset_type], conll_output_filepath)
+
         print('shell_command: {0}'.format(shell_command))
         os.system(shell_command)
         conll_parsed_output = utils_nlp.get_parsed_conll_output(conll_output_filepath)
+
         results['epoch'][epoch_number][0][dataset_type]['conll'] = conll_parsed_output
         results['epoch'][epoch_number][0][dataset_type]['f1_conll'] = {}
         results['epoch'][epoch_number][0][dataset_type]['f1_conll']['micro'] = results['epoch'][epoch_number][0][dataset_type]['conll']['all']['f1']
+
         if parameters['main_evaluation_mode'] == 'conll':
             results['epoch'][epoch_number][0][dataset_type]['f1_score'] = {}
             results['epoch'][epoch_number][0][dataset_type]['f1_score']['micro'] = results['epoch'][epoch_number][0][dataset_type]['conll']['all']['f1']
