@@ -29,7 +29,7 @@ if prec < 0.01 and rec < 0.01:
 temp = [[int(x) for x in entry.split('\t')[1].split(' ')[1][1:-1].split('/')] for entry in interesting_lines[:-1]]
 correct = temp[0][0] + temp[1][0]
 total = temp[0][1] + temp[1][1]
-acc = 100.0*(correct/total)
+acc = 100.0*correct/total
 print("processed X tokens with X phrases; found: X phrases; correct: X.")
 print("accuracy:  %.2f%%; precision:  %.2f%%; recall:  %.2f%%; FB1:  %.2f" % (acc, prec, rec, f1))
 print("            MISC: precision:  %.2f%%; recall:  %.2f%%; FB1:  %.2f  %.0f" % (prec, rec, f1, total))
