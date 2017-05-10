@@ -24,6 +24,9 @@ while file_exists:
     token_hidden_dim = [100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600]
     token_lstm_hidden_state_dimension = draw_val(token_hidden_dim)
 
+    optimizer_set = ['sgd', 'adam']
+    optimizer = draw_val(optimizer_set)
+
     learning_rate_set = [0.0001, 0.00025, 0.0005, 0.00075, 0.001, 0.0025, 0.005, 0.0075]
     learning_rate = draw_val(learning_rate_set)
 
@@ -90,7 +93,7 @@ with open(filename, 'w', encoding='utf-8') as fp:
     fp.write("maximum_number_of_epochs = 100\n")
     fp.write("\n")
     fp.write("# optimizer should be either 'sgd', 'adam', or 'adadelta'\n")
-    fp.write("optimizer = adam\n")
+    fp.write("optimizer = " + optimizer + "\n")
     fp.write("learning_rate = " + str(learning_rate) + "\n")
     fp.write("# gradients will be clipped above |gradient_clipping_value| and below -|gradient_clipping_value|, if gradient_clipping_value is non-zero \n")
     fp.write("# (set to 0 to disable gradient clipping)\n")
