@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="2419">
+        <text>It is easy to go from one keyboard to another.</text>
+        <aspectTerms>
+            <aspectTerm from="26" polarity="neutral" term="keyboard" to="34"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2289">
+        <text>It's the inside that is truly wonderful.</text>
+    </sentence>
+    <sentence id="1447">
+        <text>I loved the netbook (minus the fact that it was windows OS) until this started happening.</text>
+        <aspectTerms>
+            <aspectTerm from="48" polarity="negative" term="windows OS" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="820">
+        <text>  I am stuck with a laptop that I cannot do very much with.</text>
+    </sentence>
+    <sentence id="1417">
+        <text>  The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues.</text>
+        <aspectTerms>
+            <aspectTerm from="6" polarity="negative" term="board" to="11"/>
+            <aspectTerm from="22" polarity="negative" term="connector" to="31"/>
+            <aspectTerm from="41" polarity="negative" term="power supply" to="53"/>
+            <aspectTerm from="72" polarity="negative" term="warrenty" to="80"/>
+            <aspectTerm from="93" polarity="negative" term="power supply" to="105"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1618">
+        <text>I now travel with this laptop and my work PC.</text>
+    </sentence>
+    <sentence id="1037">
+        <text>The driver updates don't fix the issue, very frustrating.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="driver updates" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2532">
+        <text>The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.</text>
+        <aspectTerms>
+            <aspectTerm from="74" polarity="negative" term="iWork" to="79"/>
+            <aspectTerm from="34" polarity="negative" term="software" to="42"/>
+            <aspectTerm from="97" polarity="negative" term="price" to="102"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="120">
+        <text>The DVD drive randomly pops open when it is in my backpack as well, which is annoying.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="DVD drive" to="13"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1736">
+        <text>Other than that I don't have one complaint in the world!</text>
+    </sentence>
+    <sentence id="1465">
+        <text>It's the most wonderful thing in the entire world.</text>
+    </sentence>
+    <sentence id="1282">
+        <text>So it was only about 2 weeks ago.</text>
+    </sentence>
+    <sentence id="2683">
+        <text>Good luck with your purchase options.</text>
+    </sentence>
+    <sentence id="1630">
+        <text>I took it back for an Asus and same thing- blue screen which required me to remove the battery to reset.</text>
+        <aspectTerms>
+            <aspectTerm from="87" polarity="neutral" term="battery" to="94"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2698">
+        <text>I went to Toshiba online help and found some suggestions to fix it.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="Toshiba online help" to="29"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="125">
+        <text>I Contacted HP  about this situation and was given excuses, without results.</text>
+    </sentence>
+    <sentence id="107">
+        <text>My laptop now has no battery.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="battery" to="28"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2945">
+        <text>Thank you for your great product!</text>
+    </sentence>
+    <sentence id="2086">
+        <text>My ONLY issues are: 1) the screen/video resolution won't increase to a higher resolution then 1024 x 60</text>
+        <aspectTerms>
+            <aspectTerm from="27" polarity="negative" term="screen/video resolution" to="50"/>
+            <aspectTerm from="78" polarity="negative" term="resolution" to="88"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2017">
+        <text>I looked at the computer and it said updating but the asked for a product key.</text>
+    </sentence>
+    <sentence id="28">
+        <text>I was even able to uninstall McAffe and install one of my Symantec licenses with a no issues whatsoever.</text>
+    </sentence>
+    <sentence id="989">
+        <text>I've tried going back to XL but there still problems.</text>
+    </sentence>
+    <sentence id="1562">
+        <text>The difference in the Apple keyboard from a PC's keyboard took a bit of tim to get used to, but overall it's worth it!</text>
+        <aspectTerms>
+            <aspectTerm from="22" polarity="neutral" term="Apple keyboard" to="36"/>
+            <aspectTerm from="44" polarity="neutral" term="PC's keyboard" to="57"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3048">
+        <text>I had the staff telling me older version did not make the fan noise cause it is a &quot;different&quot; computer.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="staff" to="15"/>
+            <aspectTerm from="58" polarity="negative" term="fan noise" to="67"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="802">
+        <text>its sad because their commercials are great.</text>
+    </sentence>
+    <sentence id="1896">
+        <text>I purchased an HP right after my high school graduation.</text>
+    </sentence>
+    <sentence id="830">
+        <text>  There's literally no way to make it sing with Vista.</text>
+        <aspectTerms>
+            <aspectTerm from="48" polarity="negative" term="Vista" to="53"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1937">
+        <text>I got it back and my built-in webcam and built-in mic were shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="built-in webcam" to="36"/>
+            <aspectTerm from="41" polarity="negative" term="built-in mic" to="53"/>
+            <aspectTerm from="269" polarity="negative" term="cam" to="272"/>
+            <aspectTerm from="277" polarity="negative" term="mic" to="280"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="709">
+        <text>My brother is a computer wiz and would laugh at me because he used an Apple.</text>
+    </sentence>
+    <sentence id="2650">
+        <text>That is how it is able to function better than any other PC.</text>
+    </sentence>
+    <sentence id="1737">
+        <text>It is by far one of the greatest investments I have ever made.</text>
+    </sentence>
+    <sentence id="2607">
+        <text>There is nothing better.</text>
+    </sentence>
+    <sentence id="568">
+        <text>This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years, I find not much difference except of course for the screen size.</text>
+        <aspectTerms>
+            <aspectTerm from="172" polarity="neutral" term="screen size" to="183"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="464">
+        <text>They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.</text>
+        <aspectTerms>
+            <aspectTerm from="63" polarity="neutral" term="battery" to="70"/>
+            <aspectTerm from="76" polarity="neutral" term="hard disk" to="85"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2518">
+        <text>I purchased a Toshiba Satellite M60 (with harman/kardon speakers!) in December of 2005.</text>
+        <aspectTerms>
+            <aspectTerm from="56" polarity="positive" term="speakers" to="64"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1397">
+        <text>dell is a decently made pc.</text>
+    </sentence>
+    <sentence id="1159">
+        <text>I would rate this computer at 5 stars, but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine.</text>
+        <aspectTerms>
+            <aspectTerm from="70" polarity="negative" term="life span" to="79"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2711">
+        <text>Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.</text>
+        <aspectTerms>
+            <aspectTerm from="50" polarity="positive" term="applications" to="62"/>
+            <aspectTerm from="82" polarity="neutral" term="programs" to="90"/>
+            <aspectTerm from="67" polarity="positive" term="Internet tabs" to="80"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="611">
+        <text>The latest and mightiest Macbook pro 17-inch was bought by my university on the 30th of June 2009.</text>
+    </sentence>
+    <sentence id="2195">
+        <text>I was very worried about making the two compatible- but literally, it was so simple I was almost worried that I was doing something wrong.</text>
+    </sentence>
+    <sentence id="1655">
+        <text>Such as PAGES, NUMBERS, and so on.</text>
+    </sentence>
+    <sentence id="2790">
+        <text>Recommended to people as their first laptop.</text>
+    </sentence>
+    <sentence id="1158">
+        <text>Oh, boy!</text>
+    </sentence>
+    <sentence id="585">
+        <text>It is the easiest computer I have ever used</text>
+    </sentence>
+    <sentence id="854">
+        <text>  The hard drive crashed as well, and I had to buy a new  power cord.</text>
+        <aspectTerms>
+            <aspectTerm from="6" polarity="negative" term="hard drive" to="16"/>
+            <aspectTerm from="58" polarity="negative" term="power cord" to="68"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1977">
+        <text>I saw walmart had the same computer for about $650 but still knowing what I know now,I would not buy it at that price.</text>
+        <aspectTerms>
+            <aspectTerm from="112" polarity="negative" term="price" to="117"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="624">
+        <text>They claim call center is still down.</text>
+        <aspectTerms>
+            <aspectTerm from="11" polarity="negative" term="call center" to="22"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="479">
+        <text>I was so excited when my dad said i could get a new laptop for my birthday.</text>
+    </sentence>
+    <sentence id="2789">
+        <text>Easy to start up and does not overheat as much as other laptops.</text>
+        <aspectTerms>
+            <aspectTerm from="8" polarity="positive" term="start up" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2826">
+        <text>I'm very impressed.</text>
+    </sentence>
+    <sentence id="1366">
+        <text>  After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="neutral" term="warrenty" to="20"/>
+            <aspectTerm from="33" polarity="negative" term="hard drive" to="43"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2874">
+        <text>The delivery was fast, and I would not hesitate to purchase this laptop again.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="delivery" to="12"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="599">
+        <text>It absolutely is more expensive than most PC laptops, but the ease of use, security, and minimal problems that have arisen make it well worth the pricetag.</text>
+        <aspectTerms>
+            <aspectTerm from="70" polarity="positive" term="use" to="73"/>
+            <aspectTerm from="75" polarity="positive" term="security" to="83"/>
+            <aspectTerm from="146" polarity="conflict" term="pricetag" to="154"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2871">
+        <text>I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.</text>
+        <aspectTerms>
+            <aspectTerm from="98" polarity="positive" term="performance" to="109"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2925">
+        <text>I have had this laptop for a few months now and i would say im pretty satisfied.</text>
+    </sentence>
+    <sentence id="1069">
+        <text>The Bluetooth was not there at all, and the fingerprint reader driver would be there, but the software would hang after installation was 1/2 way done.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="Bluetooth" to="13"/>
+            <aspectTerm from="44" polarity="negative" term="fingerprint reader driver" to="69"/>
+            <aspectTerm from="94" polarity="negative" term="software" to="102"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2754">
+        <text>I recommend for word processing and internet users.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="positive" term="word processing" to="31"/>
+            <aspectTerm from="36" polarity="positive" term="internet" to="44"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2026">
+        <text>I have had the luxury (sarcasm) of owning 2 of these laptops.</text>
+    </sentence>
+    <sentence id="1585">
+        <text>He gave me this PC about 3 years ago and up to this point im still sitting here using it.</text>
+    </sentence>
+    <sentence id="2564">
+        <text>My kids (and dogs) destroyed two power cords by pulling on them.</text>
+        <aspectTerms>
+            <aspectTerm from="33" polarity="neutral" term="power cords" to="44"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="974">
+        <text>It quit working within a weeks time.</text>
+    </sentence>
+    <sentence id="2727">
+        <text>Tried to make a recovey disk wouldnt get passed the first recovery disk.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="negative" term="recovey disk" to="28"/>
+            <aspectTerm from="58" polarity="negative" term="recovery disk" to="71"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="774">
+        <text>If you are looking for a netbook pc DO NOT BUY FROM ASUS!!!</text>
+    </sentence>
+    <sentence id="2148">
+        <text>My wife recently purchased an Apple MacBook Pro and our granddaughter fell in love with it and asked for one for her birthday.</text>
+    </sentence>
+    <sentence id="591">
+        <text>In those three years, I've had a couple of minor problems and both were resolved by Apple quickly and easily.</text>
+    </sentence>
+    <sentence id="911">
+        <text>no complaints with their desktop, and maybe because it just sits on your desktop, and you don't carry it around, which could jar the hard drive, or the motherboard.</text>
+        <aspectTerms>
+            <aspectTerm from="133" polarity="neutral" term="hard drive" to="143"/>
+            <aspectTerm from="152" polarity="neutral" term="motherboard" to="163"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="425">
+        <text>Sad very SAD.</text>
+    </sentence>
+    <sentence id="1649">
+        <text>And if you have a iphone or ipod touch you can connect and download songs to it at high speed.</text>
+        <aspectTerms>
+            <aspectTerm from="88" polarity="positive" term="speed" to="93"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="274">
+        <text>The little battery that it did have would only last about an hour while just having it on the desktop.</text>
+        <aspectTerms>
+            <aspectTerm from="11" polarity="negative" term="battery" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2143">
+        <text>Quality Display  I was surprised with the performance and quality of this HP Laptop.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Quality Display" to="15"/>
+            <aspectTerm from="42" polarity="positive" term="performance" to="53"/>
+            <aspectTerm from="58" polarity="positive" term="quality" to="65"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="925">
+        <text>You can call HP and they want you to buy more software to fix it.</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="neutral" term="software" to="54"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1259">
+        <text>Acer was no help and Garmin could not determine the problem(after spending about 2 hours with me), so I returned it and purchased a Toshiba R700 that seems even nicer and I was able to load all of my software with no problem.</text>
+        <aspectTerms>
+            <aspectTerm from="200" polarity="positive" term="software" to="208"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1652">
+        <text>And these are some reasons you should get a macbook pro.</text>
+    </sentence>
+    <sentence id="1588">
+        <text>This is something i would deffinately reccomend to someone.</text>
+    </sentence>
+    <sentence id="1740">
+        <text>The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this performs a lot better than any computer I've had in the past.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="Material" to="12"/>
+            <aspectTerm from="68" polarity="negative" term="Specs" to="73"/>
+            <aspectTerm from="92" polarity="positive" term="performs" to="100"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="497">
+        <text>It was weird.</text>
+    </sentence>
+    <sentence id="733">
+        <text>Microsoft seems to be unable to keep up with repairs for the multitude of windows problems.</text>
+        <aspectTerms>
+            <aspectTerm from="74" polarity="negative" term="windows" to="81"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1532">
+        <text>My sister has the same Mac as me and she is in a band and uses GarageBand to record and edit.</text>
+        <aspectTerms>
+            <aspectTerm from="63" polarity="neutral" term="GarageBand" to="73"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="85">
+        <text>Worth the investment and truly a fine piece of equipment.</text>
+    </sentence>
+    <sentence id="1468">
+        <text>So I'd pop them off to see what the problem was, well guess what? The darn thing wouldn't go back on.</text>
+    </sentence>
+    <sentence id="3034">
+        <text>:-)If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.</text>
+        <aspectTerms>
+            <aspectTerm from="57" polarity="negative" term="battery life" to="69"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2707">
+        <text>Would like more trendy, high tech features.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="negative" term="features" to="42"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2422">
+        <text>I need graphic power to run my Adobe Creative apps efficiently.</text>
+        <aspectTerms>
+            <aspectTerm from="7" polarity="neutral" term="graphic power" to="20"/>
+            <aspectTerm from="31" polarity="neutral" term="Adobe Creative apps" to="50"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2294">
+        <text>Also, you won't have to worry about them going onlne a getting a virus.</text>
+    </sentence>
+    <sentence id="2260">
+        <text>The magnetic plug-in power charging power cord is great (I even put it to the test by accident)- excellent innovation!</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="magnetic plug-in power charging power cord" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1523">
+        <text>They don't crash.</text>
+    </sentence>
+    <sentence id="2570">
+        <text>I just love my Mac!</text>
+    </sentence>
+    <sentence id="726">
+        <text>It turns out that this hp pc had been preciously sold by Wal Mart.</text>
+    </sentence>
+    <sentence id="1393">
+        <text>the mouse buttons are hard to push.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="mouse buttons" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2036">
+        <text>I sent it back AND THEY LOST IT.</text>
+    </sentence>
+    <sentence id="403">
+        <text>First the screen goes completely out.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="screen" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="708">
+        <text>It would take up too much time to do reaearch for my papers and I would be up hours-just because the computer was too slow.</text>
+    </sentence>
+    <sentence id="2000">
+        <text>Treat yourself to a more expensive, long-lasting laptop of quality like a Sony, Apple, or Toshiba.</text>
+        <aspectTerms>
+            <aspectTerm from="59" polarity="positive" term="quality" to="66"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1619">
+        <text>I love the Mac so much better than my work PC!</text>
+    </sentence>
+    <sentence id="968">
+        <text>  I will definitely be getting a new laptop if it has any more issues after the warranty expires and researching carefully when I do so I don't run accross a situation like this again!</text>
+        <aspectTerms>
+            <aspectTerm from="80" polarity="neutral" term="warranty" to="88"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="97">
+        <text>First of all, they had no record of me having the 3 year warranty I'd paid almost $400 for, and I had to call in, spend hours on their online chat service, and fax in multiple documents.</text>
+        <aspectTerms>
+            <aspectTerm from="50" polarity="negative" term="3 year warranty" to="65"/>
+            <aspectTerm from="135" polarity="negative" term="online chat service" to="154"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="339">
+        <text>Still, this laptop is perfect for all day use at school and work.</text>
+    </sentence>
+    <sentence id="2154">
+        <text>The large screen also helps when you are working in design based programs like Adobe Creative Suite.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="screen" to="16"/>
+            <aspectTerm from="52" polarity="neutral" term="design based programs" to="73"/>
+            <aspectTerm from="79" polarity="neutral" term="Adobe Creative Suite" to="99"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1064">
+        <text>For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.</text>
+        <aspectTerms>
+            <aspectTerm from="8" polarity="neutral" term="Bluetooth" to="17"/>
+            <aspectTerm from="79" polarity="neutral" term="Drivers/Applications DVD" to="103"/>
+            <aspectTerm from="57" polarity="neutral" term="Launch Manager" to="71"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2868">
+        <text>True quality at a great price!</text>
+        <aspectTerms>
+            <aspectTerm from="5" polarity="positive" term="quality" to="12"/>
+            <aspectTerm from="24" polarity="positive" term="price" to="29"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2901">
+        <text>I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.</text>
+        <aspectTerms>
+            <aspectTerm from="192" polarity="positive" term="features" to="200"/>
+            <aspectTerm from="205" polarity="positive" term="programs" to="213"/>
+            <aspectTerm from="29" polarity="positive" term="use" to="32"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="273">
+        <text>Even with virus protection, it always turned off when updates were needed and installed.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="virus protection" to="26"/>
+            <aspectTerm from="54" polarity="negative" term="updates" to="61"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2706">
+        <text>Features like the font are very block-like and old school.</text>
+        <aspectTerms>
+            <aspectTerm from="18" polarity="negative" term="font" to="22"/>
+            <aspectTerm from="0" polarity="negative" term="Features" to="8"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2598">
+        <text>So far, so good.</text>
+    </sentence>
+    <sentence id="2416">
+        <text>I thought the white Mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing.</text>
+        <aspectTerms>
+            <aspectTerm from="76" polarity="neutral" term="mousepad" to="84"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2740">
+        <text>It has no camera but, I can always buy and install one easy.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="conflict" term="camera" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1299">
+        <text>Of course, I inspected the other netbooks and clearly their hinges are tighter and I even demonstrate the difference between my netbook and others.</text>
+        <aspectTerms>
+            <aspectTerm from="60" polarity="negative" term="hinges" to="66"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1899">
+        <text>  The problems started with just the screen freezing.</text>
+    </sentence>
+    <sentence id="233">
+        <text>From the start, when you open the box you see a completely different class of machine.</text>
+    </sentence>
+    <sentence id="2504">
+        <text>Features such as the Dashboard (allows you to view frequently used tools like a calculator, weather forecast, movie times, calendar, computer post its etc.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="neutral" term="Features" to="8"/>
+            <aspectTerm from="21" polarity="neutral" term="Dashboard" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2049">
+        <text>It does not keep internet signals no matter where you bring it.</text>
+        <aspectTerms>
+            <aspectTerm from="17" polarity="negative" term="internet signals" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="354">
+        <text>The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.</text>
+        <aspectTerms>
+            <aspectTerm from="37" polarity="negative" term="battery life" to="49"/>
+            <aspectTerm from="68" polarity="negative" term="case" to="72"/>
+            <aspectTerm from="97" polarity="negative" term="core applications" to="114"/>
+            <aspectTerm from="4" polarity="negative" term="system" to="10"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="390">
+        <text>I love it and will probably get another one when this goes to the Laptop in the sky!!</text>
+    </sentence>
+    <sentence id="300">
+        <text>I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.</text>
+        <aspectTerms>
+            <aspectTerm from="94" polarity="neutral" term="applications" to="106"/>
+            <aspectTerm from="6" polarity="neutral" term="Dreamweaver" to="17"/>
+            <aspectTerm from="19" polarity="neutral" term="Final Cut Pro 7" to="34"/>
+            <aspectTerm from="36" polarity="neutral" term="Photoshop" to="45"/>
+            <aspectTerm from="47" polarity="neutral" term="Safari" to="53"/>
+            <aspectTerm from="55" polarity="neutral" term="Firefox" to="62"/>
+            <aspectTerm from="64" polarity="neutral" term="MSN Messenger" to="77"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1628">
+        <text>I wanted to spend around $700 to $800 so I was directed to a nice looking HP Laptop.</text>
+    </sentence>
+    <sentence id="1826">
+        <text>If I have a problem with any of my apple items I make an appointment at one of my local stores and they work on correcting it right there.</text>
+    </sentence>
+    <sentence id="604">
+        <text>As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .....</text>
+    </sentence>
+    <sentence id="1755">
+        <text>however, they were kind enough to send a replacement free of charge.</text>
+    </sentence>
+    <sentence id="1041">
+        <text>Loaded with bloatware.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="neutral" term="bloatware" to="21"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1431">
+        <text>With in weeks of purchasing my computer is began to slow down.</text>
+    </sentence>
+    <sentence id="867">
+        <text>It started out getting hot after only a few months.</text>
+    </sentence>
+    <sentence id="141">
+        <text>Called Acer many times, they want me to pay the shipping to ship it to their repair center - I was very disappointed since it is a brand new computer!</text>
+        <aspectTerms>
+            <aspectTerm from="48" polarity="negative" term="shipping" to="56"/>
+            <aspectTerm from="77" polarity="neutral" term="repair center" to="90"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="124">
+        <text>It is not ideal for children because of the temp.</text>
+        <aspectTerms>
+            <aspectTerm from="44" polarity="negative" term="temp" to="48"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="580">
+        <text>In my line of work, I often have to take work home, and this makes it so easy.</text>
+    </sentence>
+    <sentence id="351">
+        <text>So i would not reccomend anyone buying this computer</text>
+    </sentence>
+    <sentence id="63">
+        <text>I've also had to have the keyboard replaced at my expense.</text>
+        <aspectTerms>
+            <aspectTerm from="26" polarity="negative" term="keyboard" to="34"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="551">
+        <text>What's also interesting is this survey changed my ratings the first time I submitted it in case it doesn't keep what I put here are my aratings</text>
+    </sentence>
+    <sentence id="539">
+        <text>HP said I had done the damage.</text>
+    </sentence>
+    <sentence id="644">
+        <text>I claim that this has no value to me, the laptop was new anyway.</text>
+    </sentence>
+    <sentence id="2249">
+        <text>This comes in very handy for me as an educator.</text>
+    </sentence>
+    <sentence id="2962">
+        <text>This is likely due to poor grounding and isolation between the components, and I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.</text>
+        <aspectTerms>
+            <aspectTerm from="63" polarity="negative" term="components" to="73"/>
+            <aspectTerm from="118" polarity="neutral" term="ground loop isolator" to="138"/>
+            <aspectTerm from="193" polarity="negative" term="price range" to="204"/>
+            <aspectTerm from="176" polarity="negative" term="quality" to="183"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1189">
+        <text>Now for the hardware problems.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="negative" term="hardware" to="20"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1597">
+        <text>I previously purchased a 13&quot; macbook (had pro specs and was aluminum style) which had a nvidia 9800 (If I am not mistaken) and it had major heating issues.</text>
+        <aspectTerms>
+            <aspectTerm from="60" polarity="positive" term="aluminum style" to="74"/>
+            <aspectTerm from="46" polarity="positive" term="specs" to="51"/>
+            <aspectTerm from="88" polarity="neutral" term="nvidia 9800" to="99"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1134">
+        <text>I have had it 9 months and it is already a $250 loss.</text>
+    </sentence>
+    <sentence id="1579">
+        <text>It is amazing.</text>
+    </sentence>
+    <sentence id="2728">
+        <text>defective software.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="software" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="842">
+        <text>I'm still within the one year warranty but the repair &quot;depot&quot;  has deemed that this time it was caused by physical abuse and is not  covered.</text>
+        <aspectTerms>
+            <aspectTerm from="30" polarity="negative" term="warranty" to="38"/>
+            <aspectTerm from="47" polarity="negative" term="repair &quot;depot&quot;" to="61"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1089">
+        <text>Well I spilled something on it and they replaced it with this model, which gets hot and the battery doesn't make it through 1 DVD.</text>
+        <aspectTerms>
+            <aspectTerm from="92" polarity="negative" term="battery" to="99"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1067">
+        <text>Unless you need the Bluetooth 3.</text>
+        <aspectTerms>
+            <aspectTerm from="20" polarity="neutral" term="Bluetooth 3" to="31"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2599">
+        <text>I am a full Mac convert now.</text>
+    </sentence>
+    <sentence id="2344">
+        <text>However, If I sound enthusiastic about this, I am!</text>
+    </sentence>
+    <sentence id="850">
+        <text>I never have had a good result with this computer.</text>
+    </sentence>
+    <sentence id="1164">
+        <text>but it came back in even worse shape.</text>
+    </sentence>
+    <sentence id="1274">
+        <text>It's outstanding too.</text>
+    </sentence>
+    <sentence id="2657">
+        <text>We purchased this as a back up computer after our more expensive HP needed to be repaired.</text>
+    </sentence>
+    <sentence id="667">
+        <text>The battery is really long.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="battery" to="11"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="888">
+        <text>The mousepad is a huge pain in the arse!</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="mousepad" to="12"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2640">
+        <text>So a couple of years later, I was a dumb college girl and had to have the wireless internet.</text>
+    </sentence>
+    <sentence id="1463">
+        <text>My first laptop was an Acer that I got for Christmas.</text>
+    </sentence>
+    <sentence id="2563">
+        <text>Getting the Apple Care plan is a must.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="Apple Care plan" to="27"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1763">
+        <text>I am a college student and it has been very useful.</text>
+    </sentence>
+    <sentence id="3063">
+        <text>I consider myself an average user and this computer serves my need.</text>
+    </sentence>
+    <sentence id="1705">
+        <text>I have been a PC user since middle school, but in my mid twenties I decided to convert to the dark side, or should I say the brighter side of life.</text>
+    </sentence>
+    <sentence id="2409">
+        <text>The programs that come standard with the Leopard running system are enough for the average person to run all the basics.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="programs" to="12"/>
+            <aspectTerm from="41" polarity="neutral" term="Leopard running system" to="63"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="636">
+        <text>I respond that I do not have the old computer...</text>
+    </sentence>
+    <sentence id="209">
+        <text>Connecting to my wireless router via built-in wireless took no time at all.</text>
+        <aspectTerms>
+            <aspectTerm from="37" polarity="positive" term="built-in wireless" to="54"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1997">
+        <text>it might be something deep within Windows, for I was unable to create a disk image on my hard drive.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="negative" term="Windows" to="41"/>
+            <aspectTerm from="89" polarity="negative" term="hard drive" to="99"/>
+            <aspectTerm from="72" polarity="negative" term="disk image" to="82"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1780">
+        <text>I bought my first MacBook after seeing the product demonstrated.</text>
+    </sentence>
+    <sentence id="1294">
+        <text>&quot; Then I proceed to tell her that I checked out other retail stores that carry the netbook and it wasn't LIKE THAT.</text>
+    </sentence>
+    <sentence id="1434">
+        <text>More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.</text>
+        <aspectTerms>
+            <aspectTerm from="59" polarity="negative" term="internet connection" to="78"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2095">
+        <text>I can render AVCHD movies with little effort, which was a problem for most pc's unless you had a quad core I7.</text>
+        <aspectTerms>
+            <aspectTerm from="97" polarity="positive" term="quad core I7" to="109"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1088">
+        <text>A SECOND PROBLEM INVOLVES THE BATTERY WHICH IS ADVERTISED AS HAVING A STORAGE LIFE OF 11 HOURS BUT WHEN FULLY CHARGED SHOWS ONLY 7 HOURS OF SERVICE.</text>
+        <aspectTerms>
+            <aspectTerm from="30" polarity="negative" term="BATTERY" to="37"/>
+            <aspectTerm from="70" polarity="conflict" term="STORAGE LIFE" to="82"/>
+            <aspectTerm from="140" polarity="negative" term="SERVICE" to="147"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1839">
+        <text>The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.</text>
+        <aspectTerms>
+            <aspectTerm from="121" polarity="negative" term="software" to="129"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="156">
+        <text>It had a cooling system malfunction after 10 minutes of general use, and would not move past this error.</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="negative" term="cooling system" to="23"/>
+            <aspectTerm from="64" polarity="neutral" term="use" to="67"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3067">
+        <text>another satisfied customer.</text>
+    </sentence>
+    <sentence id="734">
+        <text>I would like to use a different operating system altogether.</text>
+        <aspectTerms>
+            <aspectTerm from="32" polarity="neutral" term="operating system" to="48"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1503">
+        <text>So this was great for me.</text>
+    </sentence>
+    <sentence id="1513">
+        <text>No Viruses!</text>
+    </sentence>
+    <sentence id="3007">
+        <text>the only problem is that i had to add 1 gb RAM, the computer was kinda slow.</text>
+        <aspectTerms>
+            <aspectTerm from="43" polarity="negative" term="RAM" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="109">
+        <text>Then it ceased charging at all.</text>
+        <aspectTerms>
+            <aspectTerm from="15" polarity="negative" term="charging" to="23"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="517">
+        <text>I can't even remember how I finally got it taken care of, but I was done with Sony after that!</text>
+    </sentence>
+    <sentence id="445">
+        <text>Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Battery life" to="12"/>
+            <aspectTerm from="49" polarity="positive" term="price" to="54"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2446">
+        <text>I didn't want to buy a generic brand computer but it is really nice.</text>
+    </sentence>
+    <sentence id="2005">
+        <text>it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="positive" term="quality" to="21"/>
+            <aspectTerm from="36" polarity="positive" term="GUI" to="39"/>
+            <aspectTerm from="118" polarity="positive" term="applications" to="130"/>
+            <aspectTerm from="143" polarity="positive" term="use" to="146"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1608">
+        <text>Luckily, Dell said they would replace my laptop with a new one, but instead I got a refund and bought a mac.</text>
+    </sentence>
+    <sentence id="1864">
+        <text>  It lasted for many years of travel, kids and abuse and if I fired it up today, it would work.</text>
+    </sentence>
+    <sentence id="1998">
+        <text>So, owing to these problems, I went out and got myself an Apple MacBook Pro, which I am using with great satisfaction at this very moment.</text>
+    </sentence>
+    <sentence id="3010">
+        <text>Let me start with the good:So awesome.</text>
+    </sentence>
+    <sentence id="679">
+        <text>This computer is really fast and I'm shocked as to how easy it is to get used to...</text>
+    </sentence>
+    <sentence id="592">
+        <text>My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.</text>
+        <aspectTerms>
+            <aspectTerm from="3" polarity="negative" term="power supply cord" to="20"/>
+            <aspectTerm from="106" polarity="positive" term="Applecare warranty plan" to="129"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1382">
+        <text>I just bought this laptop 3 days ago.</text>
+    </sentence>
+    <sentence id="2002">
+        <text>Of course, eMachines cannot be made entirely to blame for this computer's woes;</text>
+    </sentence>
+    <sentence id="1716">
+        <text>There was a little difficulty doing the migration as the firewire cable system can't be used with the iBook.</text>
+        <aspectTerms>
+            <aspectTerm from="57" polarity="negative" term="firewire cable system" to="78"/>
+            <aspectTerm from="102" polarity="neutral" term="iBook" to="107"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1706">
+        <text>My main reason to convert was the imovie program.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="positive" term="imovie program" to="48"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2933">
+        <text>The graphics are great.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="graphics" to="12"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="76">
+        <text>I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="positive" term="features" to="54"/>
+            <aspectTerm from="77" polarity="positive" term="iChat" to="82"/>
+            <aspectTerm from="84" polarity="positive" term="Photobooth" to="94"/>
+            <aspectTerm from="96" polarity="positive" term="garage band" to="107"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1216">
+        <text>Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.</text>
+        <aspectTerms>
+            <aspectTerm from="73" polarity="neutral" term="connection card" to="88"/>
+            <aspectTerm from="110" polarity="negative" term="warranty" to="118"/>
+            <aspectTerm from="161" polarity="negative" term="warranty" to="169"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2572">
+        <text>Very long-life battery (up to 10-11 hours depending on how you configure power level settings).</text>
+        <aspectTerms>
+            <aspectTerm from="15" polarity="positive" term="battery" to="22"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2358">
+        <text>I have never had to shut down the computer unexpectedly and the computer has never froze on me.</text>
+    </sentence>
+    <sentence id="1222">
+        <text>I took it back for a full refund.</text>
+    </sentence>
+    <sentence id="1888">
+        <text>Returned laptop for a 3rd repair and it came back with previous problems fixed (except for speaker grill) but the unit started locking up during use and eventually would not operate at all.</text>
+        <aspectTerms>
+            <aspectTerm from="91" polarity="negative" term="speaker grill" to="104"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1086">
+        <text>EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="negative" term="KEYS" to="50"/>
+            <aspectTerm from="105" polarity="negative" term="KEYBOARD" to="113"/>
+            <aspectTerm from="141" polarity="negative" term="KEYS" to="145"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1885">
+        <text>If internet connectivity is important I would recommend going with a dell net book for 50 bucks more, or buy a USB wireless card.</text>
+        <aspectTerms>
+            <aspectTerm from="3" polarity="neutral" term="internet connectivity" to="24"/>
+            <aspectTerm from="111" polarity="neutral" term="USB wireless card" to="128"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1151">
+        <text>for 2 months.</text>
+    </sentence>
+    <sentence id="2357">
+        <text>I have had no problems with it unlike some hardware defects on past models.</text>
+        <aspectTerms>
+            <aspectTerm from="43" polarity="negative" term="hardware" to="51"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1212">
+        <text>They say sorry out of warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="22" polarity="negative" term="warranty" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1575">
+        <text>I saved for this laptop for 3 months and I can tell you personally it was worth the wait.</text>
+    </sentence>
+    <sentence id="546">
+        <text>I upgraded from a 5 year old laptop and was amazed to find out that this computer is much slower then my old laptop.</text>
+    </sentence>
+    <sentence id="1312">
+        <text>Dismantle the whole thing? Then it will not be a newly manufactured set like before.</text>
+    </sentence>
+    <sentence id="301">
+        <text>I have not had a problem with the applications quitting or freezing.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="positive" term="applications" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1070">
+        <text>Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.</text>
+        <aspectTerms>
+            <aspectTerm from="80" polarity="negative" term="screen" to="86"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="19">
+        <text>Everything from the design to the OS is simple and to the point.</text>
+        <aspectTerms>
+            <aspectTerm from="20" polarity="positive" term="design" to="26"/>
+            <aspectTerm from="34" polarity="positive" term="OS" to="36"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="964">
+        <text>seriously why haven't they just replaced it by now.</text>
+    </sentence>
+    <sentence id="281">
+        <text>I think this computer is super lame.</text>
+    </sentence>
+    <sentence id="1897">
+        <text>  I was very excited because this was my first personal computer and I was purchasing it with my OWN money I had recieved from graduation presents.</text>
+    </sentence>
+    <sentence id="3066">
+        <text>I normally dont participate in reviews/surveys but this laptop has not given me any problems and hope to share my thoughts...</text>
+    </sentence>
+    <sentence id="45">
+        <text>Buy this if you like being tortured, teased, frustrated and wasting twice as much time as you spent using your old Mac.</text>
+    </sentence>
+    <sentence id="1713">
+        <text>Love the speed, especially!</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="positive" term="speed" to="14"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2745">
+        <text>A cheaper price should not equal a &quot;cheap&quot; product.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="price" to="15"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="581">
+        <text>I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.</text>
+        <aspectTerms>
+            <aspectTerm from="45" polarity="positive" term="flatline keyboard" to="62"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2534">
+        <text>But the machine is awesome and iLife is great and I love Snow Leopard X.</text>
+        <aspectTerms>
+            <aspectTerm from="31" polarity="positive" term="iLife" to="36"/>
+            <aspectTerm from="57" polarity="positive" term="Snow Leopard X" to="71"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1076">
+        <text>System is loosing about 20% of performance because of that.</text>
+        <aspectTerms>
+            <aspectTerm from="31" polarity="negative" term="performance" to="42"/>
+            <aspectTerm from="0" polarity="negative" term="System" to="6"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1295">
+        <text>As usual at customer service center, she asked me to hold for a moment while she went to the back-office and compare it with other same model netbooks and discussed it with her colleague (I could see them).</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="negative" term="customer service center" to="35"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3059">
+        <text>This is my first personal Satellite purchase but had very good experience through previous Satellite work issued laptops.</text>
+    </sentence>
+    <sentence id="1685">
+        <text>But not in this case.</text>
+    </sentence>
+    <sentence id="437">
+        <text>Its been a year and am still waiting to see what there going to do about my laptop.</text>
+    </sentence>
+    <sentence id="798">
+        <text>i spent eight hundred dollars from a giant paper weight that looks good on a bus.</text>
+    </sentence>
+    <sentence id="1228">
+        <text>The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.</text>
+        <aspectTerms>
+            <aspectTerm from="64" polarity="negative" term="shipping" to="72"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1822">
+        <text>My previous purchases were with Dell and HP.</text>
+    </sentence>
+    <sentence id="721">
+        <text>both upgrades were quickly accomplished after purchasing the necessary Product Key.</text>
+    </sentence>
+    <sentence id="673">
+        <text>Being a PC user my whole life....</text>
+    </sentence>
+    <sentence id="190">
+        <text>2) Blue screen first month</text>
+    </sentence>
+    <sentence id="2072">
+        <text>I have had the netbook for 2 months and I love it, I read some reviews that say netbooks are slow but it does not seem any slower than the other computers I use.</text>
+    </sentence>
+    <sentence id="2096">
+        <text>The price premium is a little much, but when you start looking at the features it is worth the added cash.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="price premium" to="17"/>
+            <aspectTerm from="70" polarity="positive" term="features" to="78"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1978">
+        <text>I have never had an experience like this.</text>
+    </sentence>
+    <sentence id="2914">
+        <text>Price and purpose is awesome!</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Price" to="5"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1027">
+        <text>It still seems to be a little lose now but so far seems to be hanging in there.</text>
+    </sentence>
+    <sentence id="2081">
+        <text>I love the multi-touch trackpad.</text>
+        <aspectTerms>
+            <aspectTerm from="11" polarity="positive" term="multi-touch trackpad" to="31"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1430">
+        <text>I am not much of a computer techie, so I can understand some of the internal problems, though I do have trend micro as an antiviral program.</text>
+        <aspectTerms>
+            <aspectTerm from="104" polarity="neutral" term="trend micro" to="115"/>
+            <aspectTerm from="122" polarity="neutral" term="antiviral program" to="139"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2600">
+        <text>After having two PC laptops die with in the past 3 years, I was led to the Apple display at Best Buy by the sleek design and promise of less tech issues.</text>
+        <aspectTerms>
+            <aspectTerm from="114" polarity="positive" term="design" to="120"/>
+            <aspectTerm from="141" polarity="positive" term="tech issues" to="152"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1537">
+        <text>This is a great machine!</text>
+    </sentence>
+    <sentence id="1302">
+        <text>I guess he was the technical person.</text>
+        <aspectTerms>
+            <aspectTerm from="19" polarity="neutral" term="technical person" to="35"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1823">
+        <text>I got tired of buying laptops and having them stop working after a year.</text>
+    </sentence>
+    <sentence id="2364">
+        <text>Got this for a graduation gift for my daughter for her to use at college.</text>
+    </sentence>
+    <sentence id="1953">
+        <text>My Toshiba did not have sound on everything, just certain things.</text>
+        <aspectTerms>
+            <aspectTerm from="24" polarity="negative" term="sound" to="29"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2333">
+        <text>Obviously one of the most important features of any computer is the &quot;human interface.</text>
+        <aspectTerms>
+            <aspectTerm from="36" polarity="neutral" term="features" to="44"/>
+            <aspectTerm from="69" polarity="neutral" term="human interface" to="84"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2792">
+        <text>The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="negative" term="resolution of the screen" to="70"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="27">
+        <text>The ease of set up was terrific.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="set up" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="786">
+        <text>Needless to say I told them No and have a nice day and hung up!</text>
+    </sentence>
+    <sentence id="1237">
+        <text>The So called laptop Runs to Slow and I hate it!</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="Runs" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="880">
+        <text>I think this ps was manufactured in the mid 90's.</text>
+    </sentence>
+    <sentence id="9">
+        <text>The Apple team also assists you very nicely when choosing which computer is right for you :)</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="Apple team" to="14"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="355">
+        <text>I would not recommend this product to anyone.</text>
+    </sentence>
+    <sentence id="2400">
+        <text>The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="build quality" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2037">
+        <text>I waited and waited and no laptop.</text>
+    </sentence>
+    <sentence id="1142">
+        <text>  And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).</text>
+        <aspectTerms>
+            <aspectTerm from="86" polarity="neutral" term="memory" to="92"/>
+            <aspectTerm from="55" polarity="negative" term="memory stick" to="67"/>
+            <aspectTerm from="159" polarity="neutral" term="memory stick" to="171"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2337">
+        <text>the touch pad is fine - again, it's a real touch pad.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="touch pad" to="13"/>
+            <aspectTerm from="43" polarity="positive" term="touch pad" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1174">
+        <text>) I also purchased  Applecare  for $300, which is a three year extended warranty, since I ve never seen any laptop that lasted more than two.</text>
+        <aspectTerms>
+            <aspectTerm from="20" polarity="neutral" term="Applecare" to="29"/>
+            <aspectTerm from="63" polarity="neutral" term="extended warranty" to="80"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1196">
+        <text>The Apple will run Internet Explorer, but at an amazingly slow rate.</text>
+        <aspectTerms>
+            <aspectTerm from="19" polarity="conflict" term="Internet Explorer" to="36"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2969">
+        <text>The laptop was very easy to set up.</text>
+        <aspectTerms>
+            <aspectTerm from="28" polarity="positive" term="set up" to="34"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1063">
+        <text>Wireless has not been a issue for me, like some others have meantioned.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Wireless" to="8"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2905">
+        <text>I am very pleased with my purchase!</text>
+    </sentence>
+    <sentence id="453">
+        <text>There are several programs for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.</text>
+        <aspectTerms>
+            <aspectTerm from="18" polarity="neutral" term="programs" to="26"/>
+            <aspectTerm from="92" polarity="neutral" term="Garageband" to="102"/>
+            <aspectTerm from="123" polarity="neutral" term="Photo Booth" to="134"/>
+            <aspectTerm from="136" polarity="neutral" term="iPhoto" to="142"/>
+            <aspectTerm from="176" polarity="neutral" term="iMovie" to="182"/>
+            <aspectTerm from="145" polarity="neutral" term="video-editing" to="158"/>
+            <aspectTerm from="162" polarity="neutral" term="movie-making" to="174"/>
+            <aspectTerm from="105" polarity="neutral" term="photo management" to="121"/>
+            <aspectTerm from="85" polarity="neutral" term="music" to="90"/>
+            <aspectTerm from="53" polarity="neutral" term="Pages" to="58"/>
+            <aspectTerm from="60" polarity="neutral" term="Numbers" to="67"/>
+            <aspectTerm from="69" polarity="neutral" term="Keynote" to="76"/>
+            <aspectTerm from="31" polarity="neutral" term="school or office use" to="51"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="664">
+        <text>and if u did.</text>
+    </sentence>
+    <sentence id="1322">
+        <text>So what am I supposed to do?  The LG service center cannot provide me the &quot;service&quot; when it is called the &quot;service center&quot;.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="negative" term="LG service center" to="51"/>
+            <aspectTerm from="107" polarity="negative" term="service center" to="121"/>
+            <aspectTerm from="75" polarity="negative" term="service" to="82"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2697">
+        <text>I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.</text>
+        <aspectTerms>
+            <aspectTerm from="30" polarity="negative" term="touchpad" to="38"/>
+            <aspectTerm from="90" polarity="neutral" term="screen" to="96"/>
+            <aspectTerm from="55" polarity="negative" term="mouse pointer" to="68"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="69">
+        <text>I will have to say that I love my MacBook Pro!</text>
+    </sentence>
+    <sentence id="2273">
+        <text>WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="positive" term="upgraded memory" to="24"/>
+            <aspectTerm from="79" polarity="neutral" term="applications" to="91"/>
+            <aspectTerm from="61" polarity="positive" term="running" to="68"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2311">
+        <text>The battery holds up well, it's built very solidly, and runs fast.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="battery" to="11"/>
+            <aspectTerm from="32" polarity="positive" term="built" to="37"/>
+            <aspectTerm from="56" polarity="positive" term="runs" to="60"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1439">
+        <text>In short I would never buy a Compaq again.</text>
+    </sentence>
+    <sentence id="1578">
+        <text>I've been a PC user and I just finally switched and I am never going back.</text>
+    </sentence>
+    <sentence id="1546">
+        <text>Finally, I should note that I took the 2GB RAM stick from my old EeePC and installed it before I even powered on for the first time.</text>
+        <aspectTerms>
+            <aspectTerm from="39" polarity="neutral" term="2GB RAM stick" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="257">
+        <text>Don't waste your money!</text>
+    </sentence>
+    <sentence id="2444">
+        <text>I'm pleased.</text>
+    </sentence>
+    <sentence id="2995">
+        <text>The wheel that turns the volume up and down doesn't work in real time.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="wheel" to="9"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2743">
+        <text>But, I would recommend this product.</text>
+    </sentence>
+    <sentence id="3017">
+        <text>The improvements to the OS have been relatively gradual, but substantive.</text>
+        <aspectTerms>
+            <aspectTerm from="24" polarity="positive" term="OS" to="26"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="138">
+        <text>only good thing is the graphics quality.</text>
+        <aspectTerms>
+            <aspectTerm from="23" polarity="positive" term="graphics quality" to="39"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="135">
+        <text>it is the worst computer dell ever made.</text>
+    </sentence>
+    <sentence id="1081">
+        <text>So if you move laptop a lot, it might get loose, however it sits pretty tightly.</text>
+    </sentence>
+    <sentence id="463">
+        <text>Spent 2 hours on phone with HP Technical Support.</text>
+        <aspectTerms>
+            <aspectTerm from="28" polarity="neutral" term="HP Technical Support" to="48"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="640">
+        <text>They say that this will invalidate the warranty on the hard drive (I don't really understand why but anyway).</text>
+        <aspectTerms>
+            <aspectTerm from="39" polarity="negative" term="warranty" to="47"/>
+            <aspectTerm from="55" polarity="neutral" term="hard drive" to="65"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2900">
+        <text>I enjoy very much my new Toshiba, purchased specifially for attending online schooling.</text>
+    </sentence>
+    <sentence id="1310">
+        <text>Even doing so, the hinge may just be slightly tightened only.</text>
+        <aspectTerms>
+            <aspectTerm from="19" polarity="neutral" term="hinge" to="24"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1669">
+        <text>It's like 9 punds, but if you can look past it, it's GREAT!</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="9 punds" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2899">
+        <text>I will stack it up against laptops that cost twice as much any day.</text>
+        <aspectTerms>
+            <aspectTerm from="40" polarity="conflict" term="cost" to="44"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="400">
+        <text>The quality, engineering design and warranty are superior--covers damage from dropping the laptop.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="quality" to="11"/>
+            <aspectTerm from="13" polarity="positive" term="engineering design" to="31"/>
+            <aspectTerm from="36" polarity="positive" term="warranty" to="44"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2085">
+        <text>(I found a 2GB stick for a bit under $50) Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.</text>
+        <aspectTerms>
+            <aspectTerm from="91" polarity="positive" term="system" to="97"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1833">
+        <text>I would Highly recommend this MacBook.</text>
+    </sentence>
+    <sentence id="2212">
+        <text>The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="applications" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1091">
+        <text>This thing sucks!</text>
+    </sentence>
+    <sentence id="1995">
+        <text>I edit and burn to DVD a lot of video, so I obviously could not live with a non-functioning drive.</text>
+        <aspectTerms>
+            <aspectTerm from="92" polarity="negative" term="drive" to="97"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="326">
+        <text>I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.</text>
+        <aspectTerms>
+            <aspectTerm from="74" polarity="positive" term="use" to="77"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2485">
+        <text>I have only had PCs with Windows before so this takes a little getting use to.</text>
+        <aspectTerms>
+            <aspectTerm from="25" polarity="neutral" term="Windows" to="32"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2109">
+        <text>I have had at least eight Toshiba laptops, and they have been outstanding, including this one.</text>
+    </sentence>
+    <sentence id="1806">
+        <text>This little netboook is helping me get work done!</text>
+    </sentence>
+    <sentence id="1905">
+        <text>  They removed them and returned the computer to me.</text>
+    </sentence>
+    <sentence id="152">
+        <text>The touch pad is among the best.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="touch pad" to="13"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1982">
+        <text>It wasn't worth it.</text>
+    </sentence>
+    <sentence id="991">
+        <text>Just a bunch of idiots who's English as a 5th language is forced at best.</text>
+    </sentence>
+    <sentence id="321">
+        <text>It is very durable, I am pretty rough when it comes to electronics and it has taken it all with no reprecutions yet.</text>
+    </sentence>
+    <sentence id="1013">
+        <text>I will never buy anything from HP again!</text>
+    </sentence>
+    <sentence id="2864">
+        <text>I love WIndows 7 which is a vast improvment over Vista.</text>
+        <aspectTerms>
+            <aspectTerm from="7" polarity="positive" term="WIndows 7" to="16"/>
+            <aspectTerm from="49" polarity="negative" term="Vista" to="54"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2672">
+        <text>The price is great for this model, I only plan on using it for media in the entertainment room.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="price" to="9"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1117">
+        <text>Maybe it's Acer, maybe it's MSFT.</text>
+    </sentence>
+    <sentence id="1865">
+        <text>  Until I bought the Dell, I thought you just looked for what you wanted (size, software, options, hardware) and purchase the best deal you could find.</text>
+        <aspectTerms>
+            <aspectTerm from="74" polarity="neutral" term="size" to="78"/>
+            <aspectTerm from="80" polarity="neutral" term="software" to="88"/>
+            <aspectTerm from="99" polarity="neutral" term="hardware" to="107"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="447">
+        <text>Easy learning curve.</text>
+    </sentence>
+    <sentence id="1757">
+        <text>Great Laptop for the price, works well with action pack games.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="positive" term="price" to="26"/>
+            <aspectTerm from="44" polarity="neutral" term="action pack games" to="61"/>
+            <aspectTerm from="28" polarity="positive" term="works" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="839">
+        <text>I sent it back to Toshiba twice they covered it under the  warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="59" polarity="positive" term="warranty" to="67"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2621">
+        <text>I upgraded it's RAM to 2GB, I am very happy with it.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="positive" term="RAM" to="19"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="204">
+        <text>The screen resolution was exactly what I was looking for.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="screen resolution" to="21"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2611">
+        <text>Apple is always great about the aesthetics of things, they always come up with good looking products.</text>
+        <aspectTerms>
+            <aspectTerm from="32" polarity="positive" term="aesthetics" to="42"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2588">
+        <text>Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.</text>
+        <aspectTerms>
+            <aspectTerm from="31" polarity="neutral" term="features" to="39"/>
+            <aspectTerm from="48" polarity="neutral" term="functioning" to="59"/>
+            <aspectTerm from="150" polarity="neutral" term="programs" to="158"/>
+            <aspectTerm from="4" polarity="positive" term="Office" to="10"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2091">
+        <text>One drawback, I wish the keys were backlit.</text>
+        <aspectTerms>
+            <aspectTerm from="25" polarity="negative" term="keys" to="29"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="706">
+        <text>I use the computer to basically check emails, surf the web, print coupons and for my college papers.</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="neutral" term="surf the web" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="643">
+        <text>They claim that I should be happy because I am getting a new laptop to replace my two-month old laptop.</text>
+    </sentence>
+    <sentence id="21">
+        <text>Waited on getting this computer, but it has been a great change.</text>
+    </sentence>
+    <sentence id="218">
+        <text>I came from the Dell Laptops and now I am so glad I switched when I needed a new laptop.</text>
+    </sentence>
+    <sentence id="2543">
+        <text>i give this laptop a five star review i love it and it has done chams for me.</text>
+    </sentence>
+    <sentence id="2633">
+        <text>The most amazing part to me as a PC user is the startup and shutdown times - and the fact that you very rarely have to restart the thing.</text>
+    </sentence>
+    <sentence id="2882">
+        <text>It is made better, thicker, and all out tough!</text>
+    </sentence>
+    <sentence id="2850">
+        <text>I have had nothing but problems since the day I took it out of the box!</text>
+    </sentence>
+    <sentence id="1747">
+        <text>Downfalls: sharp edges.</text>
+        <aspectTerms>
+            <aspectTerm from="17" polarity="negative" term="edges" to="22"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="851">
+        <text>  I was told by many  that it was a great computer, but we got one of these, and it worked  great for one year, and as soon as the warrenty was up, then it got  really bad.</text>
+        <aspectTerms>
+            <aspectTerm from="131" polarity="negative" term="warrenty" to="139"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="295">
+        <text>The speed is incredible and I am more than satisfied.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="speed" to="9"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2944">
+        <text>I love to write and play with graphics and html programming and my new Toshiba works great on both!</text>
+        <aspectTerms>
+            <aspectTerm from="79" polarity="positive" term="works" to="84"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2153">
+        <text>The large screen gives you the option to comfortably watch movies or TV shows on your computer instead of buying an additional TV for your dorm room.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="screen" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1428">
+        <text>The only pro to this computer is it was under $600!</text>
+    </sentence>
+    <sentence id="858">
+        <text>  I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all.</text>
+        <aspectTerms>
+            <aspectTerm from="52" polarity="negative" term="costs" to="57"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="285">
+        <text>It doesnt work worth a damn.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="work" to="14"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2686">
+        <text>Didn't work when shipped from Walmart.com but went into a store and exchanged for a working laptop (same make/model).</text>
+        <aspectTerms>
+            <aspectTerm from="7" polarity="negative" term="work" to="11"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="759">
+        <text>Stay away from HP.</text>
+    </sentence>
+    <sentence id="2848">
+        <text>I was so excited to receive the Toshiba L455 as a gift/bonus for some work I had done for a friend of mine!</text>
+    </sentence>
+    <sentence id="149">
+        <text>With all the goodies inside this machine, it is a value.</text>
+    </sentence>
+    <sentence id="2048">
+        <text>The computer first started malfunctioning 3 months after purchasing it.</text>
+    </sentence>
+    <sentence id="1859">
+        <text>Otherwise, I love it!</text>
+    </sentence>
+    <sentence id="268">
+        <text>this is one of the reasons I purchased it.</text>
+    </sentence>
+    <sentence id="1017">
+        <text>Two of the times was in one month.</text>
+    </sentence>
+    <sentence id="2877">
+        <text>I am finding my way around this laptop better than my last one.</text>
+    </sentence>
+    <sentence id="2405">
+        <text>But, Mac makes the switch from PC to Mac easy.</text>
+    </sentence>
+    <sentence id="2703">
+        <text>It's a great prodcut to handle basic computing needs.</text>
+    </sentence>
+    <sentence id="1209">
+        <text>1st time they got it working the next 5 month they had me send it in.</text>
+    </sentence>
+    <sentence id="1122">
+        <text>An absolutely hateful machine that no one should get of their own free will.</text>
+    </sentence>
+    <sentence id="1326">
+        <text>The machine itself is alright.</text>
+    </sentence>
+    <sentence id="223">
+        <text>It just works flawlessly!</text>
+        <aspectTerms>
+            <aspectTerm from="8" polarity="positive" term="works" to="13"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="958">
+        <text>All was well.</text>
+    </sentence>
+    <sentence id="619">
+        <text>Gave phonenumber.</text>
+    </sentence>
+    <sentence id="859">
+        <text>Its not just slow on the internet, its slow in general.</text>
+        <aspectTerms>
+            <aspectTerm from="25" polarity="negative" term="internet" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="393">
+        <text>Finally was able to reach a young lady in California and ordered the machine and was subsequently given a delivery date.</text>
+    </sentence>
+    <sentence id="627">
+        <text>Should be there by the end of the week (again...).</text>
+    </sentence>
+    <sentence id="2351">
+        <text>Granted, it's still a very new laptop but in comparison to my previous laptops and desktops, my Mac boots up noticeably quicker.</text>
+        <aspectTerms>
+            <aspectTerm from="100" polarity="positive" term="boots up" to="108"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="229">
+        <text>I have had several machines over the years, both for personal and business use.</text>
+    </sentence>
+    <sentence id="1193">
+        <text>Speaking of the browser, it too has problems.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="negative" term="browser" to="23"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="775">
+        <text>Unless you want to be inconvenienced with a non working power supply which you can't find a replacement for because they made the attachment so small.</text>
+        <aspectTerms>
+            <aspectTerm from="56" polarity="negative" term="power supply" to="68"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2314">
+        <text>Applications open in seconds and there are no lags, hiccups or awkward moments when you wonder whether your computer is out for tea.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Applications" to="12"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2888">
+        <text>I just love this lap top, I just wish it were all silver or they had all black.</text>
+    </sentence>
+    <sentence id="2495">
+        <text>The flaws are, this computer is not for computer gamers because of the OS X.</text>
+        <aspectTerms>
+            <aspectTerm from="71" polarity="negative" term="OS X" to="75"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="494">
+        <text>It had a seventeen inch screen which I wanted, but I didn't realize at the time it would be such a monster!</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="conflict" term="seventeen inch screen" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="167">
+        <text>Oh my goodness-I am not a happy camper.</text>
+    </sentence>
+    <sentence id="2383">
+        <text>Has met or exceeded my needs for a compact travel device.</text>
+    </sentence>
+    <sentence id="1901">
+        <text>  Gradually the freezing screen evolved into a screen that froze in weird shapes.</text>
+    </sentence>
+    <sentence id="143">
+        <text>Very very disappointed!</text>
+    </sentence>
+    <sentence id="929">
+        <text>The love part of my relationship with this laptop doesn't take very long.</text>
+    </sentence>
+    <sentence id="1759">
+        <text>but other then that I would give this product a 4 in hafe stars.</text>
+    </sentence>
+    <sentence id="1795">
+        <text>Unfortunately, Apple's quality has continued to slide.</text>
+        <aspectTerms>
+            <aspectTerm from="23" polarity="negative" term="quality" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="700">
+        <text>Speakers doesn't sound that great.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Speakers" to="8"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2715">
+        <text>Took it back as it was defective.</text>
+    </sentence>
+    <sentence id="383">
+        <text>The laptop is gorgeous.</text>
+    </sentence>
+    <sentence id="477">
+        <text>They transfer you around to other people who do not understand what you are saying and you can't understand what they are saying.</text>
+    </sentence>
+    <sentence id="2979">
+        <text>Apparently they are defective since they are not securely attached.</text>
+    </sentence>
+    <sentence id="1171">
+        <text>I chose the iBookG4, a laptop that is an attractive computer with a large screen big enough to please anyone.</text>
+        <aspectTerms>
+            <aspectTerm from="74" polarity="positive" term="screen" to="80"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3051">
+        <text>I will be patient for few months.</text>
+    </sentence>
+    <sentence id="443">
+        <text>Great laptop for school, easy to use for beginners in the household.</text>
+        <aspectTerms>
+            <aspectTerm from="33" polarity="positive" term="use" to="36"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2545">
+        <text>i think that anyone looking for a good durrable laptop then this is the way to go.</text>
+    </sentence>
+    <sentence id="140">
+        <text>I bought this laptop and found its TAB is not functioning.</text>
+        <aspectTerms>
+            <aspectTerm from="35" polarity="negative" term="TAB" to="38"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2371">
+        <text>Since I purchased my Toshiba netbook, I have been very pleased with it, I have a laptob and a desktop.</text>
+    </sentence>
+    <sentence id="1815">
+        <text>If you're looking for a great laptop, you've found the best here.</text>
+    </sentence>
+    <sentence id="1102">
+        <text>Posted Nov 8, 2010 - Two weeks ago I bought this notebook.</text>
+    </sentence>
+    <sentence id="1263">
+        <text>HP said it was out of warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="22" polarity="neutral" term="warranty" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2118">
+        <text>But in fact it is totally the opposite.</text>
+    </sentence>
+    <sentence id="103">
+        <text>The reality was, it heated up very quickly, and took way too long to do simple things, like opening my Documents folder.</text>
+        <aspectTerms>
+            <aspectTerm from="92" polarity="negative" term="opening my Documents folder" to="119"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1700">
+        <text>HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.</text>
+    </sentence>
+    <sentence id="112">
+        <text>The screen gets smeary and dusty very quickly and it's very noticeable.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="screen" to="10"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2328">
+        <text>I investigated netbooks and saw the Toshiba NB305-N410BL.</text>
+    </sentence>
+    <sentence id="170">
+        <text>The battery has never worked well.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="battery" to="11"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1667">
+        <text>I am just amazed.</text>
+    </sentence>
+    <sentence id="1139">
+        <text>  I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.</text>
+        <aspectTerms>
+            <aspectTerm from="44" polarity="negative" term="services" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1728">
+        <text>If you had PC for four years I can almost gaurentee that something would of gone wrong by now, maybe even forcing you to replace your entire computer.</text>
+    </sentence>
+    <sentence id="1119">
+        <text>I am really heartbroken to have to post a terrible review.</text>
+    </sentence>
+    <sentence id="1461">
+        <text>  three years is a decent life, but this must make it to graduation and beyond.</text>
+    </sentence>
+    <sentence id="1679">
+        <text>The cool thing about this is anyone can use it.</text>
+    </sentence>
+    <sentence id="1215">
+        <text>They had me send in the machine last April returned it to me in May with no documentation on what was done it anything.</text>
+    </sentence>
+    <sentence id="1405">
+        <text>Most of my papers could not be saved and when they could be, half the time, the papers were then erased.</text>
+    </sentence>
+    <sentence id="1512">
+        <text>The #1 reason that is always repeated.</text>
+    </sentence>
+    <sentence id="2410">
+        <text>Mac computers automatically &quot;defrag&quot; each time you start your computer.</text>
+    </sentence>
+    <sentence id="630">
+        <text>I was informed that I need to call some 0900 number first.</text>
+    </sentence>
+    <sentence id="1422">
+        <text>Time will tell.</text>
+    </sentence>
+    <sentence id="2893">
+        <text>I paid about the same for my Toshiba as I did for the compaq a few years back.</text>
+    </sentence>
+    <sentence id="674">
+        <text>This computer is absolutely AMAZING!!!</text>
+    </sentence>
+    <sentence id="94">
+        <text>Almost 4 years ago I bought what was then the current, up to date HP Pavilion--If I recall correctly, it was the dv 1300 t.</text>
+    </sentence>
+    <sentence id="555">
+        <text>It's perfect for everything and runs faster than an average pc!</text>
+        <aspectTerms>
+            <aspectTerm from="32" polarity="positive" term="runs" to="36"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1385">
+        <text>Again, the same problem, the right speaker did not work.</text>
+        <aspectTerms>
+            <aspectTerm from="29" polarity="negative" term="right speaker" to="42"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1398">
+        <text>although its windows vista compared to windows xp sucks.</text>
+        <aspectTerms>
+            <aspectTerm from="13" polarity="negative" term="windows vista" to="26"/>
+            <aspectTerm from="39" polarity="positive" term="windows xp" to="49"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="132">
+        <text>For some odd reasons the computer doesn't reconize the operation system.</text>
+        <aspectTerms>
+            <aspectTerm from="55" polarity="negative" term="operation system" to="71"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2318">
+        <text>Wonderful zooming.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="zooming" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="162">
+        <text>/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="positive" term="cooling system" to="24"/>
+            <aspectTerm from="38" polarity="positive" term="grafics card" to="50"/>
+            <aspectTerm from="73" polarity="positive" term="LED backlit screen" to="91"/>
+            <aspectTerm from="64" polarity="positive" term="8GB RAM" to="71"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2819">
+        <text>Aside from the trial software and the short battery life, lack of a webcam, its great.</text>
+        <aspectTerms>
+            <aspectTerm from="15" polarity="negative" term="trial software" to="29"/>
+            <aspectTerm from="44" polarity="negative" term="battery life" to="56"/>
+            <aspectTerm from="68" polarity="negative" term="webcam" to="74"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="178">
+        <text>Well, they don't care a bunch.</text>
+    </sentence>
+    <sentence id="86">
+        <text>I have had my new Macbook Pro i5 for a couple of days and have recycled ALL of my old PC laptops.</text>
+    </sentence>
+    <sentence id="315">
+        <text>I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!</text>
+        <aspectTerms>
+            <aspectTerm from="125" polarity="positive" term="quality" to="132"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="11">
+        <text>DEFINITELY recommended!!!</text>
+    </sentence>
+    <sentence id="1895">
+        <text>Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.</text>
+        <aspectTerms>
+            <aspectTerm from="37" polarity="negative" term="quality" to="44"/>
+            <aspectTerm from="55" polarity="negative" term="performance" to="66"/>
+            <aspectTerm from="95" polarity="positive" term="battery life" to="107"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1040">
+        <text>Maximum sound isn't nearly as loud as it should be.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Maximum sound" to="13"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2775">
+        <text>Sells for the same as a netbook without sacrificing size.</text>
+        <aspectTerms>
+            <aspectTerm from="52" polarity="positive" term="size" to="56"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1721">
+        <text>Never any doubt I would get a MacBook, just wasn't sure which one.</text>
+    </sentence>
+    <sentence id="2235">
+        <text>also it comes with very useful applications like iphoto that it is the best photo application i have ever had</text>
+        <aspectTerms>
+            <aspectTerm from="31" polarity="positive" term="applications" to="43"/>
+            <aspectTerm from="49" polarity="positive" term="iphoto" to="55"/>
+            <aspectTerm from="76" polarity="positive" term="photo application" to="93"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1373">
+        <text>I noticed windows has a new system called Windows 7, what about us Vista users?  They should get all the bugs out of Vista before investing in a new system.</text>
+        <aspectTerms>
+            <aspectTerm from="42" polarity="neutral" term="Windows 7" to="51"/>
+            <aspectTerm from="67" polarity="neutral" term="Vista" to="72"/>
+            <aspectTerm from="117" polarity="negative" term="Vista" to="122"/>
+            <aspectTerm from="10" polarity="neutral" term="windows" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="490">
+        <text>But Sony said we could send it back and be charged for adding the bluetooth an additional seventy something dollars.</text>
+        <aspectTerms>
+            <aspectTerm from="55" polarity="negative" term="adding the bluetooth" to="75"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2794">
+        <text>I received this laptop as a gift and let me just tell you that its the worst.</text>
+    </sentence>
+    <sentence id="320">
+        <text>All you have to do is turn it on and it works.</text>
+    </sentence>
+    <sentence id="1288">
+        <text>We carry the netbook around here and there, hence it's kinda of irritating when the LCD just &quot;slide&quot; downwards.</text>
+        <aspectTerms>
+            <aspectTerm from="84" polarity="negative" term="LCD" to="87"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="981">
+        <text>  I should have realized that trouble was brewing .</text>
+    </sentence>
+    <sentence id="1109">
+        <text>Didn't expect to repair it at once!</text>
+    </sentence>
+    <sentence id="1908">
+        <text>  They ended up keeping my computer for almost 3 months!</text>
+    </sentence>
+    <sentence id="1106">
+        <text>It was still working, but there was nothing on the screen.</text>
+        <aspectTerms>
+            <aspectTerm from="51" polarity="negative" term="screen" to="57"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3018">
+        <text>The feel of this machine compared to the old MacBook is far superior.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="feel" to="8"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="977">
+        <text>It will be returned in the state to which it was shipped Michigan.</text>
+    </sentence>
+    <sentence id="754">
+        <text>Numerous problems over the next 3 weeks until I got the blue screen of death and had to send the PC back to HP.</text>
+    </sentence>
+    <sentence id="2343">
+        <text>Note that I don't ordinarily take the time to write a review.</text>
+    </sentence>
+    <sentence id="939">
+        <text>it has had some problems.</text>
+    </sentence>
+    <sentence id="1663">
+        <text>It is so great, I can Hardly ever take my hands off it!</text>
+    </sentence>
+    <sentence id="2639">
+        <text>I loved it then, but unfortunately it was before the days of wireless internet.</text>
+    </sentence>
+    <sentence id="1898">
+        <text>  I took the laptop home and not even a month later, I began to have problems with it.</text>
+    </sentence>
+    <sentence id="744">
+        <text>The Aspire wont even boot past the Acer screen with a Droid (I have tried both Motorola and HTC) plugged into the USB port.</text>
+        <aspectTerms>
+            <aspectTerm from="35" polarity="negative" term="Acer screen" to="46"/>
+            <aspectTerm from="114" polarity="negative" term="USB port" to="122"/>
+            <aspectTerm from="21" polarity="negative" term="boot" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2921">
+        <text>Save your money and go for a better device.</text>
+    </sentence>
+    <sentence id="2090">
+        <text>Great product, very easy to use and great graphics.</text>
+        <aspectTerms>
+            <aspectTerm from="42" polarity="positive" term="graphics" to="50"/>
+            <aspectTerm from="28" polarity="positive" term="use" to="31"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2431">
+        <text>This is an over-sized, 18-inch laptop.</text>
+        <aspectTerms>
+            <aspectTerm from="23" polarity="negative" term="18-inch" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2093">
+        <text>I love a &quot;pc&quot; but I was ready for a change and tired of the windows system.</text>
+        <aspectTerms>
+            <aspectTerm from="60" polarity="negative" term="windows system" to="74"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="559">
+        <text>apple has a reputation and is well known for its easy usage.</text>
+        <aspectTerms>
+            <aspectTerm from="54" polarity="positive" term="usage" to="59"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2355">
+        <text>It's more expensive but well worth it in the long run.</text>
+    </sentence>
+    <sentence id="258">
+        <text>Macs are designed for the &quot;frontal lobe challenged&quot; people out there.</text>
+    </sentence>
+    <sentence id="2266">
+        <text>As a lifelong Windows user, I was extremely pleased to make the change to Mac.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="negative" term="Windows" to="21"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="302">
+        <text>I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door.</text>
+        <aspectTerms>
+            <aspectTerm from="59" polarity="positive" term="performance" to="70"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1466">
+        <text>But then, something goes wrong.</text>
+    </sentence>
+    <sentence id="1845">
+        <text>  even though I had the receipt in front of me proving it still had 2 months left on the warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="89" polarity="negative" term="warranty" to="97"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1118">
+        <text>Either way I'm furious.</text>
+    </sentence>
+    <sentence id="1534">
+        <text>I have had another Mac, but it got slow due to an older operating system.</text>
+        <aspectTerms>
+            <aspectTerm from="56" polarity="negative" term="operating system" to="72"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1783">
+        <text>It is easy to use, has great screen quality, and every so light weight.</text>
+        <aspectTerms>
+            <aspectTerm from="29" polarity="positive" term="screen quality" to="43"/>
+            <aspectTerm from="14" polarity="positive" term="use" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1177">
+        <text>Take your time and go through the tutorials patiently.</text>
+        <aspectTerms>
+            <aspectTerm from="34" polarity="neutral" term="tutorials" to="43"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2946">
+        <text>Everything about this computer is easy to use.</text>
+        <aspectTerms>
+            <aspectTerm from="42" polarity="positive" term="use" to="45"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="790">
+        <text>I tell everyone that I know, friends, family and enemies this is the absolute worst computer i have ever used.</text>
+    </sentence>
+    <sentence id="1403">
+        <text>I had the computer for a full year and it was a new computer.</text>
+    </sentence>
+    <sentence id="1004">
+        <text>This is not Best Buy's fault.</text>
+    </sentence>
+    <sentence id="2655">
+        <text>Great product by Apple with the new great looking design.</text>
+        <aspectTerms>
+            <aspectTerm from="50" polarity="positive" term="design" to="56"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1077">
+        <text>(3DMARK6 score is only 8500).</text>
+    </sentence>
+    <sentence id="2437">
+        <text>Pay attention to the specs if you want these options.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="neutral" term="specs" to="26"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1273">
+        <text>I now own another Hewlitt Packard.</text>
+    </sentence>
+    <sentence id="2630">
+        <text>Let me tell you, this machine is great.</text>
+    </sentence>
+    <sentence id="1860">
+        <text>I have owned many different brands of laptops in my life.</text>
+    </sentence>
+    <sentence id="2719">
+        <text>Still under warrenty so called Toshiba, no help at all.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="negative" term="warrenty" to="20"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1224">
+        <text>I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="120" polarity="negative" term="Toshiba Warranty" to="136"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2542">
+        <text>i can use it for all of my needs.</text>
+    </sentence>
+    <sentence id="2845">
+        <text>I bought this laptop because of the performance to price ratio.</text>
+        <aspectTerms>
+            <aspectTerm from="36" polarity="positive" term="performance" to="47"/>
+            <aspectTerm from="51" polarity="positive" term="price" to="56"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2435">
+        <text>I was disappointed when I realized that the keyboard doesn't light up on this model.</text>
+        <aspectTerms>
+            <aspectTerm from="44" polarity="negative" term="keyboard" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2561">
+        <text>I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.</text>
+        <aspectTerms>
+            <aspectTerm from="7" polarity="negative" term="iWork" to="12"/>
+            <aspectTerm from="16" polarity="negative" term="MS Office" to="25"/>
+            <aspectTerm from="49" polarity="negative" term="MS Office" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1497">
+        <text>The PhotoBooth is a great program, it takes very good pictures with the built-in camera.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="PhotoBooth" to="14"/>
+            <aspectTerm from="26" polarity="positive" term="program" to="33"/>
+            <aspectTerm from="72" polarity="positive" term="built-in camera" to="87"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1598">
+        <text>I was a little weary at purchasing another 13&quot; macbook almost 2 years later but t looks like the newer macbooks have gotten its current line of graphics cards in order this time around.</text>
+        <aspectTerms>
+            <aspectTerm from="144" polarity="positive" term="graphics cards" to="158"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="818">
+        <text>I would recommend not buying this product.</text>
+    </sentence>
+    <sentence id="1451">
+        <text>i have had my dell latitude for almost three years.</text>
+    </sentence>
+    <sentence id="1654">
+        <text>It's applications are terrific, including the replacements for Microsoft office.</text>
+        <aspectTerms>
+            <aspectTerm from="5" polarity="positive" term="applications" to="17"/>
+            <aspectTerm from="63" polarity="positive" term="Microsoft office" to="79"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2348">
+        <text>The unibody design is edgy and durable.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="unibody design" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2817">
+        <text>Bought it to use mostly for oline classes.</text>
+    </sentence>
+    <sentence id="364">
+        <text>If you are a PC user looking to convert I would HIGHLY recommend it!</text>
+    </sentence>
+    <sentence id="1697">
+        <text>(I definatly can't).</text>
+    </sentence>
+    <sentence id="1641">
+        <text>I am forever changed and will no longer buy a Windows based machine for personal use.</text>
+        <aspectTerms>
+            <aspectTerm from="46" polarity="negative" term="Windows" to="53"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1557">
+        <text>My house is now 100% Macbook.</text>
+    </sentence>
+    <sentence id="2765">
+        <text>I finally decided on this laptop because it was the right price for what I need it.</text>
+        <aspectTerms>
+            <aspectTerm from="58" polarity="positive" term="price" to="63"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2767">
+        <text>So I'm disappointed in that because communicating with my relatives out of the area is a priority.</text>
+    </sentence>
+    <sentence id="1078">
+        <text>The screen is nice, side view angles are pretty good.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="screen" to="10"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2849">
+        <text>I have owned it only two months!</text>
+    </sentence>
+    <sentence id="3038">
+        <text>If you could stretch by a few 100 dollars I highly recommend you should replace your Windows laptop with this one.</text>
+    </sentence>
+    <sentence id="1824">
+        <text>When you call tech support you were routed to someone who was in another country and did not know what they were doing.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="negative" term="tech support" to="26"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1840">
+        <text>Not a bad laptop, it's a bit slow, but gets the job done.</text>
+    </sentence>
+    <sentence id="609">
+        <text>keys are all in weird places and is way too large for the way it is designed.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="keys" to="4"/>
+            <aspectTerm from="68" polarity="negative" term="designed" to="76"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1699">
+        <text>IT WANT TAKE IT, IT KEEP SAYING ERROR.</text>
+    </sentence>
+    <sentence id="1107">
+        <text>I was said it's videocard.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="negative" term="videocard" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2701">
+        <text>Can listen to my music and watch my videos with ease and with a great display.</text>
+        <aspectTerms>
+            <aspectTerm from="70" polarity="positive" term="display" to="77"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="962">
+        <text>  When I took it back to Best Buy I asked them if they were seriously trying to drive me insane!</text>
+    </sentence>
+    <sentence id="608">
+        <text>can't reinstall with standard os cd because of proprietary hardware drivers.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="standard os cd" to="35"/>
+            <aspectTerm from="47" polarity="negative" term="proprietary hardware drivers" to="75"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1797">
+        <text>It's now all commodity hardware.</text>
+        <aspectTerms>
+            <aspectTerm from="13" polarity="neutral" term="commodity hardware" to="31"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="800">
+        <text>So when you do call to complain about the hunk of metal you get the joy of speaking with a bunch of people you cant understand.</text>
+    </sentence>
+    <sentence id="1613">
+        <text>Also, macbooks come with much more features which are so cool!</text>
+        <aspectTerms>
+            <aspectTerm from="35" polarity="positive" term="features" to="43"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="418">
+        <text>This is what they told me: It heats up, and that is the reason we no longer call them laptops, and simply categorize them as portables.</text>
+    </sentence>
+    <sentence id="1110">
+        <text>Going to bring it to service today.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="neutral" term="service" to="28"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1240">
+        <text>I'm not going to lie, I've never really liked the Acer brand in general.</text>
+    </sentence>
+    <sentence id="773">
+        <text>I'm tired of the inept service.</text>
+        <aspectTerms>
+            <aspectTerm from="23" polarity="negative" term="service" to="30"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="298">
+        <text>I got my MacBook Pro because I wanted to do all the stuff I need to do without worrying about the system quitting on me or freezing for a few minutes.</text>
+        <aspectTerms>
+            <aspectTerm from="98" polarity="neutral" term="system" to="104"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2073">
+        <text>Also the speakers are not very loud, But it is a netbook.</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="negative" term="speakers" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="77">
+        <text>We are addicted to the Mac.</text>
+    </sentence>
+    <sentence id="2039">
+        <text>I waited another month for approval and for them to &quot;BUILD&quot; me a new laptop.</text>
+    </sentence>
+    <sentence id="3012">
+        <text>This is my second MacBook.</text>
+    </sentence>
+    <sentence id="2689">
+        <text>I dislike the weight and size, cubersome.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="negative" term="weight" to="20"/>
+            <aspectTerm from="25" polarity="negative" term="size" to="29"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="210">
+        <text>If you find yourself in the market for a new laptop (and have the money) don't exclude looking at the MBPs.</text>
+    </sentence>
+    <sentence id="214">
+        <text>Keyboard good sized and wasy to use.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Keyboard" to="8"/>
+            <aspectTerm from="32" polarity="positive" term="use" to="35"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="556">
+        <text>It's A MAC!!</text>
+    </sentence>
+    <sentence id="1659">
+        <text>Garageband is easy to work with, like all the other apple applications I've had experience with.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Garageband" to="10"/>
+            <aspectTerm from="52" polarity="positive" term="apple applications" to="70"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="688">
+        <text>And Toshiba is a quality supplier.</text>
+    </sentence>
+    <sentence id="1157">
+        <text>Even if Apple replaces whatever needs replacing I wonder if, since I seem to be doubling the amount of time I get out of it each time it's &quot;like new,&quot; I might have 8 months next time.</text>
+    </sentence>
+    <sentence id="776">
+        <text>I'M REALLY FRUSTRATED BY THIS EXPERIENCE.</text>
+    </sentence>
+    <sentence id="462">
+        <text>Unable to boot up this brand new laptop.</text>
+        <aspectTerms>
+            <aspectTerm from="10" polarity="negative" term="boot up" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2723">
+        <text>Graphics are clean and sharp, internet interfaces are seamless.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Graphics" to="8"/>
+            <aspectTerm from="30" polarity="positive" term="internet interfaces" to="49"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="118">
+        <text>I'm honestly afraid that it will burn me, it's that hot!</text>
+    </sentence>
+    <sentence id="1467">
+        <text>For me, keys were starting to get stuck and wouldn't type very well.</text>
+        <aspectTerms>
+            <aspectTerm from="8" polarity="negative" term="keys" to="12"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2906">
+        <text>Excellent product for the money.</text>
+    </sentence>
+    <sentence id="699">
+        <text>I would recommend anyone to buy from pcconnection express.</text>
+    </sentence>
+    <sentence id="620">
+        <text>*2 weeks after giving the computer for repair*-Called headquarters, they report that they have not looked at it yet but it is &quot;on the top of the stack&quot;.</text>
+    </sentence>
+    <sentence id="2493">
+        <text>Plus stylish.</text>
+    </sentence>
+    <sentence id="2196">
+        <text>The powerpoint opened seamlessly in the apple and the mac hooked up to the projector so easily it was almost scary.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="powerpoint" to="14"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="87">
+        <text>It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.</text>
+        <aspectTerms>
+            <aspectTerm from="54" polarity="neutral" term="software" to="62"/>
+            <aspectTerm from="14" polarity="positive" term="operate" to="21"/>
+            <aspectTerm from="67" polarity="neutral" term="gadgets" to="74"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="898">
+        <text>At first when I got this product, I loved it.</text>
+    </sentence>
+    <sentence id="2108">
+        <text>I'm very happy with this machine!</text>
+    </sentence>
+    <sentence id="2331">
+        <text>) I also tried the touch pad and compared it to other netbooks in the store.</text>
+        <aspectTerms>
+            <aspectTerm from="19" polarity="neutral" term="touch pad" to="28"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1715">
+        <text>Thanks, MacConnection, for making this a seamless purchase!</text>
+    </sentence>
+    <sentence id="2742">
+        <text>That's the downside for me.</text>
+    </sentence>
+    <sentence id="3040">
+        <text>I bought mine from Apple Store the day it was released as Amazon didn't have it yet.</text>
+    </sentence>
+    <sentence id="12">
+        <text>For the [$] price (special offer) this is a great laptop.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="price" to="17"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1501">
+        <text>It was a hard decision for me since the MacBook Pro looked so appealing.</text>
+    </sentence>
+    <sentence id="2097">
+        <text>For me I was lucky and a local store was selling them for $2000 off and Best Buy matched their price so I was able to buy one for under $1000</text>
+        <aspectTerms>
+            <aspectTerm from="95" polarity="positive" term="price" to="100"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1362">
+        <text>Sent unit back and it's been two months.</text>
+    </sentence>
+    <sentence id="847">
+        <text>I did an internet search and this is a very common problem with this  laptop.</text>
+    </sentence>
+    <sentence id="2052">
+        <text>One year of trying to fix the computer by myself, with help of friends, and even help from computer experts I have given up on trying to fix it.</text>
+    </sentence>
+    <sentence id="2261">
+        <text>The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="Apple applications" to="22"/>
+            <aspectTerm from="27" polarity="positive" term="iPhoto" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1440">
+        <text>My last computer, a Toshiba, cost only $400, and worked like a charm for many years.</text>
+        <aspectTerms>
+            <aspectTerm from="29" polarity="positive" term="cost" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="600">
+        <text>It's A MAC!!</text>
+    </sentence>
+    <sentence id="2151">
+        <text>The computer was delivered as promised.</text>
+    </sentence>
+    <sentence id="2629">
+        <text>been a PC user for many, many years.</text>
+    </sentence>
+    <sentence id="672">
+        <text>Love it so far.</text>
+    </sentence>
+    <sentence id="2589">
+        <text>Having someone give you a quick tour of how to's is the best.</text>
+    </sentence>
+    <sentence id="2980">
+        <text>I can barely use any usb devices because they will not stay connected properly.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="usb devices" to="32"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2892">
+        <text>I bought this laptop about a month ago to replace my compaq laptop.</text>
+    </sentence>
+    <sentence id="1510">
+        <text>I look forward to years of use, it has held up well over the years and it fits my needs very well.</text>
+    </sentence>
+    <sentence id="1916">
+        <text>  However I dealt with this problem for over a year and it was more of a hastle then I have EVER had with anything.</text>
+    </sentence>
+    <sentence id="1268">
+        <text>Could not keep up with me and finally the hard drive went out.</text>
+        <aspectTerms>
+            <aspectTerm from="42" polarity="negative" term="hard drive" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2027">
+        <text>The first fell apart right after the 1-year-warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="37" polarity="neutral" term="1-year-warranty" to="52"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="654">
+        <text>Temperatures on the outside were alright but i did not track in Core Processing Unit temperatures.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="neutral" term="Temperatures" to="12"/>
+            <aspectTerm from="64" polarity="neutral" term="Core Processing Unit temperatures" to="97"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="160">
+        <text>They offer the best warranty in the business, and don't 3rd party it out like Toshiba.</text>
+        <aspectTerms>
+            <aspectTerm from="20" polarity="positive" term="warranty" to="28"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1211">
+        <text>5 months dead again.</text>
+    </sentence>
+    <sentence id="610">
+        <text>lots of extra space but the keyboard is ridiculously small.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="positive" term="space" to="19"/>
+            <aspectTerm from="28" polarity="negative" term="keyboard" to="36"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1031">
+        <text>NO more Lenovo for me.</text>
+    </sentence>
+    <sentence id="1448">
+        <text>But if you can't make your product last more than a year, you will not get my business again.</text>
+    </sentence>
+    <sentence id="622">
+        <text>-Called MacHouse Amsterdam to ask for a temporary replacement, no answer.</text>
+    </sentence>
+    <sentence id="2425">
+        <text>It is also extremely pleasing to the eyes without looking too much like an Alienware gaming machine.</text>
+    </sentence>
+    <sentence id="1642">
+        <text>I am now frustrated that I still have to use my work issued Windows laptop!</text>
+    </sentence>
+    <sentence id="1541">
+        <text>The fact that you can spend over $100 on just a webcam underscores the value of this machine.</text>
+        <aspectTerms>
+            <aspectTerm from="48" polarity="neutral" term="webcam" to="54"/>
+            <aspectTerm from="71" polarity="positive" term="value" to="76"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="345">
+        <text>the place we bought it from said that after they send it out to gateway 4 times they would give us a new one.</text>
+    </sentence>
+    <sentence id="2438">
+        <text>You'll need to upgrade and pay a little more for them.</text>
+    </sentence>
+    <sentence id="2488">
+        <text>The one thing I wish it had was a detailed hardcopy manuel.</text>
+        <aspectTerms>
+            <aspectTerm from="43" polarity="negative" term="hardcopy manuel" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2264">
+        <text>I've saved a lot of time and headaches so far, using my new MacBook Pro.</text>
+    </sentence>
+    <sentence id="1038">
+        <text>Looks nice, but has a horribly cheap feel.</text>
+        <aspectTerms>
+            <aspectTerm from="37" polarity="negative" term="feel" to="41"/>
+            <aspectTerm from="0" polarity="positive" term="Looks" to="5"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1657">
+        <text>Theres a built in camera with special effects- for video and photography.</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="positive" term="built in camera" to="24"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1873">
+        <text>When I got this laptop in 2007 to help me with school, I had a hard time from beginning.</text>
+    </sentence>
+    <sentence id="1834">
+        <text>THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.</text>
+    </sentence>
+    <sentence id="161">
+        <text>For the same price, you get a lot more in the Asus....1920x1080 res.</text>
+        <aspectTerms>
+            <aspectTerm from="13" polarity="negative" term="price" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="881">
+        <text>After 2 months of complaints, Asus finally sent the right power supply to my techies.</text>
+        <aspectTerms>
+            <aspectTerm from="58" polarity="neutral" term="power supply" to="70"/>
+            <aspectTerm from="77" polarity="neutral" term="techies" to="84"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1192">
+        <text>The other lock-up problems are from a myriad of causes, the most common being a corrupted version of Appleworks which can render the browser useless.</text>
+        <aspectTerms>
+            <aspectTerm from="101" polarity="negative" term="Appleworks" to="111"/>
+            <aspectTerm from="133" polarity="negative" term="browser" to="140"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1676">
+        <text>Another Great thing is the Beast graphics.</text>
+        <aspectTerms>
+            <aspectTerm from="27" polarity="positive" term="Beast graphics" to="41"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="509">
+        <text>So I called, AGAIN.</text>
+    </sentence>
+    <sentence id="997">
+        <text>Drivers updated ok but the BIOS update froze the system up and the computer shut down.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Drivers" to="7"/>
+            <aspectTerm from="27" polarity="negative" term="BIOS update" to="38"/>
+            <aspectTerm from="49" polarity="negative" term="system" to="55"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="422">
+        <text>For my burn thigh which has put a permanent mark on my skin (it happened 7 months ago) they offered me an ITouch 8Gig (you know it is a bit insulating when a company this rich, offer a loyal customer like me, a bottom of their product line as a gift for events like this).</text>
+    </sentence>
+    <sentence id="1645">
+        <text>See when it comes to laptops you buy it and get just a normal operating system with trials of must need stuff that should come with it.</text>
+        <aspectTerms>
+            <aspectTerm from="62" polarity="neutral" term="operating system" to="78"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="806">
+        <text>I had this computer for one month and had to send it in for repair.</text>
+    </sentence>
+    <sentence id="2554">
+        <text>We both recently got new laptops.</text>
+    </sentence>
+    <sentence id="1844">
+        <text>  upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired.</text>
+        <aspectTerms>
+            <aspectTerm from="88" polarity="neutral" term="warranty" to="96"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2062">
+        <text>About 1/2 of the sites I need to visit because of my work contain some type of Flash.</text>
+    </sentence>
+    <sentence id="2050">
+        <text>The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="system" to="10"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1544">
+        <text>This netbook is a perfect supplementary computer to another laptop or desktop (my wife and I have another laptop), or if you are a user who uses the computer for simple tasks.</text>
+    </sentence>
+    <sentence id="1932">
+        <text>So not having my laptop was discouraging.</text>
+    </sentence>
+    <sentence id="946">
+        <text>  Problem fixed which is great but there went another two weeks without my laptop at school.</text>
+    </sentence>
+    <sentence id="702">
+        <text>Okay, let's just start out by saying I am in no way a computer techy.</text>
+    </sentence>
+    <sentence id="50">
+        <text>I've owned every &quot;Pro&quot; model Apple laptop for the last 8 years, this is BY FAR the WORST one I've ever had.</text>
+    </sentence>
+    <sentence id="2519">
+        <text>It still serves me well both in business and home needs.</text>
+    </sentence>
+    <sentence id="579">
+        <text>I would buy one of these for every person in my office if I could.</text>
+    </sentence>
+    <sentence id="2552">
+        <text>My husband purchased a laptop at the same time for about $300 less (he got a pc).</text>
+    </sentence>
+    <sentence id="553">
+        <text>I absolutely love my mac!</text>
+    </sentence>
+    <sentence id="2935">
+        <text>The battery life is probably an hour at best.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="battery life" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1518">
+        <text>The great 18 month same as cash financing and Advance Protection Plan which includes accidents like spills .</text>
+    </sentence>
+    <sentence id="2992">
+        <text>Battery is not upgradable to a longer life battery.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Battery" to="7"/>
+            <aspectTerm from="43" polarity="negative" term="battery" to="50"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2696">
+        <text>I would like to have volume buttons rather than the adjustment that is on the front.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="negative" term="volume buttons" to="35"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2799">
+        <text>I shopped around before buying.</text>
+    </sentence>
+    <sentence id="20">
+        <text>LOVE IT LOVE IT LOVE IT!</text>
+    </sentence>
+    <sentence id="2068">
+        <text>I had meant to purchase the NB205 and bought this one by accident (long story).</text>
+    </sentence>
+    <sentence id="64">
+        <text>In summary, take your money elsewhere.</text>
+    </sentence>
+    <sentence id="126">
+        <text>They didn't even try to assist me or even offer a replacement.</text>
+    </sentence>
+    <sentence id="1235">
+        <text>I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.</text>
+    </sentence>
+    <sentence id="243">
+        <text>If only Bill Gates would read some of what is said here MS would do a better job.</text>
+    </sentence>
+    <sentence id="2295">
+        <text>One of the wonderful things about Macs is that they are virus free.</text>
+    </sentence>
+    <sentence id="1399">
+        <text>the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="graphics" to="12"/>
+            <aspectTerm from="31" polarity="negative" term="wireless switch" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2076">
+        <text>It's fast and has excellent battery life.</text>
+        <aspectTerms>
+            <aspectTerm from="28" polarity="positive" term="battery life" to="40"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2042">
+        <text>Here we are another year later and the computer is doing the same thing.</text>
+    </sentence>
+    <sentence id="1338">
+        <text>The brand is tarnished in my heart.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="brand" to="9"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2636">
+        <text>the key bindings take a little getting used to, but have loved the Macbook Pro.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="key bindings" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1533">
+        <text>She said its very user friendly.</text>
+    </sentence>
+    <sentence id="1576">
+        <text>The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="display" to="11"/>
+            <aspectTerm from="76" polarity="positive" term="battery life" to="88"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="189">
+        <text>1) Payed $2200 for a &quot;premium&quot; laptop</text>
+    </sentence>
+    <sentence id="1353">
+        <text>I had less problems.</text>
+    </sentence>
+    <sentence id="2823">
+        <text>This is a great little computer for the price.</text>
+        <aspectTerms>
+            <aspectTerm from="40" polarity="positive" term="price" to="45"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2846">
+        <text>It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.</text>
+        <aspectTerms>
+            <aspectTerm from="41" polarity="positive" term="Microsoft Office apps" to="62"/>
+            <aspectTerm from="27" polarity="positive" term="internet use" to="39"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="647">
+        <text>*6th week*-They are not responding to my emails asking when they expect to dispatch the new unit...</text>
+    </sentence>
+    <sentence id="1809">
+        <text>I've always used PC's for work home and this is my first experience with a Mac.</text>
+    </sentence>
+    <sentence id="2478">
+        <text>All the things you can do with the trackpad make navigating around the computer and its programs so much simpler, quicker, and easier.</text>
+        <aspectTerms>
+            <aspectTerm from="35" polarity="positive" term="trackpad" to="43"/>
+            <aspectTerm from="88" polarity="positive" term="programs" to="96"/>
+            <aspectTerm from="49" polarity="positive" term="navigating" to="59"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1055">
+        <text>Other Thoughts: Received replacement 16 Days later.</text>
+    </sentence>
+    <sentence id="1681">
+        <text>I don't know how I could ever live without my Qousmio.</text>
+    </sentence>
+    <sentence id="1515">
+        <text>I am loyal to Apple.</text>
+    </sentence>
+    <sentence id="1210">
+        <text>returned it.</text>
+    </sentence>
+    <sentence id="98">
+        <text>It took several weeks just to get them to acknowledge that I owned the warranty.</text>
+        <aspectTerms>
+            <aspectTerm from="71" polarity="negative" term="warranty" to="79"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2397">
+        <text>I would recommend this product.</text>
+    </sentence>
+    <sentence id="916">
+        <text> Went silently.</text>
+    </sentence>
+    <sentence id="2128">
+        <text>I liked the aluminum body.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="aluminum body" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2032">
+        <text>The processor went on me, the fan went and the motherboard went.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="processor" to="13"/>
+            <aspectTerm from="30" polarity="negative" term="fan" to="33"/>
+            <aspectTerm from="47" polarity="negative" term="motherboard" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="324">
+        <text>:) In the past four years I've had it I have never once gotten a virus.</text>
+    </sentence>
+    <sentence id="1207">
+        <text>bought notebook 07/2009.</text>
+    </sentence>
+    <sentence id="329">
+        <text>I know that everyone thinks Macs are overpriced and overrated, but once you get past the initial expense you'll find that they're worth every penny (besides, there's always the financing plan that Best Buy offers).</text>
+        <aspectTerms>
+            <aspectTerm from="97" polarity="negative" term="expense" to="104"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2022">
+        <text>It does not even have the software to play a dvd now.</text>
+        <aspectTerms>
+            <aspectTerm from="26" polarity="negative" term="software" to="34"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="313">
+        <text>I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).</text>
+        <aspectTerms>
+            <aspectTerm from="17" polarity="neutral" term="iWork" to="22"/>
+            <aspectTerm from="47" polarity="neutral" term="programs" to="55"/>
+            <aspectTerm from="121" polarity="neutral" term="Microsoft Office" to="137"/>
+            <aspectTerm from="60" polarity="neutral" term="word processing" to="75"/>
+            <aspectTerm from="77" polarity="neutral" term="spreadsheets" to="89"/>
+            <aspectTerm from="95" polarity="neutral" term="presentations" to="108"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2869">
+        <text>I am very happy with this laptop.</text>
+    </sentence>
+    <sentence id="1626">
+        <text>I used to build my own desktops from the component parts, and recently my 7 year old Pentium 4 with HT 1 GB ram SATA desktop stopped working (this was a rock star 7 years ago).</text>
+        <aspectTerms>
+            <aspectTerm from="85" polarity="neutral" term="Pentium 4" to="94"/>
+            <aspectTerm from="103" polarity="neutral" term="1 GB ram" to="111"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1355">
+        <text>Runs Hot  I thought we were paying for quality in our decision to buy an Apple product.</text>
+        <aspectTerms>
+            <aspectTerm from="39" polarity="negative" term="quality" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2585">
+        <text>It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.</text>
+        <aspectTerms>
+            <aspectTerm from="80" polarity="positive" term="keyboard" to="88"/>
+            <aspectTerm from="63" polarity="positive" term="feature" to="70"/>
+            <aspectTerm from="19" polarity="positive" term="type" to="23"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="722">
+        <text>Other installed features, such as certain printer software, are also most attractive.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="positive" term="features" to="24"/>
+            <aspectTerm from="42" polarity="positive" term="printer software" to="58"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2803">
+        <text>I should have bought one a long time ago.</text>
+    </sentence>
+    <sentence id="2963">
+        <text>Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.</text>
+        <aspectTerms>
+            <aspectTerm from="94" polarity="positive" term="gaming" to="100"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1718">
+        <text>I eventually did the migration from my iMac backup disc which uses USB.</text>
+        <aspectTerms>
+            <aspectTerm from="39" polarity="neutral" term="iMac backup disc" to="55"/>
+            <aspectTerm from="67" polarity="neutral" term="USB" to="70"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1940">
+        <text>I WILL NEVER AGAIN buy another Acer, not will I buy Gateway, or eMachine as they are all from the same company.</text>
+    </sentence>
+    <sentence id="544">
+        <text>I have other computers that get strong signals that don't drop in places that this &quot;net&quot;book loses its signal.</text>
+        <aspectTerms>
+            <aspectTerm from="39" polarity="positive" term="signals" to="46"/>
+            <aspectTerm from="103" polarity="negative" term="signal" to="109"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2460">
+        <text>It has come into good use for my finances, scheduling, my parents business expenses, and it is definitely amazing for gaming.</text>
+        <aspectTerms>
+            <aspectTerm from="118" polarity="positive" term="gaming" to="124"/>
+            <aspectTerm from="22" polarity="positive" term="use" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2443">
+        <text>Boots up fast and runs great!</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="positive" term="Boots up" to="8"/>
+            <aspectTerm from="18" polarity="positive" term="runs" to="22"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1993">
+        <text>Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).</text>
+        <aspectTerms>
+            <aspectTerm from="62" polarity="negative" term="BIOS" to="66"/>
+            <aspectTerm from="76" polarity="negative" term="Windows" to="83"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1918">
+        <text>I started hainv problems with it within the first month.</text>
+    </sentence>
+    <sentence id="446">
+        <text>I love the glass touchpad.</text>
+        <aspectTerms>
+            <aspectTerm from="11" polarity="positive" term="glass touchpad" to="25"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2197">
+        <text>Would buy 100 more of these if I could.</text>
+    </sentence>
+    <sentence id="3080">
+        <text>I wish Toshiba would allow their customers to select an option that only boots the OS at setup and removes all the unnecessary stuff.</text>
+        <aspectTerms>
+            <aspectTerm from="83" polarity="neutral" term="OS" to="85"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1072">
+        <text>Newegg's RMA service was great as always, I contacted them late Friday night, and they issued me an RMA number and a PrePaid UPS shipping label the very next morning on Saturday.</text>
+        <aspectTerms>
+            <aspectTerm from="9" polarity="positive" term="RMA service" to="20"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1267">
+        <text>It was always getting froze up.</text>
+    </sentence>
+    <sentence id="2734">
+        <text>Seems like maybe a bad shipment from Toshiba.</text>
+        <aspectTerms>
+            <aspectTerm from="23" polarity="negative" term="shipment" to="31"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="359">
+        <text>Charger seems large for this class of computer.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Charger" to="7"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="861">
+        <text>its more like a snail crawl.</text>
+    </sentence>
+    <sentence id="1734">
+        <text>It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.</text>
+        <aspectTerms>
+            <aspectTerm from="134" polarity="negative" term="software" to="142"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1974">
+        <text>With what I paid for this computer it should have had everything on it.</text>
+    </sentence>
+    <sentence id="2609">
+        <text>I do everything on this computer - check email, facebook, shop, check blogs, write papers, listen to music, and we even watch all of our movies on it since we do not have a tv.</text>
+    </sentence>
+    <sentence id="1450">
+        <text>The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google &quot;dell coupons&quot; you can find codes that take a signifant  amount off the price.</text>
+        <aspectTerms>
+            <aspectTerm from="112" polarity="positive" term="components" to="122"/>
+            <aspectTerm from="151" polarity="positive" term="price" to="156"/>
+            <aspectTerm from="313" polarity="positive" term="price" to="318"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1182">
+        <text>They don t translate from a Mac, even on Word, resulting in a ton of run-on sentences.</text>
+        <aspectTerms>
+            <aspectTerm from="41" polarity="negative" term="Word" to="45"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3046">
+        <text>So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.</text>
+        <aspectTerms>
+            <aspectTerm from="58" polarity="negative" term="genius bar staff" to="74"/>
+            <aspectTerm from="102" polarity="neutral" term="fan" to="105"/>
+            <aspectTerm from="109" polarity="neutral" term="boot up" to="116"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="195">
+        <text>5) Cut my losses and sold it for parts</text>
+    </sentence>
+    <sentence id="2688">
+        <text>If you need an affordable, entry-level laptop, this will fit the bill.</text>
+    </sentence>
+    <sentence id="1640">
+        <text>And in 6 months, there have been no freezing up and no blue, purple, black or any other type of screen.</text>
+    </sentence>
+    <sentence id="260">
+        <text>oh yeah, and if the fancy webcam breaks guess who you have to send it to to get it fixed?</text>
+        <aspectTerms>
+            <aspectTerm from="26" polarity="negative" term="webcam" to="32"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1026">
+        <text>So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good.</text>
+        <aspectTerms>
+            <aspectTerm from="14" polarity="negative" term="AC plug" to="21"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2907">
+        <text>No problems, no lock ups, no disappointments.</text>
+    </sentence>
+    <sentence id="2255">
+        <text>I'm glad I made the choice to switch and buy this MAC.</text>
+    </sentence>
+    <sentence id="498">
+        <text>And inconvenient!</text>
+    </sentence>
+    <sentence id="828">
+        <text>  It was loaded with Windows Vista Home Premium--delivered with only 1GB of RAM, and it was a *dog*.</text>
+        <aspectTerms>
+            <aspectTerm from="21" polarity="neutral" term="Windows Vista Home Premium" to="47"/>
+            <aspectTerm from="69" polarity="negative" term="1GB of RAM" to="79"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2569">
+        <text>It is extremely user friendly and intuitive.</text>
+    </sentence>
+    <sentence id="2810">
+        <text>So far so good with this laptop.</text>
+    </sentence>
+    <sentence id="1127">
+        <text>The 4 USB ports are nice, but the two on the side only work now and then.</text>
+        <aspectTerms>
+            <aspectTerm from="6" polarity="conflict" term="USB ports" to="15"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2956">
+        <text>It is well worth the money it cost, Very good investment.</text>
+        <aspectTerms>
+            <aspectTerm from="30" polarity="positive" term="cost" to="34"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="62">
+        <text>They should have included more memory on their computers if they knew Vista would run slowly.</text>
+        <aspectTerms>
+            <aspectTerm from="31" polarity="negative" term="memory" to="37"/>
+            <aspectTerm from="70" polarity="negative" term="Vista" to="75"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2665">
+        <text>WILL NOT EVERY BUY ANOTHER--------LOU</text>
+    </sentence>
+    <sentence id="1146">
+        <text>  Remember to do your research first before consider buying a toshiba product.</text>
+    </sentence>
+    <sentence id="1535">
+        <text>However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.</text>
+        <aspectTerms>
+            <aspectTerm from="65" polarity="positive" term="size" to="69"/>
+            <aspectTerm from="89" polarity="positive" term="features" to="97"/>
+            <aspectTerm from="107" polarity="positive" term="lighted keyboard" to="123"/>
+            <aspectTerm from="133" polarity="positive" term="mouse pad" to="142"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2876">
+        <text>The games included are very good games.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="neutral" term="games" to="9"/>
+            <aspectTerm from="33" polarity="positive" term="games" to="38"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2442">
+        <text>Overall, still a very nice machine.</text>
+    </sentence>
+    <sentence id="2647">
+        <text>The case is carved out of a single block of aluminum.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="neutral" term="case" to="8"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3056">
+        <text>The speed difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="speed" to="9"/>
+            <aspectTerm from="59" polarity="neutral" term="hard drive" to="69"/>
+            <aspectTerm from="123" polarity="neutral" term="500gb external hard drive" to="148"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2408">
+        <text>Mac also has many apps and programs that are quite cheap or free.</text>
+        <aspectTerms>
+            <aspectTerm from="18" polarity="positive" term="apps" to="22"/>
+            <aspectTerm from="27" polarity="positive" term="programs" to="35"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2059">
+        <text>This is the first Apple product that I have purchased.</text>
+    </sentence>
+    <sentence id="2875">
+        <text>The Toshiba laptop I am using is easier to use than most I have tried.</text>
+        <aspectTerms>
+            <aspectTerm from="43" polarity="positive" term="use" to="46"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="584">
+        <text>I will only buy apple laptops from now on.</text>
+    </sentence>
+    <sentence id="1068">
+        <text>I reloaded with Windows 7 Ultimate, and the Bluetooth and Fingerprint reader (software) would not load.</text>
+        <aspectTerms>
+            <aspectTerm from="16" polarity="negative" term="Windows 7 Ultimate" to="34"/>
+            <aspectTerm from="44" polarity="negative" term="Bluetooth" to="53"/>
+            <aspectTerm from="58" polarity="negative" term="Fingerprint reader" to="76"/>
+            <aspectTerm from="78" polarity="negative" term="software" to="86"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1643">
+        <text>To those thinking about switching, do it and do not look back!</text>
+    </sentence>
+    <sentence id="1704">
+        <text>I pondered very long over this decision.</text>
+    </sentence>
+    <sentence id="2392">
+        <text>Am very glad I bought it, great netbook, low price.</text>
+        <aspectTerms>
+            <aspectTerm from="45" polarity="positive" term="price" to="50"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1116">
+        <text>I'm pretty sure it's not newegg's fault but when you turn on a computer you just bought you want it to at least get to desktop.</text>
+    </sentence>
+    <sentence id="1408">
+        <text>Yes, the computer was light weight, less expensive than the average laptop, and was pretty self explantory in use.</text>
+        <aspectTerms>
+            <aspectTerm from="110" polarity="positive" term="use" to="113"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1181">
+        <text>That seemed to solve the problem, till I wrote an article with semicolons in it.</text>
+    </sentence>
+    <sentence id="742">
+        <text>The perfect notebook...</text>
+    </sentence>
+    <sentence id="2167">
+        <text>There are no viruses or spyware to worry about like on a Windows computer.</text>
+        <aspectTerms>
+            <aspectTerm from="57" polarity="negative" term="Windows" to="64"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1317">
+        <text>Again.</text>
+    </sentence>
+    <sentence id="1336">
+        <text>So what if the laptops/mobile phones look chic and cool? The after sales support is terrible.</text>
+        <aspectTerms>
+            <aspectTerm from="61" polarity="negative" term="after sales support" to="80"/>
+            <aspectTerm from="37" polarity="positive" term="look" to="41"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2959">
+        <text>The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="2 GB of RAM" to="15"/>
+            <aspectTerm from="39" polarity="positive" term="Windows 7" to="48"/>
+            <aspectTerm from="75" polarity="positive" term="programs" to="83"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2923">
+        <text>The battery life seems to be very good, and have had no issues with it.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="positive" term="battery life" to="16"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3002">
+        <text>Maybe not the cutting edge (Satellite L455D) but it is a workhorse.</text>
+    </sentence>
+    <sentence id="576">
+        <text>My mac laptop is fabulous in both areas.</text>
+    </sentence>
+    <sentence id="2916">
+        <text>The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.</text>
+        <aspectTerms>
+            <aspectTerm from="4" polarity="negative" term="processor" to="13"/>
+            <aspectTerm from="94" polarity="negative" term="computing" to="103"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1996">
+        <text>I am not sure if it was the drive itself, however;</text>
+        <aspectTerms>
+            <aspectTerm from="28" polarity="neutral" term="drive" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2891">
+        <text>WOULD PAY MORE FOR IT IF I HAD TOO!</text>
+    </sentence>
+    <sentence id="2149">
+        <text>We researched and found the best price at MacConnection.</text>
+        <aspectTerms>
+            <aspectTerm from="33" polarity="positive" term="price" to="38"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="108">
+        <text>It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, &quot;74%, plugged in, not charging&quot;), requiring me to unplug it and plug it back in several times to get it to charge.</text>
+        <aspectTerms>
+            <aspectTerm from="146" polarity="negative" term="charging" to="154"/>
+            <aspectTerm from="38" polarity="negative" term="charge" to="44"/>
+            <aspectTerm from="231" polarity="neutral" term="charge" to="237"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1388">
+        <text>Don't waste their money, save it and but a mac.</text>
+    </sentence>
+    <sentence id="38">
+        <text>In the shop, these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it, get it home, break the seal and use it (very clever con).</text>
+        <aspectTerms>
+            <aspectTerm from="50" polarity="positive" term="rubber enclosure" to="66"/>
+            <aspectTerm from="108" polarity="negative" term="edge" to="112"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="522">
+        <text>Either way the entire thing was just a joke, a complete rip off!</text>
+    </sentence>
+    <sentence id="366">
+        <text>Not to mention the fact that your mac comes fully loaded with all necessary basic programs.</text>
+        <aspectTerms>
+            <aspectTerm from="82" polarity="positive" term="programs" to="90"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="529">
+        <text>Now I could get myself a cheap computer, that will probably work a whole lot better!</text>
+    </sentence>
+    <sentence id="899">
+        <text>The computer itself was fast, ran smoothly, and had no problems.</text>
+        <aspectTerms>
+            <aspectTerm from="30" polarity="positive" term="ran" to="33"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="2375">
+        <text>Took the netbook on a vacation trip and I was able to do whatever I wanted to do without lugging a much heavier laptop.</text>
+    </sentence>
+    <sentence id="1994">
+        <text>These new problems were the final straws;</text>
+    </sentence>
+    <sentence id="2993">
+        <text>It has good speed and plenty of hard drive space.</text>
+        <aspectTerms>
+            <aspectTerm from="12" polarity="positive" term="speed" to="17"/>
+            <aspectTerm from="32" polarity="positive" term="hard drive space" to="48"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1057">
+        <text>Acer has set me up with FREE recovery discs, when they are available since I asked.</text>
+        <aspectTerms>
+            <aspectTerm from="29" polarity="positive" term="recovery discs" to="43"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="56">
+        <text>I am sorry that I purchased this laptop.</text>
+    </sentence>
+    <sentence id="1886">
+        <text>The laptop was returned but audio issue was not fixed.</text>
+    </sentence>
+    <sentence id="2938">
+        <text>I wish the volume could be louder and the mouse didnt break after only a month.</text>
+        <aspectTerms>
+            <aspectTerm from="11" polarity="negative" term="volume" to="17"/>
+            <aspectTerm from="42" polarity="negative" term="mouse" to="47"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="3045">
+        <text>Fan noise: The fan made a constant hissing noise in the background.</text>
+        <aspectTerms>
+            <aspectTerm from="0" polarity="negative" term="Fan" to="3"/>
+            <aspectTerm from="15" polarity="negative" term="fan" to="18"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="1411">
+        <text>There is hardly any memory on the computer's hard drive.</text>
+        <aspectTerms>
+            <aspectTerm from="20" polarity="negative" term="memory" to="26"/>
+            <aspectTerm from="45" polarity="negative" term="hard drive" to="55"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="866">
+        <text>My hp G60-244dx died after only 16 months.</text>
+    </sentence>
