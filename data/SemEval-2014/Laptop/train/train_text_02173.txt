@@ -1,0 +1,1 @@
+We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed . 

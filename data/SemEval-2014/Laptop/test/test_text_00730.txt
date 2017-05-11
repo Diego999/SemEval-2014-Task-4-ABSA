@@ -1,0 +1,1 @@
+this Mac Mini does not have a built - in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly . 

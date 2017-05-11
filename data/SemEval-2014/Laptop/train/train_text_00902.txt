@@ -1,0 +1,1 @@
+I connect a LaCie 2Big external drive via the firewire 800 interface , which is useful for Time Machine . 

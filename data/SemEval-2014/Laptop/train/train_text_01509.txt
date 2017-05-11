@@ -1,0 +1,1 @@
+Drivers updated ok but the BIOS update froze the system up and the computer shut down . 

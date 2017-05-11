@@ -1,0 +1,1 @@
+If a website ever freezes ( which is rare ) , its really easy to force quit . 
