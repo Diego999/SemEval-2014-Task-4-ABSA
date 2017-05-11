@@ -107,7 +107,7 @@ with open(filename, 'w', encoding='utf-8') as fp:
     fp.write("\n")
     fp.write("# Upper bound on the number of GPU NeuroNER will use \n")
     fp.write("# If number_of_gpus > 0, you need to have installed tensorflow-gpu\n")
-    fp.write("number_of_gpus = 0\n")
+    fp.write("number_of_gpus = 2\n")
     fp.write("\n")
     fp.write("[advanced]\n")
     fp.write("experiment_name = test\n")
