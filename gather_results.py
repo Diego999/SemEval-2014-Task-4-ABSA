@@ -1,9 +1,12 @@
 from os import listdir
 from os.path import isfile, join
+import sys
+
+no_final = len(sys.argv) > 1
 
 path = 'output/'
 types = ['Restaurant', 'Laptop']
-patience = 10
+patience = 0 if no_final else 10
 
 dirs = [f for f in listdir(path) if not isfile(join(path, f))]
 
