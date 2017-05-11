@@ -37,8 +37,8 @@ def map_aspect_to_text(text, current_aspect, current_from, current_to):
         current_from -= 1
     current_aspect = text[current_from:current_to]
 
-    if not(current_from >= 0 and current_to > 0 and current_from < current_to):
-        print("wrong mapping ! : " + text + ", " + current_aspect + " (" + str(current_from) + ',' + str(current_to) + ')')
+    #if not(current_from >= 0 and current_to > 0 and current_from < current_to):
+    #    print("wrong mapping ! : " + text + ", " + current_aspect + " (" + str(current_from) + ',' + str(current_to) + ')')
 
     return current_aspect, current_from, current_to
 
