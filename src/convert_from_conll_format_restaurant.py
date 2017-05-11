@@ -41,10 +41,12 @@ def map_aspect_to_text(text, current_aspect, current_from, current_to):
     if current_to < 0:
         current_to = text.find(aspects_exploded[-1])
     current_to += len(aspects_exploded[-1])
+    if current_from == current_to and current_from != 0:
+        current_from -= 1
     current_aspect = text[current_from:current_to]
 
     if not(current_from >= 0 and current_to > 0 and current_from < current_to):
-        a = 2
+        print("wrong mapping ! : " + text + ", " + current_aspect + " (" + str(current_from) + ',' + str(current_to) + ')')
 
     return current_aspect, current_from, current_to
 

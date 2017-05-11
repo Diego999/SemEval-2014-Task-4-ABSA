@@ -14,8 +14,8 @@ def replace(text):
 
 
 if len(sys.argv) < 3:
-    pred_file = 'default_laptop_5.txt'
-    ref_file = 'ref_laptop.xml'
+    pred_file = '../output/Laptop_2017-05-11_11-49-12-834263/000_train.txt'
+    ref_file = '../data/SemEval-2014/Scorer/ref_Laptop_train.xml'
 else:
     pred_file = sys.argv[1]
     ref_file = sys.argv[2]
@@ -33,9 +33,12 @@ def map_aspect_to_text(text, current_aspect, current_from, current_to):
     if current_to < 0:
         current_to = text.find(aspects_exploded[-1])
     current_to += len(aspects_exploded[-1])
+    if current_from == current_to and current_from != 0:
+        current_from -= 1
     current_aspect = text[current_from:current_to]
 
-    assert current_from >= 0 and current_to > 0 and current_from < current_to
+    if not(current_from >= 0 and current_to > 0 and current_from < current_to):
+        print("wrong mapping ! : " + text + ", " + current_aspect + " (" + str(current_from) + ',' + str(current_to) + ')')
 
     return current_aspect, current_from, current_to
 

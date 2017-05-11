@@ -25,6 +25,7 @@ final_data = []
 
 for sentence in sentence_list:
     text = sentence.getElementsByTagName('text')[0].childNodes[0].nodeValue.replace(u'\xa0', u' ')
+
     id = sentence.attributes['id'].value
     if is_valid_char(text[-1]):
         text += ' .'
