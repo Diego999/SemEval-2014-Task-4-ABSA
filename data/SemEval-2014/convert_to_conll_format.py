@@ -7,6 +7,8 @@ import string
 import random
 import math
 
+random.seed(28111993)
+
 file = '/Users/diego/Github/SemEval-2014-Task-4-ABSA/data/SemEval-2014/Laptop/train.xml'
 tokenizer = spacy.load('en')
 xmldoc = minidom.parse(file)
