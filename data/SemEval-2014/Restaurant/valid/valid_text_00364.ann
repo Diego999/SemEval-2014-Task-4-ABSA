@@ -1,3 +1,6 @@
-T1	MISC 26 31	price
-T2	MISC 34 38	food
-T3	MISC 45 52	service
+T1	MISC 32 36	food
+T2	MISC 55 58	dim
+T3	MISC 59 62	sum
+T4	MISC 89 97	portions
+T5	MISC 122 128	dishes
+T6	MISC 154 158	dish

@@ -1,10 +1,4 @@
-T1	MISC 5 10	table
-T2	MISC 17 20	pot
-T3	MISC 21 23	of
-T4	MISC 24 31	boiling
-T5	MISC 32 37	water
-T6	MISC 100 105	meats
-T7	MISC 116 126	vegetables
-T8	MISC 133 137	rice
-T9	MISC 142 147	glass
-T10	MISC 148 155	noodles
+T1	MISC 60 65	drink
+T2	MISC 77 80	bar
+T3	MISC 109 113	wait
+T4	MISC 114 118	time

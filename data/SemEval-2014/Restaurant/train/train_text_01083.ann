@@ -1,4 +1,10 @@
-T1	MISC 4 10	waiter
-T2	MISC 26 31	place
-T3	MISC 96 102	prices
-T4	MISC 146 150	food
+T1	MISC 5 14	beginning
+T2	MISC 15 25	appetizers
+T3	MISC 32 40	scallops
+T4	MISC 76 85	chocolate
+T5	MISC 86 93	souffle
+T6	MISC 94 98	with
+T7	MISC 99 107	rasberry
+T8	MISC 108 112	mint
+T9	MISC 113 119	sorbet
+T10	MISC 147 152	taste

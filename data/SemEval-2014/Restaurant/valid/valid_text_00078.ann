@@ -1,5 +1,6 @@
-T1	MISC 0 7	Waiters
-T2	MISC 23 29	drinks
-T3	MISC 43 47	food
-T4	MISC 48 56	portions
-T5	MISC 107 113	entree
+T1	MISC 4 9	Pizza
+T2	MISC 14 18	wine
+T3	MISC 40 47	service
+T4	MISC 95 103	backyard
+T5	MISC 104 110	dining
+T6	MISC 111 115	area

@@ -1,5 +1,8 @@
-T1	MISC 115 121	prices
-T2	MISC 130 140	atmosphere
-T3	MISC 148 155	service
-T4	MISC 172 176	wine
-T5	MISC 177 181	list
+T1	MISC 4 8	menu
+T2	MISC 19 27	portions
+T3	MISC 62 68	lentil
+T4	MISC 69 73	dish
+T5	MISC 105 112	basmati
+T6	MISC 113 117	rice
+T7	MISC 118 122	dish
+T8	MISC 130 136	flavor

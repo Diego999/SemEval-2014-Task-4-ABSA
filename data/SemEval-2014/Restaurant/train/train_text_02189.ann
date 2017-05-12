@@ -1,7 +1,4 @@
-T1	MISC 25 29	Food
-T2	MISC 106 113	cuisine
-T3	MISC 116 120	chef
-T4	MISC 138 145	kitchen
-T5	MISC 192 196	fish
-T6	MISC 197 203	dishes
-T7	MISC 208 213	soups
+T1	MISC 29 32	bar
+T2	MISC 52 59	sangria
+T3	MISC 87 90	bar
+T4	MISC 168 177	bartender

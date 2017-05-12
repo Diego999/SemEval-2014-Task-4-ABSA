@@ -1,2 +1,3 @@
-T1	MISC 63 70	traffic
-T2	MISC 71 76	noise
+T1	MISC 18 25	outdoor
+T2	MISC 26 33	seating
+T3	MISC 56 60	vibe

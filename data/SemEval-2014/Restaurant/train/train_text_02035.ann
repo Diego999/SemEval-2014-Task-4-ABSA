@@ -1,3 +1,11 @@
-T1	MISC 48 51	MSG
-T2	MISC 52 59	cooking
-T3	MISC 67 72	foods
+T1	MISC 4 9	plain
+T2	MISC 10 15	pizza
+T3	MISC 43 47	wild
+T4	MISC 48 62	mushroom(third
+T5	MISC 63 73	generation
+T6	MISC 74 75	-
+T7	MISC 76 83	Fornini
+T8	MISC 84 85	)
+T9	MISC 86 91	pizza
+T10	MISC 117 124	truffle
+T11	MISC 125 128	oil

@@ -1,10 +1,3 @@
-T1	MISC 0 4	Wine
-T2	MISC 5 9	list
-T3	MISC 10 19	selection
-T4	MISC 32 36	wine
-T5	MISC 37 38	-
-T6	MISC 39 41	by
-T7	MISC 42 43	-
-T8	MISC 44 47	the
-T9	MISC 48 49	-
-T10	MISC 50 55	glass
+T1	MISC 28 32	food
+T2	MISC 44 49	price
+T3	MISC 70 75	decor

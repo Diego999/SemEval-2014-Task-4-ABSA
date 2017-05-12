@@ -1,4 +1,11 @@
-T1	MISC 4 8	food
-T2	MISC 11 17	served
-T3	MISC 35 43	portions
-T4	MISC 84 88	dish
+T1	MISC 4 11	chicken
+T2	MISC 12 16	parm
+T3	MISC 43 49	tomato
+T4	MISC 50 55	sauce
+T5	MISC 66 71	pasta
+T6	MISC 80 87	chicken
+T7	MISC 88 92	with
+T8	MISC 93 103	portobello
+T9	MISC 104 113	mushrooms
+T10	MISC 142 149	chicken
+T11	MISC 164 169	sauce

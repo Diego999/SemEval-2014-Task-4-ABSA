@@ -1,1 +1,4 @@
-T1	MISC 30 34	wait
+T1	MISC 4 7	dim
+T2	MISC 8 11	sum
+T3	MISC 58 64	little
+T4	MISC 65 71	dishes

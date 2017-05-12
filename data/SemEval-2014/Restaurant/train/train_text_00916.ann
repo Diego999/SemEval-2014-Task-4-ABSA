@@ -1,2 +1,5 @@
-T1	MISC 24 31	private
-T2	MISC 32 36	room
+T1	MISC 9 14	table
+T2	MISC 25 31	dinner
+T3	MISC 32 38	plates
+T4	MISC 103 109	waiter
+T5	MISC 110 117	traffic
