@@ -25,6 +25,33 @@ def train_step(sess, dataset, sequence_number, model, transition_params_trained,
       model.input_label_indices_flat: dataset.label_indices['train'][sequence_number],
       model.dropout_keep_prob: 1-parameters['dropout_rate']
     }
+    # POS
+    if parameters['use_pos']:
+        pos_indices_sequence = dataset.pos_indices['train'][sequence_number]
+        for i, pos_index in enumerate(pos_indices_sequence):
+            if pos_index in dataset.infrequent_pos_indices and np.random.uniform() < 0.5:
+                pos_indices_sequence[i] = dataset.pos_to_index[dataset.UNK]
+        feed_dict[model.input_pos_indices] = pos_indices_sequence
+        feed_dict[model.input_pos_lengths] = dataset.pos_lengths['train'][sequence_number]
+
+    # NER
+    if parameters['use_ner']:
+        ner_indices_sequence = dataset.ner_indices['train'][sequence_number]
+        for i, ner_index in enumerate(ner_indices_sequence):
+            if ner_index in dataset.infrequent_ner_indices and np.random.uniform() < 0.5:
+                ner_indices_sequence[i] = dataset.ner_to_index[dataset.UNK]
+        feed_dict[model.input_ner_indices] = ner_indices_sequence
+        feed_dict[model.input_ner_lengths] = dataset.ner_lengths['train'][sequence_number]
+
+    # WN
+    if parameters['use_wn']:
+        wn_indices_sequence = dataset.wn_indices['train'][sequence_number]
+        for i, wn_index in enumerate(wn_indices_sequence):
+            if wn_index in dataset.infrequent_wn_indices and np.random.uniform() < 0.5:
+                wn_indices_sequence[i] = dataset.wn_to_index[dataset.UNK]
+        feed_dict[model.input_wn_indices] = wn_indices_sequence
+        feed_dict[model.input_wn_lengths] = dataset.wn_lengths['train'][sequence_number]
+
     _, _, loss, accuracy, transition_params_trained = sess.run(
                     [model.train_op, model.global_step, model.loss, model.accuracy, model.transition_parameters],
                     feed_dict)
@@ -49,6 +76,22 @@ def prediction_step(sess, dataset, dataset_type, model, transition_params_traine
           model.input_label_indices_vector: dataset.label_vector_indices[dataset_type][i],
           model.dropout_keep_prob: 1.
         }
+
+        # POS
+        if parameters['use_pos']:
+            feed_dict[model.input_pos_indices] = dataset.pos_indices[dataset_type][i]
+            feed_dict[model.input_pos_lengths] = dataset.pos_lengths[dataset_type][i]
+
+        # NER
+        if parameters['use_ner']:
+            feed_dict[model.input_ner_indices] = dataset.ner_indices[dataset_type][i]
+            feed_dict[model.input_ner_lengths] = dataset.ner_lengths[dataset_type][i]
+
+        # WN
+        if parameters['use_wn']:
+            feed_dict[model.input_wn_indices] = dataset.wn_indices[dataset_type][i]
+            feed_dict[model.input_wn_lengths] = dataset.wn_lengths[dataset_type][i]
+
         unary_scores, predictions = sess.run([model.unary_scores, model.predictions], feed_dict)
         if parameters['use_crf']:
             predictions, _ = tf.contrib.crf.viterbi_decode(unary_scores, transition_params_trained)

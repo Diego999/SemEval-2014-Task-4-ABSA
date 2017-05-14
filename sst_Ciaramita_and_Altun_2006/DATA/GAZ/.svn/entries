@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2202"
+   name=""
+   committed-date="2008-01-05T18:55:08.257605Z"
+   url="http://84.88.76.10/repos/external/sst-light/DATA/GAZ"
+   last-author="massi"
+   kind="dir"
+   uuid="e2809c56-3f23-0410-b8e2-9c6de6235f6a"
+   repos="http://84.88.76.10/repos/external"
+   revision="3427"/>
+<entry
+   committed-rev="1605"
+   name="ADJS.GAZ.gz"
+   text-time="2007-10-05T13:27:49.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="77c5d675f2f1e801d072cdea0e1a5a89"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="VERBS.GAZ.gz"
+   text-time="2007-10-05T13:28:17.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="76c780bf94c79271f2016505961f00a5"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="NOUNS.GAZ.gz"
+   text-time="2007-12-17T13:56:37.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="ab50c89f218437ad32957d2226ea339d"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="triggers.GAZ.gz"
+   text-time="2007-10-05T13:28:54.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="e48093238719556762fbfbe2ab8ab918"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="world.GAZ.gz"
+   text-time="2007-10-05T13:28:59.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="7f20d042050d7ca36878d8488c5f3169"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="countries_and_territories.GAZ.gz"
+   text-time="2007-10-05T13:28:29.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="e84a8a646a87d4dd8ba9b37630e61095"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="perlast.GAZ.gz"
+   text-time="2007-10-05T13:28:48.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="94dd8528debbe0a0324f085a964edcec"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="F500.GAZ.gz"
+   text-time="2007-10-05T13:28:35.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="230b4832d289144ee881dbad4519ed41"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="2202"
+   name="gazlistall_minussemcor"
+   text-time="2008-01-04T14:45:45.000000Z"
+   committed-date="2008-01-05T18:55:08.257605Z"
+   checksum="b927939849cb4cfba1a23fa65ef82051"
+   last-author="massi"
+   kind="file"
+   prop-time="2008-01-05T22:00:47.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="ADVS.GAZ.gz"
+   text-time="2007-10-05T13:27:52.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="7da9a6758d4ba2539888e12a517d09ae"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+<entry
+   committed-rev="1605"
+   name="perfirst.GAZ.gz"
+   text-time="2007-10-05T13:28:43.000000Z"
+   committed-date="2007-10-05T13:35:14.995984Z"
+   checksum="0ea4bfa338bb3b54c298930f079286cf"
+   last-author="massi"
+   kind="file"
+   prop-time="2007-10-05T13:30:50.000000Z"/>
+</wc-entries>

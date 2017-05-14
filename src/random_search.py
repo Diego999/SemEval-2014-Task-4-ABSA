@@ -9,14 +9,17 @@ def draw_val(array):
 file_exists = True
 
 while file_exists:
-    embedding_set = [('glove.6B.100d.txt', 100), ('santos.txt', 400), ('matteo.txt', 600)]
+    embedding_set = [('glove.6B.100d.txt', 100)]#, ('santos.txt', 400), ('matteo.txt', 600)]
     token_pretrained_embedding_filepath, token_embedding_dimension = draw_val(embedding_set)
 
-    type_review_set = ['Restaurant']#, 'Laptop']
+    type_review_set = ['Restaurant', 'Laptop']
     type_review = draw_val(type_review_set)
 
     char_emb_dim = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
     character_embedding_dimension = draw_val(char_emb_dim)
+    pos_embedding_dimension = draw_val(char_emb_dim)
+    ner_embedding_dimension = draw_val(char_emb_dim)
+    wn_embedding_dimension = draw_val(char_emb_dim)
 
     char_hidden_dim = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 125, 150, 175, 200, 225, 250, 275, 300, 325, 350, 375, 400]
     character_lstm_hidden_state_dimension = draw_val(char_hidden_dim)
@@ -30,10 +33,10 @@ while file_exists:
     learning_rate_set = [0.0001, 0.00025, 0.0005, 0.00075, 0.001, 0.0025, 0.005]
     learning_rate = draw_val(learning_rate_set)
 
-    dropout_rate_set = [0.5, 0.6, 0.7]
+    dropout_rate_set = [0.5, 0.6, 0.7, 0.8]
     dropout_rate = draw_val(dropout_rate_set)
 
-    parameters = [token_pretrained_embedding_filepath, token_embedding_dimension, type_review, character_embedding_dimension, character_lstm_hidden_state_dimension, token_lstm_hidden_state_dimension, learning_rate, dropout_rate]
+    parameters = [token_pretrained_embedding_filepath, token_embedding_dimension, type_review, character_embedding_dimension, pos_embedding_dimension, ner_embedding_dimension, wn_embedding_dimension, character_lstm_hidden_state_dimension, token_lstm_hidden_state_dimension, learning_rate, dropout_rate]
     filename = 'parameters_' + '_'.join([str(x) for x in parameters]) + '.ini'
     file_exists = os.path.isfile(filename)
 
@@ -78,6 +81,12 @@ with open(filename, 'w', encoding='utf-8') as fp:
     fp.write("[ann]\n")
     fp.write("use_character_lstm = True\n")
     fp.write("character_embedding_dimension = " + str(character_embedding_dimension) + "\n")
+    fp.write("use_pos = True\n")
+    fp.write("pos_embedding_dimension = " + str(pos_embedding_dimension) + "\n")
+    fp.write("use_ner = True\n")
+    fp.write("ner_embedding_dimension = " + str(ner_embedding_dimension) + "\n")
+    fp.write("use_wn = True\n")
+    fp.write("wn_embedding_dimension = " + str(wn_embedding_dimension) + "\n")
     fp.write("character_lstm_hidden_state_dimension = " + str(character_lstm_hidden_state_dimension) + "\n")
     fp.write("\n")
     fp.write("# In order to use random initialization instead, set token_pretrained_embedding_filepath to empty string, as below:\n")
@@ -131,6 +140,9 @@ with open(filename, 'w', encoding='utf-8') as fp:
     fp.write("\n")
     fp.write("# If remap_unknown_tokens is set to True, map to UNK any token that hasn't been seen in neither the training set nor the pre-trained token embeddings.\n")
     fp.write("remap_unknown_tokens_to_unk = True\n")
+    fp.write("remap_unknown_pos_to_unk = True\n")
+    fp.write("remap_unknown_ner_to_unk = True\n")
+    fp.write("remap_unknown_wn_to_unk = True\n")
     fp.write("\n")
     fp.write("# If load_only_pretrained_token_embeddings is set to True, then token embeddings will only be loaded if it exists in token_pretrained_embedding_filepath \n")
     fp.write("# or in pretrained_model_checkpoint_filepath, even for the training set.\n")
@@ -149,6 +161,9 @@ with open(filename, 'w', encoding='utf-8') as fp:
     fp.write("\n")
     fp.write("# If freeze_token_embeddings is set to True, token embedding will remain frozen (not be trained).\n")
     fp.write("freeze_token_embeddings = False\n")
+    fp.write("freeze_pos_embeddings = False\n")
+    fp.write("freeze_ner_embeddings = False\n")
+    fp.write("freeze_wn_embeddings = False\n")
     fp.write("\n")
     fp.write("# If debug is set to True, only 200 lines will be loaded for each split of the dataset.\n")
     fp.write("debug = False\n")

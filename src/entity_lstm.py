@@ -64,10 +64,28 @@ class EntityLSTM(object):
 
         # Placeholders for input, output and dropout
         self.input_token_indices = tf.placeholder(tf.int32, [None], name="input_token_indices")
+        # POS
+        if parameters['use_pos']:
+            self.input_pos_indices = tf.placeholder(tf.int32, [None], name="input_pos_indices")
+        # NER
+        if parameters['use_ner']:
+            self.input_ner_indices = tf.placeholder(tf.int32, [None], name="input_ner_indices")
+        # WN
+        if parameters['use_wn']:
+            self.input_wn_indices = tf.placeholder(tf.int32, [None], name="input_wn_indices")
         self.input_label_indices_vector = tf.placeholder(tf.float32, [None, dataset.number_of_classes], name="input_label_indices_vector")
         self.input_label_indices_flat = tf.placeholder(tf.int32, [None], name="input_label_indices_flat")
         self.input_token_character_indices = tf.placeholder(tf.int32, [None, None], name="input_token_indices")
         self.input_token_lengths = tf.placeholder(tf.int32, [None], name="input_token_lengths")
+        # POS
+        if parameters['use_pos']:
+            self.input_pos_lengths = tf.placeholder(tf.int32, [None], name="input_pos_lengths")
+        # NER
+        if parameters['use_ner']:
+            self.input_ner_lengths = tf.placeholder(tf.int32, [None], name="input_ner_lengths")
+        # WN
+        if parameters['use_wn']:
+            self.input_wn_lengths = tf.placeholder(tf.int32, [None], name="input_wn_lengths")
         self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
 
         # Internal parameters
@@ -104,11 +122,54 @@ class EntityLSTM(object):
             embedded_tokens = tf.nn.embedding_lookup(self.token_embedding_weights, self.input_token_indices)
             utils_tf.variable_summaries(self.token_embedding_weights)
 
+        # POS embedding layer
+        if parameters['use_pos']:
+            with tf.variable_scope("pos_embedding"):
+                self.pos_embedding_weights = tf.get_variable(
+                    "pos_embedding_weights",
+                    shape=[dataset.pos_size, parameters['pos_embedding_dimension']],
+                    initializer=initializer,
+                    trainable=not parameters['freeze_pos_embeddings'])
+                embedded_poss = tf.nn.embedding_lookup(self.pos_embedding_weights, self.input_pos_indices)
+                utils_tf.variable_summaries(self.pos_embedding_weights)
+
+        # NER embedding layer
+        if parameters['use_ner']:
+            with tf.variable_scope("ner_embedding"):
+                self.ner_embedding_weights = tf.get_variable(
+                    "ner_embedding_weights",
+                    shape=[dataset.ner_size, parameters['ner_embedding_dimension']],
+                    initializer=initializer,
+                    trainable=not parameters['freeze_ner_embeddings'])
+                embedded_ners = tf.nn.embedding_lookup(self.ner_embedding_weights, self.input_ner_indices)
+                utils_tf.variable_summaries(self.ner_embedding_weights)
+
+        # WN embedding layer
+        if parameters['use_wn']:
+            with tf.variable_scope("wn_embedding"):
+                self.wn_embedding_weights = tf.get_variable(
+                    "wn_embedding_weights",
+                    shape=[dataset.wn_size, parameters['wn_embedding_dimension']],
+                    initializer=initializer,
+                    trainable=not parameters['freeze_wn_embeddings'])
+                embedded_wns = tf.nn.embedding_lookup(self.wn_embedding_weights, self.input_wn_indices)
+                utils_tf.variable_summaries(self.wn_embedding_weights)
+
         # Concatenate character LSTM outputs and token embeddings
         if parameters['use_character_lstm']:
             with tf.variable_scope("concatenate_token_and_character_vectors"):
                 if self.verbose: print('embedded_tokens: {0}'.format(embedded_tokens))
-                token_lstm_input = tf.concat([character_lstm_output, embedded_tokens], axis=1, name='token_lstm_input')
+                temp = []
+                # POS
+                if parameters['use_pos']:
+                    temp.append(embedded_poss)
+                # NER
+                if parameters['use_ner']:
+                    temp.append(embedded_ners)
+                # WN
+                if parameters['use_wn']:
+                    temp.append(embedded_wns)
+                token_lstm_input = tf.concat([character_lstm_output, embedded_tokens] + temp, axis=1, name='token_lstm_input')
                 if self.verbose: print("token_lstm_input: {0}".format(token_lstm_input))
         else:
             token_lstm_input = embedded_tokens

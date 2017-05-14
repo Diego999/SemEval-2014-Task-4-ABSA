@@ -1,0 +1,344 @@
+sst-light: HMM sequence tagger based on regularized perceptron
+Copyright 2006 Massimiliano Ciaramita (massi@alumni.brown.edu),
+Yasemin Altun (altun@tti-c.org) 
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-------------------------------
+
+OVERVIEW:
+-------------
+sst-light is a simplified version of the SST tagger. It implements a
+discriminative (first-order) HMM taggers trained with the average
+perceptron introduced by Collins (2002). More details about the tagger
+can be found in (Ciaramita & Altun, 2006).
+
+The tagger can be used as a (BIO-encoded) named entity
+tagger, it can also be used as a POS tagger, and to provide both POS
+and BIO annotations. The tagger is trainable and a few
+functionalities are implemented for evaluation purposes, including the
+possibility of using user-defined features.
+
+GENERIC OPTIONS:
+----------------------
+2nd-order \in {0,1} - if true all pairwise feature combinations are generated 
+	  (as in polynomial kernels of degree 2), this options works
+	  only with models which have been trained accordingly. In
+	  general, this can produce slightly better accuracy (not necessarily)
+	  at a high cost in terms of speed and memory.
+
+lowercase \in {0,1} - if true case is ignored in all word features
+
+mode \in {BIO,POS} - depending if the task is PoS tagging or semantic
+     bracketing (NER, supersenses etc.)
+
+gazfile: the name of a file (e.g., see
+	 "DATA/GAZ/gazlistall_minussemcor") which contains a list of
+	 gazetteer files (e.g., see the *.GAZ files in DATA/GAZ). Each
+	 gazetteer file contains in the first column a string, e.g.,
+	 "Puerto_Rico", together with \tab-prefixed attributes
+	 associated with this string, e.g. "COUNTRY2", meaning a
+	 country name 2 words long. Gazetteers are used to generate
+	 useful features for NER and supersense tagging (e.g., the
+	 Wordnet first-sense predictions).
+
+tagsetname: the name of a file containing all classes in a given task
+	    (e.g., see the *.TAGSET files in ./DATA).  A tagset must
+	    contains all possible categories in a task, one per line
+	    starting with 0 (zero) followed by all other categories
+	    (first the B-TAG, then in the following line the
+	    I-TAG).
+
+istaggedfile \in {0,1} - if true the file contains also the
+	     gold-standard tags for each token
+
+real \in {0,1} - if files are formatted with real-valued features
+     (FVR) real = 1, real = 0 otherwise
+
+wordweight \in R: ration between word features contribution and
+	   transition (label-to-label) contribution, normally set to
+	   1.0
+
+thetafile (work in progress): please ignore just use an arbitrary
+	  string (e.g., NULL)
+
+MAIN TAGGERS FUNCTIONS:
+----------------------
+Usage:
+        1)  sst multitag rowdata 2nd-order lowercase gazfile model_pos tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N
+        2)  sst multitag-line rowdata 2nd-order lowercase gazfile model_pos tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N
+        3)  sst basic-feats filename istaggedfile mode gazfile lowercase
+        4)  sst split filename
+        5)  sst eval traindata testdata tagsetname secondorder number_of_epochs crossval_trials mode real wordweight thetafile
+        6)  sst train modelname traindata tagsetname secondorder number_of_epochs mode
+        7)  sst tag modelname target_data tagsetname secondorder mode
+        8)  sst postag modelname tagsetname targetname secondorder lowercase
+        9)  sst bitag modelname_pos tagsetname_pos modelname_bio	tagsetname_bio target_data secondorder lowercase
+        10) sst bi-to-pos file.bi
+        11) sst pos-to-w file.pos
+----------------------
+
+
+1) multitag: sst multitag rowdata 2nd-order lowercase gazfile model_pos
+   tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N 
+
+This functions takes a raw text file (i.e., no preprocessing), the
+file "rowdata", it splits the text into sentences, carries out
+tokenization, PoS tagging with "model_pos", and semantic tagging with
+models "model_bio_1" to "model_bio_N".
+
+Example: preprocess (sentence split, tokenize), PoS tag, NER (WSJ-BBN)
+and supersense tag the file "news.txt" in ./DATA
+
+sst multitag ./DATA/news.txt 0 0 DATA/GAZ/gazlistall_minussemcor
+./MODELS/WSJPOSc_base_20 DATA/WSJPOSc.TAGSET ./MODELS/SEM07_base_12
+./DATA/WNSS_07.TAGSET ./MODELS/WSJc_base_20 ./DATA/WSJ.TAGSET >
+./DATA/news.tags
+
+The output is in "./DATA/news.tags"
+
+2) multitag-line: sst multitag-line rowdata 2nd-order lowercase gazfile model_pos
+   tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N
+
+Similar to (1), but without sentence splitting, each line is treated
+as a sentence.
+
+
+3) basic-feats: sst basic-feats filename istaggedfile mode gazfile
+   lowercase
+   basic-feats takes as input "filename" (W, WP or WPT format) and
+   generates a features file (FV) to std:out
+Example: generate a feature file for the SEM_07 dataset:
+
+sst basic-feats ./DATA/SEM_07.BI 1 BIO DATA/GAZ/gazlistall_minussemcor 0 > ./DATA/SEM_07.BI_base 
+
+4) split: sst split filename
+splits a file in three subsets for training (4/5) development (1/10)
+and test (1/10).
+
+Example: split the semcor data (SEM_07.BI) file in three sets for
+evaluation purposes:
+sst split ./DATA/SEM_07.BI_base
+
+5) eval: sst eval traindata testdata tagsetname secondorder
+   number_of_epochs crossval_trials mode real wordweight thetafile 
+
+"eval" trains a model on file "traindata" (FV or FVR format), and
+evaluates the model on "testdata" (FV or FVR), it trains the model for
+"number_of_epochs" times, and repeats (randomizing the order of
+presentation) for "crossval_trials" times. At the end it prints out a
+file with aggregate/class-itemized results.
+
+Example: evaluate a model on the supersense tagging problem:
+sst eval ./DATA/SEM_07.BI_base_trn ./DATA/SEM_07.BI_base_dev ./DATA/WNSS_07.TAGSET 0 20 3 BIO 0 1.0 NULL
+
+
+6) train: sst train modelname traindata tagsetname secondorder
+   number_of_epochs mode
+"train" trains a model called "modelname" on the file in traindata
+   (FV/FVR format) using "number_of_epochs" iterations (e.g., estimated
+   ion development with "eval").
+
+Example:
+sst train MY_MODEL_NAME ./DATA/SEM_07.BI_base ./DATA/WNSS_07.TAGSET 0 20 BIO 
+
+after training two model files are saved in./ MODELS.
+
+
+7) tag: sst tag modelname target_data tagsetname secondorder mode
+
+"tag" tags a (FV/FVR) file with the model "modelname", the difference
+between this and the multitag functions is that "tag" presupposes
+preformatted files with features already extracted.
+
+
+8) postag: sst postag modelname tagsetname targetname secondorder lowercase
+This is a basic POS tagger, the function "postag" takes as input:
+- modelname = the name of a pre-trained POS-tagging "model" (the model
+needs to be in the MODELS directory) 
+- tagsetname = the name of the POS tagset
+- targetname =  the name of the file to be tagged with the format W
+
+Example:
+sst postag ./MODELS/WSJPOSc_base_20 ./DATA/WSJPOSc.TAGSET ./DATA/SEM_07.W 0 0
+ 
+The output is printed in a file called "targetname".pos with format WP
+
+
+9) bitag: sst bitag modelname_pos tagsetname_pos modelname_bio
+   tagsetname_bio target_data secondorder lowercase
+Similar to postag, with an additional BIO tagger.
+Example:
+sst bitag ./MODELS/WSJPOSc_base_20 ./DATA/WSJPOSc.TAGSET
+   ./MODELS/CONLL03_base_15 ./DATA/CONLL03.TAGSET ./DATA/SEM_07.W 0 0 
+
+        
+10) bi-to-pos: sst bi-to-pos file.bi
+takes out the tags from a BI file
+
+11) pos-to-w: sst pos-to-w file.pos
+takes out PoS tags from a POS file
+
+
+FILE FORMATS
+-------------
+
+Each input/output files contains a sequence of sentences, one per
+line, starting with an ID for the sentence (which could represent, for
+example, an identifier for the source document, etc.):
+
+S-1 ...
+S-2 ...
+
+
+Simple word format (W):
+---------------------------
+Following the ID a list of \tab prefixed tokens is expected. In the
+simplest case, for example in the case of a file to be POS-tagged, each
+token is simply a word:
+
+S-1	The	spot	was	scheduled	to	appear	three	times	on	CNN	last	night	.
+
+
+Word-POS format (WP):
+---------------------------
+The format of POS-tagged file is the same as above, in addition each
+word is followed by a \space-separated POS tag:
+
+S-1	The DT	spot NN	was VBD	scheduled VBN	to TO	appear VB	three CD	times NNS	on IN	CNN NNP	last JJ	night NN	. .
+
+This is also the format of the output of the POS tagger in function (2).
+
+Word-POS-Tag format (WPT):
+---------------------------
+The format of a file with semantic tags is the same as a POS-tagged
+file, in addition each POS tag is followed by a \space-separated
+semantic tag:
+
+S-1	The DT 0	spot NN 0	was VBD 0	scheduled VBN 0	to TO 0	appear VB 0	three CD 0	times NNS 0	on IN 0	CNN NNP B-ORG	last JJ 0	night NN 0	. . 0
+
+This is also the format of the output of the function (3).
+
+Feature-vector format (FV):
+---------------------------
+This format can be used to experiment with customized features, which
+are not handled/extracted by the tagger, which only extracts simple
+collocations and morphology/spelling features.
+In this format each token is directly represented as binary feature
+vector, each feature vector is prefixed with a \tab and feature
+vector's elements are \space-separated. As an example the following is
+sentence of the previous example represented in this format as a sequence of
+feature vectors (the basic features used internally by the tagger):
+
+
+S-1	KF rp=begin pos+1=NN w+1=spot sh+1=x sb+1=ot w=the Pos=DT sh=Xx pr=th pr3= sb=he sb3=	KF rp=mid pos-1=DT w-1=the sh-1=Xx sb-1=he pos+1=VBD w+1=was sh+1=x sb+1=as w=spot pos=NN sh=x pr=sp pr3=spo sb=ot sb3=pot	KF rp=mid pos-1=NN w-1=spot sh-1=x sb-1=ot pos+1=VBN w+1=scheduled sh+1=x sb+1=ed w=was pos=VBD sh=x pr=wa pr3= sb=as sb3=	KF rp=mid pos-1=VBD w-1=was sh-1=x sb-1=as pos+1=TO w+1=to sh+1=x sb+1= w=scheduled pos=VBN sh=x pr=sc pr3=sch sb=ed sb3=led	KF rp=mid pos-1=VBN w-1=scheduled sh-1=x sb-1=ed pos+1=VB w+1=appear sh+1=x sb+1=ar w=to pos=TO sh=x pr= pr3= sb= sb3=	KF rp=mid pos-1=TO w-1=to sh-1=x sb-1= pos+1=CD w+1=three sh+1=x sb+1=ee w=appear pos=VB sh=x pr=ap pr3=app sb=ar sb3=ear	KF rp=mid pos-1=VB w-1=appear sh-1=x sb-1=ar pos+1=NNS w+1=times sh+1=x sb+1=es w=three pos=CD sh=x pr=th pr3=thr sb=ee sb3=ree	KF rp=mid pos-1=CD w-1=three sh-1=x sb-1=ee pos+1=IN w+1=on sh+1=x sb+1= w=times pos=NNS sh=x pr=ti pr3=tim sb=es sb3=mes	KF rp=mid pos-1=NNS w-1=times sh-1=x sb-1=es pos+1=NNP w+1=cnn sh+1=X sb+1=nn w=on pos=IN sh=x pr= pr3= sb= sb3=	KF rp=mid pos-1=IN w-1=on sh-1=x sb-1= pos+1=JJ w+1=last sh+1=x sb+1=st w=cnn pos=NNP sh=X pr=cn pr3= sb=nn sb3=	KF rp=mid pos-1=NNP w-1=cnn sh-1=X sb-1=nn pos+1=NN w+1=night sh+1=x sb+1=ht w=last pos=JJ sh=x pr=la pr3=las sb=st sb3=ast	KF rp=mid pos-1=JJ w-1=last sh-1=x sb-1=st pos+1=. w+1=. sh+1=. sb+1= w=night pos=NN sh=x pr=ni pr3=nig sb=ht sb3=ght	KF rp=end pos-1=NN w-1=night sh-1=x sb-1=ht w=. pos=. sh=. pr= pr3= sb= sb3=
+
+If the file is labeled (islabeled parameter), the last element of each
+feature vector will be interpreted as the label for that token); e.g.,
+
+S-1	KF rp=begin pos+1=NN w+1=spot sh+1=x sb+1=ot w=the pos=DT sh=Xx pr=th pr3= sb=he sb3= DT ...
+
+where DT is interpreted as the label for the first token.
+
+
+Real-valued feature-vector format (FVR):
+---------------------------
+Same as FV, but features instead of being simple strings, e.g.,
+"w=the", are associated with a real value specified after a colon;
+e.g., "w=the:1.0".
+
+
+
+TAGSET files
+---------------------------
+The tagset file contains a list (column) of all tags in the dataset,
+starting from 0 (zero) and following pairs of B-X and I-X tags, in the
+case of BIO tagging, or arbitrarily ordered in the case of POS
+tagging.
+
+Examples: see the *.TAGSET files in the DATA directory.
+
+
+FEATURES
+------------
+The basic features include:
+
+- word = lower-cased form of each token for the current position i and
+  in addition for i-1 and i+1
+- sh = shape of the token as a simple regular expression-like
+  representation 
+- pos = POS of i, i-1 and i+1
+- sb = bi- and tri-grams of characters of the suffix of word_i
+- pr = bi- and tri-grams of characters of the prefix of word_i
+- rp = coarse relative position of word_i, rp=begin if i = 0, rp=end
+  if i = |sentence|-1, sb=mid otherwise
+- kf = constant features on each token for regularization purposes
+
+
+PRETRAINED MODELS:
+-------------
+The following are the pre-trained models available:
+- SEM07_base_12 = trained on the semcor data (SEM_07.BI), 2 iterations
+- CONLL03_base_15 = trained on the CoNLL (2003) English named entity
+  extraction dataset (15 iterations)
+- WSJPOSc_base_20 = POS tagger trained on Wall Street Journal (Marcus et
+al., 1993) sections 2-21, 20 iterations (-LRB- etc. have been changed
+to ")")
+- WSJc_base_20 = named entity tagger trained on (WSJ) BBN Entity
+Corpus sections 2-21.
+
+
+REFERENCES:
+-------------
+
+M. Collins. "Discriminative Training Methods for Hidden Markov
+Models: Theory and Experiments with Perceptron Algorithms." In
+Proceedings of EMNLP 2002.
+
+M. Ciaramita and Y. Altun. "Broad-Coverage Sense Disambiguation and
+Information Extraction with a Supersense Sequence Tagger." In
+Proceedings of EMNLP 2006.  
+
+CoNLL 2003 Shared task on named entity recognition:
+http://www.cnts.ua.ac.be/conll2003/ 
+
+NIST ACE 2007 Workshop on Automatic Content Extraction:
+http://www.nist.gov/speech/tests/ace/ace07/index.htm 
+
+M. Marcus, B. Santorini and M. Marcinkiewicz. 1993. Building a Large
+Annotated Corpus of English: The Penn Treebank. Computational
+Linguistics, 19(2): pp. 313-330. 
+
+
+
+1) sst tag modelname target_data tagsetname secondorder mode
+
+tags "target_data" (FV format) using "modelname"/"tagsetname" using first/second order in mode BIO/POS
+
+  string usage2 = "\n\t2)\tsst postag modelname tagsetname targetname secondorder lowercase";
+  string usage3 = "\n\t3)\tsst bitag modelname_pos tagsetname_pos modelname_bio tagsetname_bio target_data secondorder lowercase";
+  string usage4 = "\n\t4)\tsst train modelname traindata tagsetname secondorder number_of_epochs mode";
+  string usage5 = "\n\t5)\tsst eval traindata testdata tagsetname secondorder number_of_epochs crossval_trials mode real wordweight thetafile";
+  string usage6 = "\n\t6)\tsst basic-feats filename istaggedfile mode gazfile lowercase";
+  string usage7 = "\n\t7)\tsst split filename";
+  string usage8 = "\n\t8)\tsst multitag rowdata 2nd-order lowercase gazfile model_pos tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N";
+  string usage9 = "\n\t9)\tsst basic-feats-R filename unlab-fname istaggedfile mode secondorder gazfile lowercase";
+  string usage10= "\n\t10)\tsst fragment featurefile bio_file nostoplist";
+  string usage11= "\n\t11)\tsst estimate-diff source target gazetteers";
+  string usage12= "\n\t12)\tsst fragment-data feature-file bi-file nostop-list";
+  string usage13= "\n\t13)\tsst bi-to-pos file.bi";
+  string usage14= "\n\t14)\tsst pos-to-w file.pos";
+  string usage15= "\n\t15)\tsst multitag-line rowdata 2nd-order lowercase gazfile model_pos tagset_pos model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N";
+  string usage16= "\n\t16)\tsst split-by-entity filename-bi";
+  string usage17= "\n\t17)\tsst split-rank filename-bi filename-tags";
+  string usage18= "\n\t18)\tsst multitag-tab flist dirname 2nd-order lowercase gazfile model_bio_1 tagset_bio_1 .. model_bio_N tagset_bio_N\n";
+  string usagereadme = "For more information see the README file\n\n";

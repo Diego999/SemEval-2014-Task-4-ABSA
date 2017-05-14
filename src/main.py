@@ -40,7 +40,6 @@ print('TensorFlow version: {0}'.format(tf.__version__))
 import warnings
 warnings.filterwarnings('ignore')
 
-
 def load_parameters(parameters_filepath=os.path.join('.','parameters.ini'), verbose=True):
     '''
     Load parameters from the ini file, and ensure that each parameter is cast to the correct type
@@ -57,12 +56,12 @@ def load_parameters(parameters_filepath=os.path.join('.','parameters.ini'), verb
             v = random.choice(v.split(','))
             parameters[k] = v
         # Ensure that each parameter is cast to the correct type
-        if k in ['character_embedding_dimension','character_lstm_hidden_state_dimension','token_embedding_dimension',
+        if k in ['pos_embedding_dimension', 'ner_embedding_dimension', 'wn_embedding_dimension', 'character_embedding_dimension','character_lstm_hidden_state_dimension','token_embedding_dimension',
                  'token_lstm_hidden_state_dimension','patience','maximum_number_of_epochs','maximum_training_time','number_of_cpu_threads','number_of_gpus']:
             parameters[k] = int(v)
         elif k in ['dropout_rate', 'learning_rate', 'gradient_clipping_value']:
             parameters[k] = float(v)
-        elif k in ['evaluate_aspect', 'remap_unknown_tokens_to_unk', 'use_character_lstm', 'use_crf', 'train_model', 'use_pretrained_model', 'debug', 'verbose',
+        elif k in ['use_pos', 'use_ner', 'use_wn', 'evaluate_aspect', 'remap_unknown_tokens_to_unk', 'remap_unknown_pos_to_unk', 'remap_unknown_ner_to_unk', 'remap_unknown_wn_to_unk', 'use_character_lstm', 'use_crf', 'train_model', 'use_pretrained_model', 'debug', 'verbose',
                  'reload_character_embeddings', 'reload_character_lstm', 'reload_token_embeddings', 'reload_token_lstm', 'reload_feedforward', 'reload_crf',
                  'check_for_lowercase', 'check_for_digits_replaced_with_zeros', 'freeze_token_embeddings', 'load_only_pretrained_token_embeddings']:
             parameters[k] = distutils.util.strtobool(v)
