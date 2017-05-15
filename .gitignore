@@ -7,12 +7,5 @@
 output/*
 data/word_vectors/*
 
-.idea/misc.xml
+.idea/*
 
-.idea/modules.xml
-
-.idea/SemEval-2014-Task-4-ABSA.iml
-
-.idea/vcs.xml
-
-.idea/workspace.xml
