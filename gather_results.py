@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import sys
+import glob
 
 no_final = len(sys.argv) > 1
 
@@ -40,13 +41,25 @@ for d in dirs:
                     type_set = f.split('_')[1].split('.')[0]
                     with open(join(path_dir, f), 'r', encoding='utf-8') as fp:
                         lines = fp.readlines()
-                        prec, rec, f1 = lines[-1].rstrip().split(';')
-                        prec, rec = [float(t.split(' ')[-1][:-1]) for t in [prec, rec]]
-                        f1 = float(f1.split(':')[1].lstrip().split(' ')[0])
-                        final_res[type_dataset][type_set].append((str(int(epoch)), str(prec), str(rec), str(f1)))
+                        try:
+                            prec, rec, f1 = lines[-1].rstrip().split(';')
+                            prec, rec = [float(t.split(' ')[-1][:-1]) for t in [prec, rec]]
+                            f1 = float(f1.split(':')[1].lstrip().split(' ')[0])
+                            param = glob.glob(join(path_dir, 'model') + '/' + '*.ini')[0]
+                            param = param[param.rfind('parameters') + len('parameters') + 1:]
+                            if param == 'ini':
+                                param = 'default'
+                            param = param.ljust(75, ' ')
+                            final_res[type_dataset][type_set].append((path_dir[path_dir.rfind('/')+1:].ljust(40, ' '), param, str(int(epoch)), str(prec), str(rec), str(f1)))
+                        except:
+                            pass
 
-for d, t in final_res.items():
+for d, t in sorted(final_res.items(), key=lambda x:x[0]):
+    temp = []
     for i in range(len(final_res[d]['train'])):
-        print('\t'.join([d, final_res[d]['train'][i][0], final_res[d]['train'][i][-1], final_res[d]['valid'][i][-1], final_res[d]['test'][i][-1]]))
+        temp.append([final_res[d]['train'][i][0], final_res[d]['train'][i][2], final_res[d]['train'][i][-1], final_res[d]['valid'][i][-1], final_res[d]['test'][i][-1], final_res[d]['train'][i][1]])
+
+    for t in sorted(temp, key=lambda x:float(x[-2]), reverse=True):
+        print('\t\t'.join(t))
 
 
